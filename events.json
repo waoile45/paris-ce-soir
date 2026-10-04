@@ -1,6 +1,6 @@
 {
  "meta": {
-  "genereLe": "2026-10-04T20:44:47+00:00",
+  "genereLe": "2026-10-04T21:03:35+00:00",
   "horizonJours": 21,
   "budgets": {
    "solo": 20,
@@ -714,7 +714,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/l-exposition-permanente-du-musee-banksy-sur-le-plus-mysterieux-des-graffeurs-51551",
    "image": "https://cdn.paris.fr/qfapv4/2023/12/27/huge-3b2e0d4ea892fc01ffc0647a068cf998.jpg",
    "source": "Que Faire à Paris",
@@ -771,7 +771,7 @@
     "solo",
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/exposition-mission-spatiale-a-la-cite-des-sciences-48697",
    "image": "https://cdn.paris.fr/qfapv4/2023/10/24/huge-a3ca496a77da267f22aed39f711f7873.png",
    "source": "Que Faire à Paris",
@@ -918,7 +918,7 @@
     "solo",
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/le-monde-de-noe-la-premiere-experience-immersive-avec-des-animaux-49287",
    "image": "https://cdn.paris.fr/qfapv4/2023/11/08/huge-5aeb39d6dbe1a8190b40fb4528d833a2.jpg",
    "source": "Que Faire à Paris",
@@ -976,7 +976,7 @@
    "profils": [
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/le-milieu-des-choses-une-oeuvre-de-javier-carro-temboury-pour-black-swan-real-estate-capital-67362",
    "image": "https://cdn.paris.fr/qfapv4/2024/08/26/huge-2c461180bc31a7bc1344b73ff5c270a8.jpg",
    "source": "Que Faire à Paris",
@@ -1035,7 +1035,7 @@
    "profils": [
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/the-live-thriller-l-experience-d-une-enquete-criminelle-41151",
    "image": "https://cdn.paris.fr/qfapv4/2023/08/03/huge-6b9373e48b927fede00c1a2cab51b6e7.jpg",
    "source": "Que Faire à Paris",
@@ -1095,7 +1095,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/un-cocktail-magique-avec-maxence-vire-2024-2025-67052",
    "image": "https://cdn.paris.fr/qfapv4/2026/03/02/huge-babbf9080fb268730cfbb6b716129299.jpg",
    "source": "Que Faire à Paris",
@@ -1124,7 +1124,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/les-reserves-du-mobilier-national-visite-exclusive-66708",
    "image": "https://cdn.paris.fr/qfapv4/2024/08/06/huge-0bd6b0efa1d40561696a97811bc408c0.jpg",
    "source": "Que Faire à Paris",
@@ -1154,7 +1154,7 @@
     "solo",
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/paris-street-art-a-la-butte-aux-cailles-66789",
    "image": "https://cdn.paris.fr/qfapv4/2024/08/08/huge-5af7545ed318ae85aeb931c32f050d40.jpg",
    "source": "Que Faire à Paris",
@@ -1184,7 +1184,7 @@
     "solo",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/le-prisonnier-de-la-bastille-66829",
    "image": "https://cdn.paris.fr/qfapv4/2024/08/09/huge-c2a1a2cf46d26a8af3c4a440051c2967.jpg",
    "source": "Que Faire à Paris",
@@ -1214,7 +1214,7 @@
     "solo",
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/paris-cote-obscur-66818",
    "image": "https://cdn.paris.fr/qfapv4/2024/08/09/huge-83a26e332d3834398c90eb1edc404691.jpg",
    "source": "Que Faire à Paris",
@@ -1245,7 +1245,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/le-cambrioleur-de-la-butte-montmartre-66827",
    "image": "https://cdn.paris.fr/qfapv4/2024/08/09/huge-677064038bc48ffa6e8f0ab2f8c75a5d.jpg",
    "source": "Que Faire à Paris",
@@ -1275,7 +1275,7 @@
     "solo",
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/les-francs-macons-mythes-et-revelations-sur-une-societe-secrete-66792",
    "image": "https://cdn.paris.fr/qfapv4/2024/08/08/huge-30a2cec4687ac49a3abcda622d58b073.jpg",
    "source": "Que Faire à Paris",
@@ -1305,7 +1305,7 @@
     "solo",
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/les-coulisses-des-ateliers-des-gobelins-66697",
    "image": "https://cdn.paris.fr/qfapv4/2024/08/05/huge-ba68ae1c90de448f33c741ec858918d4.jpg",
    "source": "Que Faire à Paris",
@@ -1335,7 +1335,7 @@
     "solo",
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/balade-au-coeur-des-passages-couverts-66785",
    "image": "https://cdn.paris.fr/qfapv4/2024/08/08/huge-f38f10a83f42bac8e1614ad8f57ee26f.jpg",
    "source": "Que Faire à Paris",
@@ -1365,7 +1365,7 @@
     "solo",
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/les-coulisses-du-stade-roland-garros-66695",
    "image": "https://cdn.paris.fr/qfapv4/2024/08/05/huge-a33455995aae764b4149f08f72b37712.jpg",
    "source": "Que Faire à Paris",
@@ -1454,7 +1454,7 @@
    "profils": [
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-13e-arrondissement-de-paris-79220",
    "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-0838a9a7d3bcec975475850bd5668e95.png",
    "source": "Que Faire à Paris",
@@ -1483,7 +1483,7 @@
    "profils": [
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-7e-arrondissement-de-paris-79218",
    "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-f12e85cbf45b0bdd21ba4315b5c44a3f.png",
    "source": "Que Faire à Paris",
@@ -1512,7 +1512,7 @@
    "profils": [
     "solo"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/la-culture-a-pleines-mains-79834",
    "image": "https://cdn.paris.fr/qfapv4/2025/02/04/huge-bf8a4b90ed22a2f53c44c9d9ed2d180f.jpeg",
    "source": "Que Faire à Paris",
@@ -1541,7 +1541,7 @@
    "profils": [
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-16e-arrondissement-de-paris-79219",
    "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-6ea6d75afbe80ee62c5a6b3692deb703.png",
    "source": "Que Faire à Paris",
@@ -1570,7 +1570,7 @@
    "profils": [
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-14e-arrondissement-de-paris-79217",
    "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-7cd3ddd4f6159ad4126b8e5734f6d21f.png",
    "source": "Que Faire à Paris",
@@ -1599,7 +1599,7 @@
    "profils": [
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-l-arrondissement-centre-de-paris-79222",
    "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-8c8ec4c7f61b19a2889bab2e69427f7b.png",
    "source": "Que Faire à Paris",
@@ -1628,7 +1628,7 @@
    "profils": [
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-11e-arrondissement-de-paris-79215",
    "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-4500b236c3d0671bbbd6104b208b1bd4.png",
    "source": "Que Faire à Paris",
@@ -1657,7 +1657,7 @@
    "profils": [
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-10e-arrondissement-de-paris-79253",
    "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-c4cd56423cb5e2b723afca3c95e7d3ad.png",
    "source": "Que Faire à Paris",
@@ -1686,7 +1686,7 @@
    "profils": [
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-20e-arrondissement-de-paris-79191",
    "image": "https://cdn.paris.fr/qfapv4/2025/01/23/huge-19ad37a307ca1b347d748afd575c828d.png",
    "source": "Que Faire à Paris",
@@ -1715,7 +1715,7 @@
    "profils": [
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-6e-arrondissement-de-paris-79216",
    "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-b0b2d854255a9eeb42b7da25283572e2.png",
    "source": "Que Faire à Paris",
@@ -1744,7 +1744,7 @@
    "profils": [
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-12e-arrondissement-de-paris-79255",
    "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-aefabc4e0237036df55e3bd29682cf99.png",
    "source": "Que Faire à Paris",
@@ -1773,7 +1773,7 @@
    "profils": [
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-18e-arrondissement-de-paris-79221",
    "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-b1bacf3a33f45dd3372ece9138df4b45.png",
    "source": "Que Faire à Paris",
@@ -1802,7 +1802,7 @@
    "profils": [
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-15e-arrondissement-de-paris-79214",
    "image": "https://cdn.paris.fr/qfapv4/2025/01/23/huge-f498c57a966942fc9eedc67a61631240.png",
    "source": "Que Faire à Paris",
@@ -1831,7 +1831,7 @@
    "profils": [
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-19e-arrondissement-de-paris-79240",
    "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-11a4de9fc7e06ff3ad8e6b567363d18d.png",
    "source": "Que Faire à Paris",
@@ -1861,7 +1861,7 @@
     "solo",
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/visitez-les-grandes-serres-du-jardin-des-plantes-111648",
    "image": "https://cdn.paris.fr/qfapv4/2026/07/31/huge-29f3203ff80ceecd6ba495e8fe87729e.jpg",
    "source": "Que Faire à Paris",
@@ -1890,7 +1890,7 @@
    "profils": [
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-5e-arrondissement-de-paris-77923",
    "image": "https://cdn.paris.fr/qfapv4/2025/01/03/huge-e1d5b6fcf38459fb12c49348d1468161.png",
    "source": "Que Faire à Paris",
@@ -1919,7 +1919,7 @@
    "profils": [
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-9e-arrondissement-de-paris-79231",
    "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-818a26326da86ae91bbe9902b070a06b.png",
    "source": "Que Faire à Paris",
@@ -1949,7 +1949,7 @@
     "solo",
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/visites-guidees-du-palais-academique-de-la-sorbonne-77986",
    "image": "https://cdn.paris.fr/qfapv4/2025/01/07/huge-552da2c7b8e5bf4e5bd75a8158e08df5.jpg",
    "source": "Que Faire à Paris",
@@ -2127,7 +2127,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/toutes-les-expositions-gratuites-de-la-ville-91521",
    "image": "https://cdn.paris.fr/qfapv4/2024/02/29/huge-5a6030d8029ae6f61d4e3b1f9650f3b4.jpg",
    "source": "Que Faire à Paris",
@@ -2215,7 +2215,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/bonjour-avec-markobi-2024-2025-67059",
    "image": "https://cdn.paris.fr/qfapv4/2024/08/20/huge-b72b6820e094c413ab1e48ce43a3b01d.png",
    "source": "Que Faire à Paris",
@@ -2244,7 +2244,7 @@
    "profils": [
     "solo"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/paris-sportives-multisports-avec-la-maison-bleue-109547",
    "image": "https://cdn.paris.fr/qfapv4/2026/04/08/huge-2297ea7474ba99d0508280be1a5f29b1.png",
    "source": "Que Faire à Paris",
@@ -2274,7 +2274,7 @@
     "solo",
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/tenter-l-art-pour-soigner-a-l-hopital-psychiatrique-de-blida-joinville-dans-les-annees-1960-117997",
    "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-a6b2fd679fbd3b0880b6c42019573573.jpg",
    "source": "Que Faire à Paris",
@@ -2304,7 +2304,7 @@
     "solo",
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/exposition-les-comediennes-des-passerelles-99418",
    "image": "https://cdn.paris.fr/qfapv4/2025/10/16/huge-3ce8e8437a5e1b73b95afea107e0b17d.jpg",
    "source": "Que Faire à Paris",
@@ -2334,7 +2334,7 @@
     "solo",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/haiti-a-paris-99792",
    "image": "https://cdn.paris.fr/qfapv4/2025/10/23/huge-c555cf3410b8be3577bb9e2dbd39a47a.jpg",
    "source": "Que Faire à Paris",
@@ -2393,39 +2393,9 @@
     "solo",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/mazarin-et-les-gardiens-du-secret-100800",
    "image": "https://cdn.paris.fr/qfapv4/2025/11/10/huge-bd97e197ad5ca6332a913ab1cb7c3f6d.png",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "La Commune de Paris – visite de Montmartre au cœur de l’Histoire",
-   "resume": "Le 18 mars 1871, une émeute éclate à Paris, sur la butte Montmartre. Ce soulèvement populaire marque le point de départ de deux mois de révoltes contre le pouvoir en place : il s’agit de la Commune de Paris.",
-   "debut": "2025-11-22T11:00:00+00:00",
-   "fin": "2026-10-04T17:45:00+00:00",
-   "quand": "Le dimanche 04 octobre 2026 de 15h00 à 16h45",
-   "lieu": null,
-   "adresse": "",
-   "coords": [
-    48.856578,
-    2.351828
-   ],
-   "gratuit": false,
-   "prixDes": 18.0,
-   "prixTexte": "18€/pers",
-   "reservation": true,
-   "meteo": "indifferent",
-   "energie": "basse",
-   "profils": [
-    "solo",
-    "date"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/la-commune-de-paris-visite-de-montmartre-au-coeur-de-l-histoire-23439",
-   "image": "https://cdn.paris.fr/qfapv4/2025/12/05/huge-89c2b7159454d92e64acba262aa862fa.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -2452,7 +2422,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/3-raisons-d-applaudir-la-cage-aux-folles-au-theatre-du-chatelet-102406",
    "image": "https://cdn.paris.fr/qfapv4/2025/12/08/huge-4e65ab6a1e52c19776104084fd031c92.jpg",
    "source": "Que Faire à Paris",
@@ -2658,7 +2628,7 @@
    "profils": [
     "solo"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/paris-sportives-du-sport-en-plein-air-pour-toutes-81463",
    "image": "https://cdn.paris.fr/qfapv4/2025/03/06/huge-f15dbdc18cc1dbcc9916a303aa7ee594.jpg",
    "source": "Que Faire à Paris",
@@ -2687,7 +2657,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/programmation-culturelle-de-la-bibliotheque-historique-de-la-ville-de-paris-52150",
    "image": "https://cdn.paris.fr/qfapv4/2024/01/10/huge-16378165eae5f1e5335390b3fac5a74b.jpg",
    "source": "Que Faire à Paris",
@@ -2716,7 +2686,7 @@
    "profils": [
     "solo"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/decouvrir-et-pratiquer-les-langues-etrangeres-dans-les-bibliotheques-de-la-ville-de-paris-115383",
    "image": "https://cdn.paris.fr/qfapv4/2026/04/01/huge-7986d297bcd8ee6f5b14fbdf2191b214.jpg",
    "source": "Que Faire à Paris",
@@ -3302,7 +3272,7 @@
    "profils": [
     "solo"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/une-annee-de-rechauffement-une-comedie-malgre-tout-103942",
    "image": "https://cdn.paris.fr/qfapv4/2026/01/08/huge-765281b5e663349afb98fcc6a505d3a6.jpg",
    "source": "Que Faire à Paris",
@@ -3391,7 +3361,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/soiree-astrologie-visite-guidee-conference-79234",
    "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-a4f81f2609460a34a73f07104f794588.png",
    "source": "Que Faire à Paris",
@@ -3629,7 +3599,7 @@
     "solo",
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/visites-spectacles-decouvrez-paris-comme-vous-ne-l-avez-jamais-vu-108521",
    "image": "https://cdn.paris.fr/qfapv4/2026/03/23/huge-32858d7492064e63ed0f530e27e8993d.jpg",
    "source": "Que Faire à Paris",
@@ -3777,7 +3747,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/festival-des-places-2026-109569",
    "image": "https://cdn.paris.fr/qfapv4/2026/04/08/huge-3c061bb65748990d97ccc898f0597f89.jpg",
    "source": "Que Faire à Paris",
@@ -3892,7 +3862,7 @@
    "profils": [
     "solo"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/conferences-mardis-de-l-histoire-de-paris-le-divertissement-a-paris-109036",
    "image": "https://cdn.paris.fr/qfapv4/2026/03/31/huge-883d3ce28f25e8f94b1f18d12717b03f.jpg",
    "source": "Que Faire à Paris",
@@ -4069,7 +4039,7 @@
     "solo",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/cours-de-salsa-et-salsa-party-109618",
    "image": "https://cdn.paris.fr/qfapv4/2026/04/09/huge-f951e2ca38049bbd028aec03b66cda5a.png",
    "source": "Que Faire à Paris",
@@ -4216,7 +4186,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-edouard-vaillant-86861",
    "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-df66110b2c5d35ca79be682547c26f7e.jpg",
    "source": "Que Faire à Paris",
@@ -4246,7 +4216,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-a-l-auditorium-du-square-severine-86893",
    "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-e77015cf365d7e3a3572f15a96718e74.jpg",
    "source": "Que Faire à Paris",
@@ -4276,7 +4246,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-carpeaux-108638",
    "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
    "source": "Que Faire à Paris",
@@ -4306,7 +4276,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-jardin-villemin-mahsa-jina-amini-108554",
    "image": "https://cdn.paris.fr/qfapv4/2025/01/14/huge-8c70e1d25d24703e6a361053c5d48cb9.jpg",
    "source": "Que Faire à Paris",
@@ -4336,7 +4306,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-monseigneur-maillet-86949",
    "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-e77015cf365d7e3a3572f15a96718e74.jpg",
    "source": "Que Faire à Paris",
@@ -4366,7 +4336,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-serge-reggiani-86945",
    "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-df66110b2c5d35ca79be682547c26f7e.jpg",
    "source": "Que Faire à Paris",
@@ -4397,7 +4367,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-a-la-promenade-pereire-therese-pierre-108635",
    "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
    "source": "Que Faire à Paris",
@@ -4427,7 +4397,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-parc-sainte-perine-108633",
    "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
    "source": "Que Faire à Paris",
@@ -4457,7 +4427,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-courteline-108569",
    "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
    "source": "Que Faire à Paris",
@@ -4487,7 +4457,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-jardin-de-marianne-108567",
    "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
    "source": "Que Faire à Paris",
@@ -4517,7 +4487,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-parc-montsouris-108620",
    "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
    "source": "Que Faire à Paris",
@@ -4548,7 +4518,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-maurice-kriegel-valrimont-86961",
    "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-df66110b2c5d35ca79be682547c26f7e.jpg",
    "source": "Que Faire à Paris",
@@ -4579,7 +4549,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-sur-la-promenade-pereire-gilberte-brossolette-86986",
    "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-e77015cf365d7e3a3572f15a96718e74.jpg",
    "source": "Que Faire à Paris",
@@ -4610,7 +4580,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-violet-87001",
    "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-df66110b2c5d35ca79be682547c26f7e.jpg",
    "source": "Que Faire à Paris",
@@ -4640,7 +4610,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-franck-bauer-108629",
    "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
    "source": "Que Faire à Paris",
@@ -4670,7 +4640,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-trousseau-108572",
    "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
    "source": "Que Faire à Paris",
@@ -4700,7 +4670,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-jardin-des-champs-elysees-108549",
    "image": "https://cdn.paris.fr/qfapv4/2025/01/14/huge-8c70e1d25d24703e6a361053c5d48cb9.jpg",
    "source": "Que Faire à Paris",
@@ -4730,7 +4700,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-du-temple-elie-wiesel-108548",
    "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
    "source": "Que Faire à Paris",
@@ -4761,7 +4731,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-a-l-amphitheatre-des-jardins-d-eole-86974",
    "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-e77015cf365d7e3a3572f15a96718e74.jpg",
    "source": "Que Faire à Paris",
@@ -4791,7 +4761,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-maurice-gardette-108560",
    "image": "https://cdn.paris.fr/qfapv4/2025/01/14/huge-8c70e1d25d24703e6a361053c5d48cb9.jpg",
    "source": "Que Faire à Paris",
@@ -4821,7 +4791,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-jean-cherioux-87028",
    "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-e77015cf365d7e3a3572f15a96718e74.jpg",
    "source": "Que Faire à Paris",
@@ -4851,7 +4821,7 @@
     "solo",
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-jardin-curial-108640",
    "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
    "source": "Que Faire à Paris",
@@ -4881,7 +4851,7 @@
     "solo",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-paul-robin-86956",
    "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-e77015cf365d7e3a3572f15a96718e74.jpg",
    "source": "Que Faire à Paris",
@@ -4911,7 +4881,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-d-anvers-jean-claude-carriere-108553",
    "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
    "source": "Que Faire à Paris",
@@ -4941,7 +4911,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-des-epinettes-86981",
    "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-df66110b2c5d35ca79be682547c26f7e.jpg",
    "source": "Que Faire à Paris",
@@ -4971,7 +4941,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-jardin-du-ranelagh-86996",
    "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-df66110b2c5d35ca79be682547c26f7e.jpg",
    "source": "Que Faire à Paris",
@@ -5001,7 +4971,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-a-l-auditorium-du-square-sarah-bernhardt-86903",
    "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-df66110b2c5d35ca79be682547c26f7e.jpg",
    "source": "Que Faire à Paris",
@@ -5031,7 +5001,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-yvette-chauvire-108623",
    "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
    "source": "Que Faire à Paris",
@@ -5061,7 +5031,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-parc-de-choisy-108592",
    "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
    "source": "Que Faire à Paris",
@@ -5091,7 +5061,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-dominique-bernard-ex-jules-ferry-108565",
    "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
    "source": "Que Faire à Paris",
@@ -5121,7 +5091,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-necker-87013",
    "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-df66110b2c5d35ca79be682547c26f7e.jpg",
    "source": "Que Faire à Paris",
@@ -5152,7 +5122,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-a-la-promenade-pereire-ternes-maillot-108637",
    "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
    "source": "Que Faire à Paris",
@@ -5182,7 +5152,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-jean-morin-108570",
    "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
    "source": "Que Faire à Paris",
@@ -5212,7 +5182,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-du-cardinal-wyszynski-108621",
    "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
    "source": "Que Faire à Paris",
@@ -5242,7 +5212,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-boulevard-blanqui-108593",
    "image": "https://cdn.paris.fr/qfapv4/2025/01/14/huge-8c70e1d25d24703e6a361053c5d48cb9.jpg",
    "source": "Que Faire à Paris",
@@ -5272,7 +5242,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-jardin-nelson-mandela-108547",
    "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
    "source": "Que Faire à Paris",
@@ -5302,7 +5272,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-a-l-amphiteatre-du-parc-de-belleville-86912",
    "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
    "source": "Que Faire à Paris",
@@ -5333,7 +5303,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosques-en-fete-13390",
    "image": "https://cdn.paris.fr/qfapv4/2025/01/14/huge-8c70e1d25d24703e6a361053c5d48cb9.jpg",
    "source": "Que Faire à Paris",
@@ -5363,7 +5333,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-parc-george-brassens-108625",
    "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
    "source": "Que Faire à Paris",
@@ -5481,7 +5451,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/le-premier-genocide-du-xxe-siecle-herero-et-nama-dans-le-sud-ouest-africain-allemand-1904-1908-109911",
    "image": "https://cdn.paris.fr/qfapv4/2026/04/14/huge-e2551a2c0010cae3a223b93cd16ed3f7.png",
    "source": "Que Faire à Paris",
@@ -5512,7 +5482,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/bercy-encore-113350",
    "image": "https://cdn.paris.fr/qfapv4/2026/06/08/huge-8095f8c09619c54eef440bcb05592cfa.jpg",
    "source": "Que Faire à Paris",
@@ -5542,7 +5512,7 @@
     "solo",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/paris-sportives-activites-reathletisation-ultimate-nutrition-et-basketball-par-paris-universite-club-56271",
    "image": "https://cdn.paris.fr/qfapv4/2024/01/18/huge-2ee848e61d96adb5c3837a25b5114af9.jpg",
    "source": "Que Faire à Paris",
@@ -5687,7 +5657,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/musee-de-l-ima-111749",
    "image": "https://cdn.paris.fr/qfapv4/2026/05/15/huge-9023c0c26de971ad391d8ffe793ab6ff.jpg",
    "source": "Que Faire à Paris",
@@ -5776,7 +5746,7 @@
     "solo",
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/cycle-c-etait-paris-en-1970-106712",
    "image": "https://cdn.paris.fr/qfapv4/2026/02/23/huge-d8d51ddf560cd90215ad2bfaca4935c0.jpg",
    "source": "Que Faire à Paris",
@@ -5863,7 +5833,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/exposition-grands-lacs-l-horizon-commun-des-mers-interieures-robert-burley-111589",
    "image": "https://cdn.paris.fr/qfapv4/2026/05/12/huge-5bcfa0062eca4abd2e3df800791c74b0.jpg",
    "source": "Que Faire à Paris",
@@ -5892,7 +5862,7 @@
    "profils": [
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/centre-culturel-canadien-la-programmation-du-moment-110532",
    "image": "https://cdn.paris.fr/qfapv4/2024/04/09/huge-8c7c71dfa2b95ff20044a941afbf1b10.jpeg",
    "source": "Que Faire à Paris",
@@ -5921,7 +5891,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/eclats-d-amour-carte-blanche-a-laurent-pernot-au-musee-postal-118005",
    "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-781ff3878950c4ac5706851942e827a1.jpg",
    "source": "Que Faire à Paris",
@@ -5979,7 +5949,7 @@
    "profils": [
     "solo"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/saison-2025-2026-ouverture-des-inscriptions-88005",
    "image": "https://cdn.paris.fr/qfapv4/2023/06/23/huge-7e1bb611ea6553abd5bba5f593c7c4d6.jpg",
    "source": "Que Faire à Paris",
@@ -6008,7 +5978,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/exposition-ecorces-a-l-arboretum-de-paris-113034",
    "image": "https://cdn.paris.fr/qfapv4/2026/06/04/huge-13fdaf3ebc5c3398bf5811cc8c87de2e.jpg",
    "source": "Que Faire à Paris",
@@ -6154,7 +6124,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/exposition-paris-rome-espace-musees-a-l-aeroport-roissy-charles-de-gaulle-105454",
    "image": "https://cdn.paris.fr/qfapv4/2026/01/29/huge-feb1963d77bb73a2d5287e7877c824a1.jpg",
    "source": "Que Faire à Paris",
@@ -6184,7 +6154,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/l-espace-entre-nous-113112",
    "image": "https://cdn.paris.fr/qfapv4/2026/06/04/huge-fce3c9cbd25dd5778c8e3383865c0d0c.jpg",
    "source": "Que Faire à Paris",
@@ -6214,7 +6184,7 @@
     "solo",
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/le-programme-des-marches-culturelles-et-sportives-des-musees-parisiens-111563",
    "image": "https://cdn.paris.fr/qfapv4/2025/06/11/huge-7402265a6caca3d2b89d99433dd5f001.jpg",
    "source": "Que Faire à Paris",
@@ -6362,7 +6332,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/exposition-immersion-dialogue-entre-liberte-creative-et-rigueur-scientifique-114052",
    "image": "https://cdn.paris.fr/qfapv4/2026/06/22/huge-e3644c640162f5cc5a09b7977613441a.jpeg",
    "source": "Que Faire à Paris",
@@ -6421,7 +6391,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/exposition-animalia-bestiaire-de-la-collection-al-thani-114430",
    "image": "https://cdn.paris.fr/qfapv4/2026/06/18/huge-b2066c75b6dfd0d8d5fb51d70572d5f0.jpg",
    "source": "Que Faire à Paris",
@@ -6479,7 +6449,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/les-legendes-du-paris-maudit-visite-nocturne-23190",
    "image": "https://cdn.paris.fr/qfapv4/2025/12/05/huge-df1484d24762284c85e32588ed028eb3.jpg",
    "source": "Que Faire à Paris",
@@ -6539,7 +6509,7 @@
     "solo",
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/balades-guidees-a-la-decouverte-des-quartiers-123258",
    "image": "https://cdn.paris.fr/qfapv4/2026/09/07/huge-01274695f1e56a519234ce3a0a9ebc2b.jpg",
    "source": "Que Faire à Paris",
@@ -6569,7 +6539,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/la-nuit-europeenne-des-musees-a-la-grande-galerie-de-l-evoultion-35420",
    "image": "https://cdn.paris.fr/qfapv4/2023/04/18/huge-28f27f048c9273126bd915aeced6e119.jpg",
    "source": "Que Faire à Paris",
@@ -6598,7 +6568,7 @@
    "profils": [
     "solo"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/la-nuit-europeenne-des-musees-a-la-grande-galerie-de-l-evoultion-117292",
    "image": "https://cdn.paris.fr/qfapv4/2026/07/31/huge-cedf7f1569dbd66648304d24322d38f5.jpg",
    "source": "Que Faire à Paris",
@@ -6746,7 +6716,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/exposition-pont-saint-ange-franchir-116924",
    "image": "https://cdn.paris.fr/qfapv4/2026/07/23/huge-2b14e151428f8f992fd8e06c0b4c25ba.jpg",
    "source": "Que Faire à Paris",
@@ -6863,7 +6833,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/derniers-coups-de-ciseaux-41112",
    "image": "https://cdn.paris.fr/qfapv4/2023/08/02/huge-dc8d1a5224e4e54b99295995e2aab844.png",
    "source": "Que Faire à Paris",
@@ -7010,7 +6980,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/l-art-d-avoir-toujours-raison-au-theatre-tristan-bernard-116953",
    "image": "https://cdn.paris.fr/qfapv4/2026/07/24/huge-20e7c2e4dbc9dfcd881a5f1a071186fa.jpg",
    "source": "Que Faire à Paris",
@@ -7039,7 +7009,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/la-bibliotheque-marguerite-audoux-fait-son-cinema-91260",
    "image": "https://cdn.paris.fr/qfapv4/2025/08/21/huge-8fc50a9cb5a315afef1270ffe991890c.jpg",
    "source": "Que Faire à Paris",
@@ -7070,7 +7040,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/1976-2026-regards-croises-115465",
    "image": "https://cdn.paris.fr/qfapv4/2026/07/04/huge-36ab9b8635c1c34af8c072aa97a4ae41.jpg",
    "source": "Que Faire à Paris",
@@ -7099,7 +7069,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/ce-matin-la-117024",
    "image": "https://cdn.paris.fr/qfapv4/2026/07/27/huge-3579a359070bf54c74f06d5fe1a2d526.jpg",
    "source": "Que Faire à Paris",
@@ -7188,7 +7158,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/ma-petite-visite-contee-au-musee-du-quai-branly-124892",
    "image": "https://cdn.paris.fr/qfapv4/2023/04/11/huge-d82e222b472e894e87435124eca9d942.jpeg",
    "source": "Que Faire à Paris",
@@ -7305,7 +7275,7 @@
    "profils": [
     "solo"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/des-imprimes-et-des-hommes-nouveaux-regards-de-la-recherche-troisieme-cycle-124755",
    "image": "https://cdn.paris.fr/qfapv4/2025/01/09/huge-b084ef2a5ad8abb28880dbb39db73c72.jpg",
    "source": "Que Faire à Paris",
@@ -7334,7 +7304,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/frederic-combeau-focus-sur-la-biodiversite-parisienne-105312",
    "image": "https://cdn.paris.fr/qfapv4/2026/01/27/huge-60e59eca91d7dfb34e73017fedd54fc7.jpg",
    "source": "Que Faire à Paris",
@@ -7364,7 +7334,7 @@
     "solo",
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/expo-portraits-a-velo-de-nicola-fioravanti-118182",
    "image": "https://cdn.paris.fr/qfapv4/2026/08/28/huge-5854dbb7593833ff7bf7ee978875397b.png",
    "source": "Que Faire à Paris",
@@ -7393,7 +7363,7 @@
    "profils": [
     "solo"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/la-programmation-de-la-fabrique-de-la-solidarite-123091",
    "image": "https://cdn.paris.fr/qfapv4/2026/09/03/huge-cb872d7973402191c8ba9fecac455d5a.png",
    "source": "Que Faire à Paris",
@@ -7422,7 +7392,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/exposition-lala-photographie-sa-ville-jardin-villemin-mahsa-jina-amini-123422",
    "image": "https://cdn.paris.fr/qfapv4/2026/09/09/huge-c763868f10743580ff48723b4bb42f8b.png",
    "source": "Que Faire à Paris",
@@ -7598,7 +7568,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/mary-pickford-la-grace-et-la-malice-116712",
    "image": "https://cdn.paris.fr/qfapv4/2026/07/20/huge-340270e139f9dbf8f42eb4f8175d560a.jpg",
    "source": "Que Faire à Paris",
@@ -7715,7 +7685,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/les-metiers-d-art-dans-les-photographies-de-francois-kollar-115512",
    "image": "https://cdn.paris.fr/qfapv4/2026/07/04/huge-affe821bd52c4540a0b1be98df227847.jpg",
    "source": "Que Faire à Paris",
@@ -7744,7 +7714,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/exposition-photographique-117217",
    "image": "https://cdn.paris.fr/qfapv4/2026/07/30/huge-904eb4d1aacb873c6bb49e3cee71cf0e.png",
    "source": "Que Faire à Paris",
@@ -7774,7 +7744,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/concert-intimiste-paris-17-116184",
    "image": "https://cdn.paris.fr/qfapv4/2026/07/11/huge-ea071b8b8cb1d6502a5b7d7c525a94f0.jpeg",
    "source": "Que Faire à Paris",
@@ -7835,7 +7805,7 @@
     "solo",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/paris-saint-germain-le-calendrier-foot-2025-2026-des-matchs-a-domicile-118004",
    "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-fb020ccbc6a31c29fe16c7f5ea382608.jpg",
    "source": "Que Faire à Paris",
@@ -7893,7 +7863,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/venez-decouvrir-les-musiciens-de-breme-quatre-droles-d-animaux-bien-decide-a-former-un-groupe-de-rock-124613",
    "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-be1516bda3b9ecd1c37cbdcc69f96170.jpg",
    "source": "Que Faire à Paris",
@@ -7922,7 +7892,7 @@
    "profils": [
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/decouvrez-trop-petite-une-epopee-musicale-a-partir-de-5-ans-au-funambule-montmartre-124604",
    "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-5556e6f4b394005f350641e0bbe04d57.jpg",
    "source": "Que Faire à Paris",
@@ -7951,7 +7921,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/exposition-jean-henri-fabre-115599",
    "image": "https://cdn.paris.fr/qfapv4/2025/11/17/huge-79d523304e695a443f30ae0148053901.jpg",
    "source": "Que Faire à Paris",
@@ -7980,7 +7950,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/exposition-personnelle-pluie-fossile-de-julien-discrit-a-la-galerie-anne-sarah-benichou-116995",
    "image": "https://cdn.paris.fr/qfapv4/2026/07/24/huge-d08609f0cb4092a05b6447b6fa4852da.png",
    "source": "Que Faire à Paris",
@@ -8009,7 +7979,7 @@
    "profils": [
     "solo"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/prix-des-mordus-du-manga-2025-2026-a-la-bibliotheque-benoite-groult-117366",
    "image": "https://cdn.paris.fr/qfapv4/2026/08/05/huge-6d348b57469273133d845defd7c08e64.jpg",
    "source": "Que Faire à Paris",
@@ -8245,7 +8215,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/expo-les-vitesses-de-greg-lecoeur-x-ifaw-118183",
    "image": "https://cdn.paris.fr/qfapv4/2026/08/28/huge-1bafac7feee2942e3430e9624cbe7b03.png",
    "source": "Que Faire à Paris",
@@ -8274,7 +8244,7 @@
    "profils": [
     "solo"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/demode-la-comedie-qui-fait-vivre-les-mots-116789",
    "image": "https://cdn.paris.fr/qfapv4/2026/07/21/huge-bcbf6328a360de0f413bb4dfa8947e20.jpg",
    "source": "Que Faire à Paris",
@@ -8421,7 +8391,7 @@
     "solo",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/oliver-twist-116759",
    "image": "https://cdn.paris.fr/qfapv4/2026/07/21/huge-7d092324212c63f9a631a6f1e4d406e3.jpg",
    "source": "Que Faire à Paris",
@@ -8450,7 +8420,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/paris-design-week-hanjimania-114433",
    "image": "https://cdn.paris.fr/qfapv4/2026/06/18/huge-df925828bbd5d1e989c43adcb21dab48.jpg",
    "source": "Que Faire à Paris",
@@ -8626,7 +8596,7 @@
    "profils": [
     "solo"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/seance-decouverte-tchoukball-117302",
    "image": "https://cdn.paris.fr/qfapv4/2026/04/24/huge-f03c8984aed48903aa52bd8cff9e1b0a.png",
    "source": "Que Faire à Paris",
@@ -8655,7 +8625,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/exposition-solo-intervalles-permeables-alexis-wong-118003",
    "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-c2a054b6bd021d7155bf00050c20f6c5.jpg",
    "source": "Que Faire à Paris",
@@ -8684,7 +8654,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/une-expo-photo-pour-decouvrir-l-agriculture-en-ville-114666",
    "image": "https://cdn.paris.fr/qfapv4/2026/09/29/huge-cbdf43d650e54fbef3988a02d8341b34.jpg",
    "source": "Que Faire à Paris",
@@ -8713,7 +8683,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/rankin-la-f-ai-m-la-photographie-a-l-epreuve-de-l-ia-123090",
    "image": "https://cdn.paris.fr/qfapv4/2026/09/03/huge-70fbc9ae51a63692ff055a6e8c7e5700.jpg",
    "source": "Que Faire à Paris",
@@ -8889,7 +8859,7 @@
    "profils": [
     "solo"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/reprise-seances-de-hatha-yoga-et-vinyasa-salle-de-sport-bernard-lafay-paris-17-25802",
    "image": "https://cdn.paris.fr/qfapv4/2022/08/31/huge-54de084a6d6f9d0e58c1cc165ff7c9c6.jpg",
    "source": "Que Faire à Paris",
@@ -8919,7 +8889,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/festival-d-automne-2026-tout-le-programme-123786",
    "image": "https://cdn.paris.fr/qfapv4/2026/04/28/huge-256d3b54e1e96a14afa8f7b1917f2f9e.jpg",
    "source": "Que Faire à Paris",
@@ -8948,7 +8918,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/exposition-10-000-ans-de-voyage-gustatif-117240",
    "image": "https://cdn.paris.fr/qfapv4/2026/08/11/huge-22720db9fa58cd038c23e0c2f7a16748.png",
    "source": "Que Faire à Paris",
@@ -9270,7 +9240,7 @@
     "solo",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/contine-moi-une-histoire-39280",
    "image": "https://cdn.paris.fr/qfapv4/2025/04/29/huge-f428daaf203e6e42ba332c2a0372da8e.png",
    "source": "Que Faire à Paris",
@@ -9299,7 +9269,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/eveil-theatral-4-5-ans-115150",
    "image": "https://cdn.paris.fr/qfapv4/2026/06/29/huge-c49ccd9ef6ca971008edd260536cb851.jpg",
    "source": "Que Faire à Paris",
@@ -9328,7 +9298,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/ados-117028",
    "image": "https://cdn.paris.fr/qfapv4/2026/07/27/huge-a31f0233a6fdfd869ff717b9ea306831.jpg",
    "source": "Que Faire à Paris",
@@ -9358,7 +9328,7 @@
     "solo",
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/a-la-recherche-d-agatha-christie-dans-les-bibliotheques-du-sud-ouest-parisien-114947",
    "image": "https://cdn.paris.fr/qfapv4/2026/07/02/huge-6a4fc61b471b256c9daf33338d944b20.png",
    "source": "Que Faire à Paris",
@@ -9830,7 +9800,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/agenda-culturel-du-conservatoire-charles-munch-124182",
    "image": "https://cdn.paris.fr/qfapv4/2025/12/03/huge-61acf6eb1398698c4d32e57c4034ab0d.jpg",
    "source": "Que Faire à Paris",
@@ -9859,7 +9829,7 @@
    "profils": [
     "solo"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/portes-ouvertes-de-l-ecole-shaktibudo-a-paris-14e-self-defense-feminine-initiation-aux-arts-martiaux-117789",
    "image": "https://cdn.paris.fr/qfapv4/2026/04/30/huge-d3c5581cf16e34ec3dff4cdffe9feed4.png",
    "source": "Que Faire à Paris",
@@ -9888,7 +9858,7 @@
    "profils": [
     "solo"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/preparez-votre-rentree-2026-portes-ouvertes-ecole-d-arts-martiaux-paris-14e-wing-tsun-kungfu-kali-eskrima-117784",
    "image": "https://cdn.paris.fr/qfapv4/2026/08/19/huge-95cf7475006de61c0613d89ad923f7cd.png",
    "source": "Que Faire à Paris",
@@ -9976,7 +9946,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/formula-bula-2026-marly-ou-la-neige-en-ete-une-exposition-d-emmanuel-lantam-115308",
    "image": "https://cdn.paris.fr/qfapv4/2026/07/01/huge-e39f6200280fccabc3bafa12934f0d7f.jpg",
    "source": "Que Faire à Paris",
@@ -10005,7 +9975,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/l-universite-paris-cite-devoile-l-exposition-la-couleur-de-nos-metiers-a-travers-l-objectif-du-photographe-pascal-maitre-123864",
    "image": "https://cdn.paris.fr/qfapv4/2026/09/15/huge-891383b914e4ee058744c7360edb9491.jpg",
    "source": "Que Faire à Paris",
@@ -10034,7 +10004,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/exposition-des-photographies-de-karl-blossfeldt-118125",
    "image": "https://cdn.paris.fr/qfapv4/2026/08/27/huge-f18250c522654d76ec241fc5463ea15e.jpg",
    "source": "Que Faire à Paris",
@@ -10063,7 +10033,7 @@
    "profils": [
     "solo"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/portes-ouvertes-ecole-d-arts-martiaux-wing-tsun-kung-fu-kali-eskrima-117787",
    "image": "https://cdn.paris.fr/qfapv4/2024/07/17/huge-3931308fc86bdf3b793ba7644f428970.png",
    "source": "Que Faire à Paris",
@@ -10092,7 +10062,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/exposition-agatha-christie-et-le-voyage-117486",
    "image": "https://cdn.paris.fr/qfapv4/2026/08/08/huge-13eb706eb5e2cd8cbcf4cc82425aeb04.jpg",
    "source": "Que Faire à Paris",
@@ -10122,7 +10092,7 @@
     "solo",
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/exposition-des-photographies-de-karl-blossfeldt-116870",
    "image": "https://cdn.paris.fr/qfapv4/2026/07/23/huge-4c6d6286298407bc329b97d850fe1f27.jpg",
    "source": "Que Faire à Paris",
@@ -10151,7 +10121,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/exposition-de-fin-d-annee-des-cours-d-arts-plastiques-du-centre-paris-anim-maurice-ravel-118100",
    "image": "https://cdn.paris.fr/qfapv4/2026/08/27/huge-7c191dbd7fcbafe226758497dfcd22ac.jpg",
    "source": "Que Faire à Paris",
@@ -10270,7 +10240,7 @@
    "profils": [
     "solo"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/mardis-de-la-transition-117864",
    "image": "https://cdn.paris.fr/qfapv4/2025/11/21/huge-095afe5ac4957e4cd25b955006a22acf.jpg",
    "source": "Que Faire à Paris",
@@ -10296,7 +10266,7 @@
    "profils": [
     "solo"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/le-rdv-des-curieux-tous-les-mardis-a-19h30-118147",
    "image": "https://cdn.paris.fr/qfapv4/2026/08/27/huge-d8a07dbf67e31cedd6656ec8163bf31d.png",
    "source": "Que Faire à Paris",
@@ -10354,7 +10324,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/le-sens-de-l-humour-123835",
    "image": "https://cdn.paris.fr/qfapv4/2026/09/14/huge-baaa38ff41781fcc53fb10dd73948763.jpg",
    "source": "Que Faire à Paris",
@@ -10619,7 +10589,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/portraits-de-jardiniers-photographie-d-erwan-floc-h-115027",
    "image": "https://cdn.paris.fr/qfapv4/2026/06/27/huge-fb04caec43cab5b0124837c389b89d4c.jpg",
    "source": "Que Faire à Paris",
@@ -10650,7 +10620,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/entre-deux-seuils-et-metamorphoses-123006",
    "image": "https://cdn.paris.fr/qfapv4/2026/09/11/huge-a67de9dc63066278806de9df212b01a5.jpeg",
    "source": "Que Faire à Paris",
@@ -10679,7 +10649,7 @@
    "profils": [
     "solo"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/les-permances-informatiques-117899",
    "image": "https://cdn.paris.fr/qfapv4/2026/08/22/huge-6cb762dc7e38557dcbe9c884210c1053.jpg",
    "source": "Que Faire à Paris",
@@ -10708,7 +10678,7 @@
    "profils": [
     "solo"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/le-discours-d-un-roi-123828",
    "image": "https://cdn.paris.fr/qfapv4/2026/09/14/huge-a726266ec02be3e10edc38081d4e0f87.jpg",
    "source": "Que Faire à Paris",
@@ -10738,7 +10708,7 @@
     "solo",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/english-club-a-la-bibliotheque-buffon-114910",
    "image": "https://cdn.paris.fr/qfapv4/2025/07/24/huge-7ff56818be8569f0bf6311a0d237fd81.jpg",
    "source": "Que Faire à Paris",
@@ -10767,7 +10737,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/prisonnieres-les-dernieres-annees-de-la-prison-saint-lazare-1919-1932-113922",
    "image": "https://cdn.paris.fr/qfapv4/2026/06/13/huge-25df6188b79ca618322237994b18c91b.jpg",
    "source": "Que Faire à Paris",
@@ -10797,7 +10767,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/la-goutte-d-or-s-arrache-au-bitume-festival-des-jardins-partages-115026",
    "image": "https://cdn.paris.fr/qfapv4/2026/07/14/huge-0f478d749aa1db1efc667c6572165a7a.jpg",
    "source": "Que Faire à Paris",
@@ -10883,7 +10853,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/theatre-hystory-118376",
    "image": "https://cdn.paris.fr/qfapv4/2026/09/01/huge-5e2e9c8ff8e7359c15108ab185005f28.jpg",
    "source": "Que Faire à Paris",
@@ -11297,7 +11267,7 @@
     "solo",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/le-programme-2026-de-la-quinzaine-de-l-accessibilite-et-de-l-inclusion-117412",
    "image": "https://cdn.paris.fr/qfapv4/2026/08/18/huge-33d0c03a2db5b3fcf630cfb50449c5ee.png",
    "source": "Que Faire à Paris",
@@ -11326,7 +11296,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/exposition-monika-emmanuelle-kazi-au-centre-culturel-suisse-116278",
    "image": "https://cdn.paris.fr/qfapv4/2026/07/15/huge-4e3f18442b8133b360f493da5ca3061d.jpg",
    "source": "Que Faire à Paris",
@@ -11355,7 +11325,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/exposition-les-imprimes-du-cinema-vidocq-fantomas-james-bond-et-autres-univers-transmediatiques-114754",
    "image": "https://cdn.paris.fr/qfapv4/2026/06/20/huge-a65a4e74b75fa0c8a4990929dadd2b70.png",
    "source": "Que Faire à Paris",
@@ -11384,7 +11354,7 @@
    "profils": [
     "solo"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/30h-formation-yogatherapie-et-douleurs-103792",
    "image": "https://cdn.paris.fr/qfapv4/2026/01/08/huge-3e42641532b314832f1d9541d0d637ee.jpg",
    "source": "Que Faire à Paris",
@@ -11414,7 +11384,7 @@
     "solo",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/soirees-jeux-bibliotheques-du-5e-et-6e-arrondissement-114561",
    "image": "https://cdn.paris.fr/qfapv4/2025/08/19/huge-a77416d803dfcc6d66de0c8d8f4920b7.jpg",
    "source": "Que Faire à Paris",
@@ -11443,7 +11413,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/la-palestine-photographiee-par-joss-dray-117996",
    "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-e1c5b883f31b07ce78fc3fba2f56b19b.jpg",
    "source": "Que Faire à Paris",
@@ -11503,7 +11473,7 @@
     "solo",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/ateliers-educatifs-gratuits-pour-les-jeunes-116254",
    "image": "https://cdn.paris.fr/qfapv4/2026/07/13/huge-790b9c75ac137a85735c4c4f0a3179c5.jpg",
    "source": "Que Faire à Paris",
@@ -11533,7 +11503,7 @@
     "date",
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/les-evenements-du-conservatoire-claude-debussy-124509",
    "image": "https://cdn.paris.fr/qfapv4/2026/09/21/huge-0d6ea23d5cee6ad63161d260b0f0c77e.jpg",
    "source": "Que Faire à Paris",
@@ -11680,7 +11650,7 @@
    "profils": [
     "solo"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/ateliers-de-conversation-en-vietnamien-69188",
    "image": "https://cdn.paris.fr/qfapv4/2024/09/20/huge-f5fbcbc56dc55015696b528f21786535.jpg",
    "source": "Que Faire à Paris",
@@ -11945,7 +11915,7 @@
    "profils": [
     "copains"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/festival-re-mix-protest-songs-musiques-de-resistance-67525",
    "image": "https://cdn.paris.fr/qfapv4/2024/08/28/huge-9ac9e0413dcb87a8e4e323eb1b61f0c4.jpg",
    "source": "Que Faire à Paris",
@@ -12004,7 +11974,7 @@
    "profils": [
     "date"
    ],
-   "finitTard": true,
+   "finitTard": false,
    "url": "https://www.paris.fr/evenements/expo-photo-nature-sauvage-a-paris-87076",
    "image": "https://cdn.paris.fr/qfapv4/2025/06/06/huge-979f42911a7d4a9306f60017aa9a4923.jpg",
    "source": "Que Faire à Paris",
