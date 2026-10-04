@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Paris ce soir</title>
+<meta name="description" content="Quoi faire ce soir à Paris, selon avec qui on sort et le temps qu'il fait.">
+<meta name="color-scheme" content="dark">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<a class="skip" href="#principal">Aller au contenu</a>
+
+<div class="page">
+
+  <header class="tete">
+    <div class="tete__haut">
+      <h1 class="tete__titre">Paris ce soir</h1>
+      <p class="tete__date" id="date-jour"></p>
+    </div>
+    <div class="meteo" id="meteo" aria-live="polite">
+      <span class="meteo__chargement">Météo en cours…</span>
+    </div>
+  </header>
+
+  <main id="principal">
+
+    <nav class="profils" id="profils" aria-label="Avec qui tu sors">
+      <!-- boutons injectés -->
+    </nav>
+
+    <section class="bloc" id="bloc-ce-soir" aria-labelledby="h-ce-soir" hidden>
+      <h2 class="bloc__titre" id="h-ce-soir">Ce soir</h2>
+      <div id="ce-soir"></div>
+    </section>
+
+    <section class="bloc" id="bloc-parcours" aria-labelledby="h-parcours" hidden>
+      <h2 class="bloc__titre" id="h-parcours">Enchaînements</h2>
+      <p class="bloc__sous" id="sous-parcours"></p>
+      <div class="grille" id="parcours"></div>
+    </section>
+
+    <section class="bloc" id="bloc-lieux" aria-labelledby="h-lieux" hidden>
+      <h2 class="bloc__titre" id="h-lieux">Les adresses</h2>
+      <p class="bloc__sous">Elles ne changent pas. C'est la base sur laquelle se rabattre.</p>
+      <div class="grille" id="lieux"></div>
+    </section>
+
+    <section class="bloc" aria-labelledby="h-events">
+      <div class="bloc__entete">
+        <h2 class="bloc__titre" id="h-events">À l'affiche</h2>
+        <p class="compte" id="compte" role="status" aria-live="polite"></p>
+      </div>
+
+      <div class="filtres" id="filtres">
+        <label class="bascule">
+          <input type="checkbox" id="f-gratuit">
+          <span>Gratuit seulement</span>
+        </label>
+        <label class="bascule">
+          <input type="checkbox" id="f-dehors">
+          <span>Dehors</span>
+        </label>
+        <label class="bascule">
+          <input type="checkbox" id="f-sevres">
+          <span>Près de chez moi</span>
+        </label>
+      </div>
+
+      <div class="liste" id="events"></div>
+      <p class="vide" id="vide" hidden>Rien ne passe ces filtres. Enlèves-en un.</p>
+      <button type="button" class="plus" id="plus" hidden>Voir plus</button>
+    </section>
+
+  </main>
+
+  <footer class="pied">
+    <p id="pied-maj"></p>
+    <p id="pied-sources"></p>
+    <p class="pied__note">Les évènements viennent de l'open data. Les adresses et les
+      rituels sont tenus à la main : ce que l'open data ne sait pas, personne ne l'invente ici.</p>
+  </footer>
+
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

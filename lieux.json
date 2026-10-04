@@ -1,0 +1,378 @@
+{
+ "_lisezmoi": "Adresses fixes, tenues a la main. Coordonnees resolues par Nominatim et verifiees : aucune n'est ecrite de memoire. aVerifier=true -> affichee dans le guide mais pas sur la carte.",
+ "lieux": [
+  {
+   "id": "supersonic",
+   "nom": "Le Supersonic",
+   "quoi": "Bar-concert, programmation live gratuite plusieurs soirs par semaine.",
+   "pourquoi": "Entrée libre : on peut y aller seul sans avoir rien engagé, et repartir si le groupe ne plaît pas. Tu y étais le mercredi 16, ils rejouaient le vendredi 25.",
+   "adresse": "rue Biscornet, 75012 Paris",
+   "quartier": "Bastille",
+   "coords": [
+    48.8501,
+    2.3697
+   ],
+   "profils": [
+    "solo",
+    "copains"
+   ],
+   "budget": 0,
+   "budgetTexte": "concerts gratuits, tu paies tes verres",
+   "meteo": "dedans",
+   "energie": "haute",
+   "coutSocial": "facile",
+   "aVerifier": false
+  },
+  {
+   "id": "rexclub",
+   "nom": "Rex Club",
+   "quoi": "Club techno historique, programmation pointue.",
+   "pourquoi": "L'option techno fiable quand tu cherches moins cher que les grosses soirées.",
+   "adresse": "boulevard Poissonnière, 75002 Paris",
+   "quartier": "Grands Boulevards",
+   "coords": [
+    48.87058,
+    2.347338
+   ],
+   "profils": [
+    "copains"
+   ],
+   "budget": 20,
+   "budgetTexte": "entrée ~15-20 € + les verres",
+   "meteo": "dedans",
+   "energie": "haute",
+   "coutSocial": "moyen",
+   "aVerifier": false
+  },
+  {
+   "id": "java",
+   "nom": "La Java",
+   "quoi": "Cave voûtée de Belleville, techno et électro.",
+   "pourquoi": "Le même genre de soirée que le Rex, en général moins cher à l'entrée.",
+   "adresse": "150 rue du Faubourg du Temple, 75010 Paris",
+   "quartier": "Belleville",
+   "coords": [
+    48.871312,
+    2.373625
+   ],
+   "profils": [
+    "copains"
+   ],
+   "budget": 15,
+   "budgetTexte": "entrée souvent sous 15 €",
+   "meteo": "dedans",
+   "energie": "haute",
+   "coutSocial": "moyen",
+   "aVerifier": false
+  },
+  {
+   "id": "merlemoqueur",
+   "nom": "Le Merle Moqueur",
+   "quoi": "Bar de la Butte-aux-Cailles, rhums arrangés.",
+   "pourquoi": "La fin de parcours naturelle après la balade street art : il est dans la même rue.",
+   "adresse": "rue de la Butte-aux-Cailles, 75013 Paris",
+   "quartier": "Butte-aux-Cailles",
+   "coords": [
+    48.827716,
+    2.350407
+   ],
+   "profils": [
+    "date",
+    "copains"
+   ],
+   "budget": 12,
+   "budgetTexte": "quelques verres",
+   "meteo": "dedans",
+   "energie": "moyenne",
+   "coutSocial": "facile",
+   "aVerifier": false
+  },
+  {
+   "id": "butteauxcailles",
+   "nom": "Rue de la Butte-aux-Cailles",
+   "quoi": "Rue pavée en pente, street art à chaque mur, enfilade de bars.",
+   "pourquoi": "Le parcours que tu as fait le jeudi 24 et qui a marché. Se fait à pied, gratuit, et se termine tout seul dans un bar.",
+   "adresse": "rue de la Butte-aux-Cailles, 75013 Paris",
+   "quartier": "Butte-aux-Cailles",
+   "coords": [
+    48.827789,
+    2.350427
+   ],
+   "profils": [
+    "date",
+    "solo"
+   ],
+   "budget": 0,
+   "budgetTexte": "gratuit",
+   "meteo": "dehors",
+   "energie": "basse",
+   "coutSocial": "facile",
+   "aVerifier": false
+  },
+  {
+   "id": "huchette",
+   "nom": "Caveau de la Huchette",
+   "quoi": "Cave de jazz, swing et danse, tous les soirs.",
+   "pourquoi": "Marche en date parce qu'on y danse sans savoir danser, et ça remplit les silences.",
+   "adresse": "5 rue de la Huchette, 75005 Paris",
+   "quartier": "Saint-Michel",
+   "coords": [
+    48.852787,
+    2.346298
+   ],
+   "profils": [
+    "date",
+    "copains"
+   ],
+   "budget": 16,
+   "budgetTexte": "entrée ~14-16 €, verres à part",
+   "meteo": "dedans",
+   "energie": "moyenne",
+   "coutSocial": "moyen",
+   "aVerifier": false
+  },
+  {
+   "id": "mairie13",
+   "nom": "Mairie du 13e",
+   "quoi": "Salle d'expo municipale, vernissages gratuits réguliers.",
+   "pourquoi": "Un vernissage, c'est gratuit, ça dure une heure, et on y parle à des inconnus sans que ce soit bizarre. Tu y as fait « Dialogues de lumière ».",
+   "adresse": "1 place d'Italie, 75013 Paris",
+   "quartier": "Place d'Italie",
+   "coords": [
+    48.832553,
+    2.35586
+   ],
+   "profils": [
+    "date",
+    "solo"
+   ],
+   "budget": 0,
+   "budgetTexte": "gratuit",
+   "meteo": "dedans",
+   "energie": "basse",
+   "coutSocial": "facile",
+   "aVerifier": false
+  },
+  {
+   "id": "pucesstouen",
+   "nom": "Puces de Saint-Ouen",
+   "quoi": "Marché aux puces ; quelques bars et scènes restent ouverts le soir.",
+   "pourquoi": "Tu l'as fait de nuit. C'est une sortie qui ne ressemble à rien d'autre et qui ne coûte rien tant qu'on n'achète pas.",
+   "adresse": "rue Jean-Henri Fabre, 93400 Saint-Ouen",
+   "quartier": "Saint-Ouen",
+   "coords": [
+    48.902952,
+    2.338858
+   ],
+   "profils": [
+    "solo",
+    "date"
+   ],
+   "budget": 0,
+   "budgetTexte": "gratuit à l'entrée",
+   "meteo": "dehors",
+   "energie": "moyenne",
+   "coutSocial": "facile",
+   "aVerifier": false
+  },
+  {
+   "id": "virage",
+   "nom": "Le Virage",
+   "quoi": "Soirée techno que tu as faite.",
+   "pourquoi": "À compléter : introuvable dans OpenStreetMap, même en forçant la recherche sur l'Île-de-France.",
+   "adresse": null,
+   "quartier": null,
+   "coords": null,
+   "profils": [
+    "copains"
+   ],
+   "budget": null,
+   "budgetTexte": "à préciser",
+   "meteo": "dedans",
+   "energie": "haute",
+   "coutSocial": "moyen",
+   "aVerifier": true
+  },
+  {
+   "id": "ilvolo",
+   "nom": "Ilvolo",
+   "quoi": "Rooftop à Montparnasse, fait le samedi 26.",
+   "pourquoi": "Le point de départ idéal d'une soirée quand il fait beau. Adresse à confirmer.",
+   "adresse": null,
+   "quartier": "Montparnasse",
+   "coords": null,
+   "profils": [
+    "date",
+    "copains"
+   ],
+   "budget": null,
+   "budgetTexte": "à préciser",
+   "meteo": "dehors",
+   "energie": "moyenne",
+   "coutSocial": "moyen",
+   "aVerifier": true
+  },
+  {
+   "id": "pena17",
+   "nom": "La Peña du 17e",
+   "quoi": "Concert / soirée dans le 17e.",
+   "pourquoi": "Idée que tu avais retenue en septembre. Deux candidats possibles dans OSM, aucun certain.",
+   "adresse": null,
+   "quartier": "17e",
+   "coords": null,
+   "profils": [
+    "copains",
+    "solo"
+   ],
+   "budget": null,
+   "budgetTexte": "à préciser",
+   "meteo": "dedans",
+   "energie": "haute",
+   "coutSocial": "moyen",
+   "aVerifier": true
+  },
+  {
+   "id": "deuxpianos",
+   "nom": "Les 2 Pianos",
+   "quoi": "Bar du 15e, soirée internationale / Erasmus le lundi.",
+   "pourquoi": "Déjà dans ta routine du lundi. Sert d'étalon : c'est le niveau de facilité sociale auquel comparer tout le reste. Et c'est côté sud-ouest, donc rentrable facilement sur Sèvres.",
+   "adresse": "rue de Lourmel, 75015 Paris",
+   "quartier": "Javel (15e)",
+   "coords": [
+    48.841375,
+    2.284643
+   ],
+   "profils": [
+    "solo"
+   ],
+   "budget": 10,
+   "budgetTexte": "prix des verres",
+   "meteo": "dedans",
+   "energie": "moyenne",
+   "coutSocial": "facile",
+   "aVerifier": false,
+   "note": "Programmation détaillée sur leur Instagram uniquement."
+  },
+  {
+   "id": "ugchalles",
+   "nom": "UGC Ciné Cité Les Halles",
+   "quoi": "Multiplexe au cœur du Forum des Halles.",
+   "pourquoi": "C'est là que se tiennent les séances « Vos BFF du ciné », le mardi.",
+   "adresse": "Forum des Halles, 75001 Paris",
+   "quartier": "Les Halles",
+   "coords": [
+    48.862161,
+    2.34537
+   ],
+   "profils": [
+    "solo",
+    "date"
+   ],
+   "budget": 13,
+   "budgetTexte": "prix d'une place UGC",
+   "meteo": "dedans",
+   "energie": "basse",
+   "coutSocial": "facile",
+   "aVerifier": false,
+   "note": "Le point marque le Forum ; le cinéma est à l'intérieur."
+  }
+ ],
+ "rituels": [
+  {
+   "id": "bff-cine",
+   "nom": "Vos BFF du ciné",
+   "quand": "le mardi",
+   "quoi": "Une salle remplie d'inconnus venus seuls, un film, puis un verre dans un bar partenaire.",
+   "pourquoi": "Le meilleur format solo de toute la liste : le film fait la conversation, personne n'a à se présenter à froid. Entre 80 et 150 personnes par séance, donc on ne se sent pas repéré. Tu voulais le faire en septembre sans l'avoir fait.",
+   "profils": [
+    "solo"
+   ],
+   "budget": 13,
+   "coutSocial": "facile",
+   "aVerifier": false,
+   "note": "Le film n'est annoncé que la veille, c'est volontaire. Inscriptions et annonces sur leur Instagram ; la place s'achète ensuite sur UGC.",
+   "lieu": "ugchalles"
+  },
+  {
+   "id": "bar-erasmus",
+   "nom": "Les 2 Pianos, soirée Erasmus",
+   "quand": "le lundi",
+   "quoi": "Soirée internationale, public étudiant et jeunes actifs.",
+   "pourquoi": "Ton rendez-vous du lundi. Le site ne te proposera donc rien d'autre ce soir-là, sauf si tu demandes.",
+   "profils": [
+    "solo"
+   ],
+   "budget": 10,
+   "coutSocial": "facile",
+   "aVerifier": false,
+   "note": "Les détails de chaque soirée sont publiés sur leur Instagram.",
+   "lieu": "deuxpianos"
+  },
+  {
+   "id": "supersonic-live",
+   "nom": "Concerts gratuits du Supersonic",
+   "quand": "plusieurs soirs par semaine",
+   "quoi": "Live gratuit, sans réservation.",
+   "pourquoi": "Zéro engagement financier : la meilleure porte de sortie quand on hésite à sortir seul.",
+   "profils": [
+    "solo",
+    "copains"
+   ],
+   "budget": 0,
+   "coutSocial": "facile",
+   "aVerifier": false,
+   "lieu": "supersonic"
+  }
+ ],
+ "parcours": [
+  {
+   "id": "butte-street-art",
+   "nom": "Butte-aux-Cailles : expo, murs, bar",
+   "pourquoi": "Reproduction exacte de ton jeudi 24, qui a marché. Tout se fait à pied dans le 13e.",
+   "profils": [
+    "date"
+   ],
+   "meteo": "dehors",
+   "etapes": [
+    {
+     "lieu": "mairie13",
+     "quoi": "Vernissage ou expo en cours, gratuit",
+     "duree": 45
+    },
+    {
+     "lieu": "butteauxcailles",
+     "quoi": "Balade street art dans la rue en pente",
+     "duree": 45
+    },
+    {
+     "lieu": "merlemoqueur",
+     "quoi": "Un verre pour finir, sur place",
+     "duree": 60
+    }
+   ],
+   "budgetTotal": 15
+  },
+  {
+   "id": "rooftop-jazz",
+   "nom": "Rooftop puis jazz",
+   "pourquoi": "Ton samedi 26. À garder pour un soir de beau temps : la première étape ne vaut rien sous la pluie.",
+   "profils": [
+    "date"
+   ],
+   "meteo": "dehors",
+   "etapes": [
+    {
+     "lieu": "ilvolo",
+     "quoi": "Coucher de soleil depuis le rooftop",
+     "duree": 60
+    },
+    {
+     "lieu": "huchette",
+     "quoi": "Cave de jazz, on y danse",
+     "duree": 120
+    }
+   ],
+   "budgetTotal": 40
+  }
+ ]
+}

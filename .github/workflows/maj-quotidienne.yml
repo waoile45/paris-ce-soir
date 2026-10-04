@@ -1,0 +1,35 @@
+name: Mise à jour quotidienne
+
+on:
+  schedule:
+    # 04h10 UTC, soit 06h10 à Paris en été et 05h10 en hiver.
+    - cron: "10 4 * * *"
+  workflow_dispatch:        # permet de lancer à la main depuis l'onglet Actions
+
+permissions:
+  contents: write
+
+jobs:
+  construire:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Construire events.json
+        run: python build.py
+
+      - name: Commiter si le fichier a changé
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet events.json; then
+            echo "Aucun changement, rien à commiter."
+          else
+            git add events.json
+            git commit -m "Mise à jour automatique des évènements"
+            git push
+          fi
