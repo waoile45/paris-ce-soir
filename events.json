@@ -1,6 +1,6 @@
 {
  "meta": {
-  "genereLe": "2026-10-04T21:03:35+00:00",
+  "genereLe": "2026-10-05T11:23:08+00:00",
   "horizonJours": 21,
   "budgets": {
    "solo": 20,
@@ -24,6 +24,36 @@
   ]
  },
  "events": [
+  {
+   "id": "sevres-29823288",
+   "titre": "SEVRES - ♻️🗑️ Le tri des déchets et leur devenir ♻️🗑️",
+   "resume": "Venez découvrir leur parcours, de la poubelle jusqu’au recyclage et comprendre l’importance de chaque geste.",
+   "debut": null,
+   "fin": "2026-10-14T16:30:00.000Z",
+   "quand": "",
+   "lieu": "conservatoire sèvres",
+   "adresse": "8 avenue cristallerie sevres Sèvres",
+   "coords": [
+    48.826724,
+    2.222279
+   ],
+   "gratuit": null,
+   "prixMax": null,
+   "prixTexte": "tarif non publié",
+   "reservation": false,
+   "meteo": "indifferent",
+   "energie": "basse",
+   "profils": [
+    "solo",
+    "date"
+   ],
+   "finitTard": false,
+   "url": "https://openagenda.com/sevres/events/29823288_sevres-le-tri-des-dechets-et-leur-devenir-1569119",
+   "image": null,
+   "source": "Ville de Sèvres",
+   "zone": "sevres",
+   "enCours": false
+  },
   {
    "id": "sevres-7777185",
    "titre": "Exposition \"Le pas suspendu\"",
@@ -83,36 +113,6 @@
    "enCours": false
   },
   {
-   "id": "sevres-29823288",
-   "titre": "SEVRES - ♻️🗑️ Le tri des déchets et leur devenir ♻️🗑️",
-   "resume": "Venez découvrir leur parcours, de la poubelle jusqu’au recyclage et comprendre l’importance de chaque geste.",
-   "debut": null,
-   "fin": "2026-10-14T16:30:00.000Z",
-   "quand": "",
-   "lieu": "conservatoire sèvres",
-   "adresse": "8 avenue cristallerie sevres Sèvres",
-   "coords": [
-    48.826724,
-    2.222279
-   ],
-   "gratuit": null,
-   "prixMax": null,
-   "prixTexte": "tarif non publié",
-   "reservation": false,
-   "meteo": "indifferent",
-   "energie": "basse",
-   "profils": [
-    "solo",
-    "date"
-   ],
-   "finitTard": false,
-   "url": "https://openagenda.com/sevres/events/29823288_sevres-le-tri-des-dechets-et-leur-devenir-1569119",
-   "image": null,
-   "source": "Ville de Sèvres",
-   "zone": "sevres",
-   "enCours": false
-  },
-  {
    "id": "sevres-64682107",
    "titre": "Ateliers Beatbox",
    "resume": "Tout le mois d'octobre, Sèvres célèbre les cultures urbaines. Et pourquoi pas apprendre à beatboxer ?",
@@ -165,6 +165,35 @@
    ],
    "finitTard": false,
    "url": "https://openagenda.com/sevres/events/32524149_blue-heron-7574069",
+   "image": null,
+   "source": "Ville de Sèvres",
+   "zone": "sevres",
+   "enCours": false
+  },
+  {
+   "id": "sevres-39761450",
+   "titre": "SEVRES -  🎃♻️ Atelier créatif spécial Halloween : donnez une seconde vie aux matériaux !",
+   "resume": "À l’approche d’Halloween, venez transformer des objets du quotidien en créations originales grâce au réemploi.",
+   "debut": null,
+   "fin": "2026-10-28T16:00:00.000Z",
+   "quand": "",
+   "lieu": "Médiathèque",
+   "adresse": "8, rue de Ville D'Avray 92310 Sèvres Sèvres",
+   "coords": [
+    48.824481,
+    2.208259
+   ],
+   "gratuit": null,
+   "prixMax": null,
+   "prixTexte": "tarif non publié",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "basse",
+   "profils": [
+    "solo"
+   ],
+   "finitTard": false,
+   "url": "https://openagenda.com/sevres/events/39761450_sevres-atelier-creatif-special-halloween-donnez-une-seconde-vie-aux-materiaux",
    "image": null,
    "source": "Ville de Sèvres",
    "zone": "sevres",
@@ -1104,6 +1133,37 @@
   },
   {
    "id": "paris-None",
+   "titre": "Le Cambrioleur de la Butte Montmartre",
+   "resume": "Jeu de piste original et éducatif, découvrez Montmartre le temps d'une visite inoubliable !",
+   "debut": "2024-10-01T00:00:00+00:00",
+   "fin": "2027-12-31T23:59:59+00:00",
+   "quand": "Du mardi 01 octobre 2024 au vendredi 31 décembre 2027 :",
+   "lieu": "Sortie du métro Abbesses",
+   "adresse": "Place des Abbesses 75018 Paris",
+   "coords": [
+    48.884451,
+    2.338591
+   ],
+   "gratuit": false,
+   "prixDes": 9.5,
+   "prixTexte": "Adulte : 16,50 € - 18 ans : 9,50 € - 26 ans : 12,50 €",
+   "reservation": true,
+   "meteo": "indifferent",
+   "energie": "basse",
+   "profils": [
+    "solo",
+    "date",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/le-cambrioleur-de-la-butte-montmartre-66827",
+   "image": "https://cdn.paris.fr/qfapv4/2024/08/09/huge-677064038bc48ffa6e8f0ab2f8c75a5d.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
    "titre": "Les réserves du Mobilier national, visite exclusive",
    "resume": "Cultival vous propose de découvrir les coulisses de cette institution avec une visite guidée inédite des réserves du Mobilier national situées au siège du Mobilier national, dans un bâtiment construit par l’architecte Perret.",
    "debut": "2024-10-01T00:00:00+00:00",
@@ -1127,66 +1187,6 @@
    "finitTard": false,
    "url": "https://www.paris.fr/evenements/les-reserves-du-mobilier-national-visite-exclusive-66708",
    "image": "https://cdn.paris.fr/qfapv4/2024/08/06/huge-0bd6b0efa1d40561696a97811bc408c0.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Paris Street Art à la Butte-aux-Cailles",
-   "resume": "Et si l’histoire de la Butte-aux-Cailles se lisait sur ses murs ?",
-   "debut": "2024-10-01T00:00:00+00:00",
-   "fin": "2027-12-31T23:59:59+00:00",
-   "quand": "Du mardi 01 octobre 2024 au vendredi 31 décembre 2027 :",
-   "lieu": "Métro station Corvisart",
-   "adresse": "Boulevard Auguste Blanqui 75013 Paris",
-   "coords": [
-    48.8300323994021,
-    2.34805589270893
-   ],
-   "gratuit": false,
-   "prixDes": 10.0,
-   "prixTexte": "Adulte : 14,50 € - 18 ans : 10,00 €",
-   "reservation": true,
-   "meteo": "dehors",
-   "energie": "moyenne",
-   "profils": [
-    "solo",
-    "date"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/paris-street-art-a-la-butte-aux-cailles-66789",
-   "image": "https://cdn.paris.fr/qfapv4/2024/08/08/huge-5af7545ed318ae85aeb931c32f050d40.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Le prisonnier de la Bastille",
-   "resume": "Ce jeu de piste conçu par vous propose d’accomplir le rêve de tout historien : remonter le temps pour vivre de l’intérieur l’une des journées les plus emblématiques de l’Histoire de France.",
-   "debut": "2024-10-01T00:00:00+00:00",
-   "fin": "2027-12-31T23:59:59+00:00",
-   "quand": "Du mardi 01 octobre 2024 au vendredi 31 décembre 2027 :",
-   "lieu": "Jardin de l'Arsenal, sur le quai du Port de l'Arsenal",
-   "adresse": "Métro Bastille, Sortie 4 75012 Paris",
-   "coords": [
-    48.851964,
-    2.368834
-   ],
-   "gratuit": false,
-   "prixDes": 9.5,
-   "prixTexte": "Adulte : 16,50 € - 18 ans : 9,50 € - 26 ans : 12,50 €",
-   "reservation": true,
-   "meteo": "dedans",
-   "energie": "moyenne",
-   "profils": [
-    "solo",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/le-prisonnier-de-la-bastille-66829",
-   "image": "https://cdn.paris.fr/qfapv4/2024/08/09/huge-c2a1a2cf46d26a8af3c4a440051c2967.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -1223,47 +1223,16 @@
   },
   {
    "id": "paris-None",
-   "titre": "Le Cambrioleur de la Butte Montmartre",
-   "resume": "Jeu de piste original et éducatif, découvrez Montmartre le temps d'une visite inoubliable !",
+   "titre": "Paris Street Art à la Butte-aux-Cailles",
+   "resume": "Et si l’histoire de la Butte-aux-Cailles se lisait sur ses murs ?",
    "debut": "2024-10-01T00:00:00+00:00",
    "fin": "2027-12-31T23:59:59+00:00",
    "quand": "Du mardi 01 octobre 2024 au vendredi 31 décembre 2027 :",
-   "lieu": "Sortie du métro Abbesses",
-   "adresse": "Place des Abbesses 75018 Paris",
+   "lieu": "Métro station Corvisart",
+   "adresse": "Boulevard Auguste Blanqui 75013 Paris",
    "coords": [
-    48.884451,
-    2.338591
-   ],
-   "gratuit": false,
-   "prixDes": 9.5,
-   "prixTexte": "Adulte : 16,50 € - 18 ans : 9,50 € - 26 ans : 12,50 €",
-   "reservation": true,
-   "meteo": "indifferent",
-   "energie": "basse",
-   "profils": [
-    "solo",
-    "date",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/le-cambrioleur-de-la-butte-montmartre-66827",
-   "image": "https://cdn.paris.fr/qfapv4/2024/08/09/huge-677064038bc48ffa6e8f0ab2f8c75a5d.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Les Francs-maçons, mythes et révélations sur une société secrète",
-   "resume": "Grâce à cette balade historique guidée, arpentez les quartiers de Saint-Germain et du Palais Bourbon à la recherche des traces visibles ou dissimulées de la Franc-maçonnerie dans la capitale.",
-   "debut": "2024-10-01T00:00:00+00:00",
-   "fin": "2027-12-31T23:59:59+00:00",
-   "quand": "Du mardi 01 octobre 2024 au vendredi 31 décembre 2027 :",
-   "lieu": "Devant l’entrée de l’église Saint-Germain-des-Prés",
-   "adresse": "3 place Saint-Germain-des-Prés 75006 Paris",
-   "coords": [
-    48.8540319999931,
-    2.33367003609132
+    48.8300323994021,
+    2.34805589270893
    ],
    "gratuit": false,
    "prixDes": 10.0,
@@ -1276,8 +1245,8 @@
     "date"
    ],
    "finitTard": false,
-   "url": "https://www.paris.fr/evenements/les-francs-macons-mythes-et-revelations-sur-une-societe-secrete-66792",
-   "image": "https://cdn.paris.fr/qfapv4/2024/08/08/huge-30a2cec4687ac49a3abcda622d58b073.jpg",
+   "url": "https://www.paris.fr/evenements/paris-street-art-a-la-butte-aux-cailles-66789",
+   "image": "https://cdn.paris.fr/qfapv4/2024/08/08/huge-5af7545ed318ae85aeb931c32f050d40.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -1338,6 +1307,66 @@
    "finitTard": false,
    "url": "https://www.paris.fr/evenements/balade-au-coeur-des-passages-couverts-66785",
    "image": "https://cdn.paris.fr/qfapv4/2024/08/08/huge-f38f10a83f42bac8e1614ad8f57ee26f.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Les Francs-maçons, mythes et révélations sur une société secrète",
+   "resume": "Grâce à cette balade historique guidée, arpentez les quartiers de Saint-Germain et du Palais Bourbon à la recherche des traces visibles ou dissimulées de la Franc-maçonnerie dans la capitale.",
+   "debut": "2024-10-01T00:00:00+00:00",
+   "fin": "2027-12-31T23:59:59+00:00",
+   "quand": "Du mardi 01 octobre 2024 au vendredi 31 décembre 2027 :",
+   "lieu": "Devant l’entrée de l’église Saint-Germain-des-Prés",
+   "adresse": "3 place Saint-Germain-des-Prés 75006 Paris",
+   "coords": [
+    48.8540319999931,
+    2.33367003609132
+   ],
+   "gratuit": false,
+   "prixDes": 10.0,
+   "prixTexte": "Adulte : 14,50 € - 18 ans : 10,00 €",
+   "reservation": true,
+   "meteo": "dehors",
+   "energie": "moyenne",
+   "profils": [
+    "solo",
+    "date"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/les-francs-macons-mythes-et-revelations-sur-une-societe-secrete-66792",
+   "image": "https://cdn.paris.fr/qfapv4/2024/08/08/huge-30a2cec4687ac49a3abcda622d58b073.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Le prisonnier de la Bastille",
+   "resume": "Ce jeu de piste conçu par vous propose d’accomplir le rêve de tout historien : remonter le temps pour vivre de l’intérieur l’une des journées les plus emblématiques de l’Histoire de France.",
+   "debut": "2024-10-01T00:00:00+00:00",
+   "fin": "2027-12-31T23:59:59+00:00",
+   "quand": "Du mardi 01 octobre 2024 au vendredi 31 décembre 2027 :",
+   "lieu": "Jardin de l'Arsenal, sur le quai du Port de l'Arsenal",
+   "adresse": "Métro Bastille, Sortie 4 75012 Paris",
+   "coords": [
+    48.851964,
+    2.368834
+   ],
+   "gratuit": false,
+   "prixDes": 9.5,
+   "prixTexte": "Adulte : 16,50 € - 18 ans : 9,50 € - 26 ans : 12,50 €",
+   "reservation": true,
+   "meteo": "dedans",
+   "energie": "moyenne",
+   "profils": [
+    "solo",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/le-prisonnier-de-la-bastille-66829",
+   "image": "https://cdn.paris.fr/qfapv4/2024/08/09/huge-c2a1a2cf46d26a8af3c4a440051c2967.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -1434,16 +1463,16 @@
   },
   {
    "id": "paris-None",
-   "titre": "Découvrez les activités des clubs séniors dans le 13e arrondissement de Paris",
-   "resume": "Les clubs séniors dans le 13ᵉ arrondissement vous accueillent gratuitement pour participer à une grande variété d’activités adaptées à vos envies et à vos besoins. Ces espaces chaleureux sont ouverts aux Parisiens âgés de 55 ans et plus, qu’ils soient retraités, préretraités ou adultes en situation de handicap.",
+   "titre": "Découvrez les activités des clubs séniors dans le 15e arrondissement de Paris",
+   "resume": "Les clubs séniors dans le 15ᵉ arrondissement vous accueillent gratuitement pour participer à une grande variété d’activités adaptées à vos envies et à vos besoins. Ces espaces chaleureux sont ouverts aux Parisiens âgés de 55 ans et plus, qu’ils soient retraités, préretraités ou adultes en situation de handicap.",
    "debut": "2025-01-01T00:00:00+00:00",
    "fin": "2026-12-31T23:59:59+00:00",
    "quand": "Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 : Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 :",
-   "lieu": "Club seniors Arago",
-   "adresse": "49, boulevard Arago 75013 Paris",
+   "lieu": "Club seniors Périchaux",
+   "adresse": "115, boulevard Lefebvre 75015 Paris",
    "coords": [
-    48.834798,
-    2.345398
+    48.829656,
+    2.297383
    ],
    "gratuit": true,
    "prixDes": 0.0,
@@ -1455,211 +1484,8 @@
     "copains"
    ],
    "finitTard": false,
-   "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-13e-arrondissement-de-paris-79220",
-   "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-0838a9a7d3bcec975475850bd5668e95.png",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Découvrez les activités des clubs séniors dans le 7e arrondissement de Paris",
-   "resume": "Les clubs séniors dans le 7ᵉ arrondissement vous accueillent gratuitement pour participer à une grande variété d’activités adaptées à vos envies et à vos besoins. Ces espaces chaleureux sont ouverts aux Parisiens âgés de 55 ans et plus, qu’ils soient retraités, préretraités ou adultes en situation de handicap.",
-   "debut": "2025-01-01T00:00:00+00:00",
-   "fin": "2026-12-31T23:59:59+00:00",
-   "quand": "Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 : Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 :",
-   "lieu": "Club seniors Malar",
-   "adresse": "88 bis, rue Saint-Dominique 75007 Paris",
-   "coords": [
-    48.857768,
-    2.323728
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "haute",
-   "profils": [
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-7e-arrondissement-de-paris-79218",
-   "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-f12e85cbf45b0bdd21ba4315b5c44a3f.png",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "La culture à pleines mains",
-   "resume": "Amoureux des mots et des signes ? À Paris, cinq bibliothèques vous ouvrent à la richesse de la culture sourde. Poussez les portes des \"Pôles Sourds\" et découvrez un monde de signes, de langues et de cultures, à travers une programmation bilingue et étonnante.",
-   "debut": "2025-01-01T00:00:00+00:00",
-   "fin": "2026-12-31T23:59:59+00:00",
-   "quand": "Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 :",
-   "lieu": null,
-   "adresse": "",
-   "coords": [
-    48.856578,
-    2.351828
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "basse",
-   "profils": [
-    "solo"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/la-culture-a-pleines-mains-79834",
-   "image": "https://cdn.paris.fr/qfapv4/2025/02/04/huge-bf8a4b90ed22a2f53c44c9d9ed2d180f.jpeg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Découvrez les activités des clubs séniors dans le 16e arrondissement de Paris",
-   "resume": "Les clubs séniors dans le 16ᵉ arrondissement vous accueillent gratuitement pour participer à une grande variété d’activités adaptées à vos envies et à vos besoins. Ces espaces chaleureux sont ouverts aux Parisiens âgés de 55 ans et plus, qu’ils soient retraités, préretraités ou adultes en situation de handicap.",
-   "debut": "2025-01-01T00:00:00+00:00",
-   "fin": "2026-12-31T23:59:59+00:00",
-   "quand": "Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 : Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 :",
-   "lieu": "Club seniors Mozart",
-   "adresse": "3, rue Serge Prokofiev 75016 Paris",
-   "coords": [
-    48.854007,
-    2.268493
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "haute",
-   "profils": [
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-16e-arrondissement-de-paris-79219",
-   "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-6ea6d75afbe80ee62c5a6b3692deb703.png",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Découvrez les activités des clubs séniors dans le 14e arrondissement de Paris",
-   "resume": "Les clubs séniors dans le 14ᵉ arrondissement vous accueillent gratuitement pour participer à une grande variété d’activités adaptées à vos envies et à vos besoins. Ces espaces chaleureux sont ouverts aux Parisiens âgés de 55 ans et plus, qu’ils soient retraités, préretraités ou adultes en situation de handicap.",
-   "debut": "2025-01-01T00:00:00+00:00",
-   "fin": "2026-12-31T23:59:59+00:00",
-   "quand": "Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 : Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 :",
-   "lieu": "Club seniors Didot",
-   "adresse": "10-12, avenue Georges Lafenestre 75014 Paris",
-   "coords": [
-    48.825325993274,
-    2.31121500130334
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "haute",
-   "profils": [
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-14e-arrondissement-de-paris-79217",
-   "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-7cd3ddd4f6159ad4126b8e5734f6d21f.png",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Découvrez les activités des clubs séniors dans l'arrondissement Centre de Paris",
-   "resume": "Les clubs séniors dans l'arrondissement Centre de Paris vous accueillent gratuitement pour participer à une grande variété d’activités adaptées à vos envies et à vos besoins. Ces espaces chaleureux sont ouverts aux Parisiens âgés de 55 ans et plus, qu’ils soient retraités, préretraités ou adultes en situation de handicap.",
-   "debut": "2025-01-01T00:00:00+00:00",
-   "fin": "2026-12-31T23:59:59+00:00",
-   "quand": "Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 : Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 :",
-   "lieu": "Club séniors Jardin des Halles",
-   "adresse": "8, rue des Prouvaires 75001 Paris",
-   "coords": [
-    48.861477,
-    2.344373
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "indifferent",
-   "energie": "haute",
-   "profils": [
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-l-arrondissement-centre-de-paris-79222",
-   "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-8c8ec4c7f61b19a2889bab2e69427f7b.png",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Découvrez les activités des clubs séniors dans le 11e arrondissement de Paris",
-   "resume": "Les clubs séniors dans le 11ᵉ arrondissement vous accueillent gratuitement pour participer à une grande variété d’activités adaptées à vos envies et à vos besoins. Ces espaces chaleureux sont ouverts aux Parisiens âgés de 55 ans et plus, qu’ils soient retraités, préretraités ou adultes en situation de handicap.",
-   "debut": "2025-01-01T00:00:00+00:00",
-   "fin": "2026-12-31T23:59:59+00:00",
-   "quand": "Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 : Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 :",
-   "lieu": "Club seniors Richard Lenoir",
-   "adresse": "61-63, boulevard Richard Lenoir 75011 Paris",
-   "coords": [
-    48.8600619830471,
-    2.37182001693725
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "haute",
-   "profils": [
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-11e-arrondissement-de-paris-79215",
-   "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-4500b236c3d0671bbbd6104b208b1bd4.png",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Découvrez les activités des clubs séniors dans le 10e arrondissement de Paris",
-   "resume": "Les clubs séniors dans le 10ᵉ arrondissement vous accueillent gratuitement pour participer à une grande variété d’activités adaptées à vos envies et à vos besoins. Ces espaces chaleureux sont ouverts aux Parisiens âgés de 55 ans et plus, qu’ils soient retraités, préretraités ou adultes en situation de handicap.",
-   "debut": "2025-01-01T00:00:00+00:00",
-   "fin": "2026-12-31T23:59:59+00:00",
-   "quand": "Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 : Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 :",
-   "lieu": "Club seniors Grange aux Belles",
-   "adresse": "11, rue Boy Zelenski 75010 Paris",
-   "coords": [
-    48.877117,
-    2.368156
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "haute",
-   "profils": [
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-10e-arrondissement-de-paris-79253",
-   "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-c4cd56423cb5e2b723afca3c95e7d3ad.png",
+   "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-15e-arrondissement-de-paris-79214",
+   "image": "https://cdn.paris.fr/qfapv4/2025/01/23/huge-f498c57a966942fc9eedc67a61631240.png",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -1695,35 +1521,6 @@
   },
   {
    "id": "paris-None",
-   "titre": "Découvrez les activités des clubs séniors dans le 6e arrondissement de Paris",
-   "resume": "Les clubs séniors dans le 6ᵉ arrondissement vous accueillent gratuitement pour participer à une grande variété d’activités adaptées à vos envies et à vos besoins. Ces espaces chaleureux sont ouverts aux Parisiens âgés de 55 ans et plus, qu’ils soient retraités, préretraités ou adultes en situation de handicap.",
-   "debut": "2025-01-01T00:00:00+00:00",
-   "fin": "2026-12-31T23:59:59+00:00",
-   "quand": "Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 : Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 :",
-   "lieu": "Club seniors Malraux",
-   "adresse": "112, rue de Rennes 75006 Paris",
-   "coords": [
-    48.847867,
-    2.327543
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "haute",
-   "profils": [
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-6e-arrondissement-de-paris-79216",
-   "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-b0b2d854255a9eeb42b7da25283572e2.png",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
    "titre": "Découvrez les activités des clubs séniors dans le 12e arrondissement de Paris",
    "resume": "Les clubs séniors dans le 12ᵉ arrondissement vous accueillent gratuitement pour participer à une grande variété d’activités adaptées à vos envies et à vos besoins. Ces espaces chaleureux sont ouverts aux Parisiens âgés de 55 ans et plus, qu’ils soient retraités, préretraités ou adultes en situation de handicap.",
    "debut": "2025-01-01T00:00:00+00:00",
@@ -1753,16 +1550,16 @@
   },
   {
    "id": "paris-None",
-   "titre": "Découvrez les activités des clubs séniors dans le 18e arrondissement de Paris",
-   "resume": "Les clubs séniors dans le 18ᵉ arrondissement vous accueillent gratuitement pour participer à une grande variété d’activités adaptées à vos envies et à vos besoins. Ces espaces chaleureux sont ouverts aux Parisiens âgés de 55 ans et plus, qu’ils soient retraités, préretraités ou adultes en situation de handicap.",
+   "titre": "Découvrez les activités des clubs séniors dans le 11e arrondissement de Paris",
+   "resume": "Les clubs séniors dans le 11ᵉ arrondissement vous accueillent gratuitement pour participer à une grande variété d’activités adaptées à vos envies et à vos besoins. Ces espaces chaleureux sont ouverts aux Parisiens âgés de 55 ans et plus, qu’ils soient retraités, préretraités ou adultes en situation de handicap.",
    "debut": "2025-01-01T00:00:00+00:00",
    "fin": "2026-12-31T23:59:59+00:00",
    "quand": "Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 : Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 :",
-   "lieu": "Club seniors Georgette Agutte",
-   "adresse": "8, rue Georgette Agutte 75018 Paris",
+   "lieu": "Club seniors Richard Lenoir",
+   "adresse": "61-63, boulevard Richard Lenoir 75011 Paris",
    "coords": [
-    48.894504,
-    2.33257
+    48.8600619830471,
+    2.37182001693725
    ],
    "gratuit": true,
    "prixDes": 0.0,
@@ -1774,24 +1571,24 @@
     "copains"
    ],
    "finitTard": false,
-   "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-18e-arrondissement-de-paris-79221",
-   "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-b1bacf3a33f45dd3372ece9138df4b45.png",
+   "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-11e-arrondissement-de-paris-79215",
+   "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-4500b236c3d0671bbbd6104b208b1bd4.png",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
   },
   {
    "id": "paris-None",
-   "titre": "Découvrez les activités des clubs séniors dans le 15e arrondissement de Paris",
-   "resume": "Les clubs séniors dans le 15ᵉ arrondissement vous accueillent gratuitement pour participer à une grande variété d’activités adaptées à vos envies et à vos besoins. Ces espaces chaleureux sont ouverts aux Parisiens âgés de 55 ans et plus, qu’ils soient retraités, préretraités ou adultes en situation de handicap.",
+   "titre": "Découvrez les activités des clubs séniors dans le 7e arrondissement de Paris",
+   "resume": "Les clubs séniors dans le 7ᵉ arrondissement vous accueillent gratuitement pour participer à une grande variété d’activités adaptées à vos envies et à vos besoins. Ces espaces chaleureux sont ouverts aux Parisiens âgés de 55 ans et plus, qu’ils soient retraités, préretraités ou adultes en situation de handicap.",
    "debut": "2025-01-01T00:00:00+00:00",
    "fin": "2026-12-31T23:59:59+00:00",
    "quand": "Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 : Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 :",
-   "lieu": "Club seniors Périchaux",
-   "adresse": "115, boulevard Lefebvre 75015 Paris",
+   "lieu": "Club seniors Malar",
+   "adresse": "88 bis, rue Saint-Dominique 75007 Paris",
    "coords": [
-    48.829656,
-    2.297383
+    48.857768,
+    2.323728
    ],
    "gratuit": true,
    "prixDes": 0.0,
@@ -1803,37 +1600,8 @@
     "copains"
    ],
    "finitTard": false,
-   "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-15e-arrondissement-de-paris-79214",
-   "image": "https://cdn.paris.fr/qfapv4/2025/01/23/huge-f498c57a966942fc9eedc67a61631240.png",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Découvrez les activités des clubs séniors dans le 19e arrondissement de Paris",
-   "resume": "Les clubs séniors dans le 19ᵉ arrondissement vous accueillent gratuitement pour participer à une grande variété d’activités adaptées à vos envies et à vos besoins. Ces espaces chaleureux sont ouverts aux Parisiens âgés de 55 ans et plus, qu’ils soient retraités, préretraités ou adultes en situation de handicap.",
-   "debut": "2025-01-01T00:00:00+00:00",
-   "fin": "2026-12-31T23:59:59+00:00",
-   "quand": "Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 : Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 :",
-   "lieu": "Club seniors Chaufourniers",
-   "adresse": "2, allée Georges Récipon 75019 Paris",
-   "coords": [
-    48.879681,
-    2.372396
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "indifferent",
-   "energie": "haute",
-   "profils": [
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-19e-arrondissement-de-paris-79240",
-   "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-11a4de9fc7e06ff3ad8e6b567363d18d.png",
+   "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-7e-arrondissement-de-paris-79218",
+   "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-f12e85cbf45b0bdd21ba4315b5c44a3f.png",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -1870,6 +1638,64 @@
   },
   {
    "id": "paris-None",
+   "titre": "La culture à pleines mains",
+   "resume": "Amoureux des mots et des signes ? À Paris, cinq bibliothèques vous ouvrent à la richesse de la culture sourde. Poussez les portes des \"Pôles Sourds\" et découvrez un monde de signes, de langues et de cultures, à travers une programmation bilingue et étonnante.",
+   "debut": "2025-01-01T00:00:00+00:00",
+   "fin": "2026-12-31T23:59:59+00:00",
+   "quand": "Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 :",
+   "lieu": null,
+   "adresse": "",
+   "coords": [
+    48.856578,
+    2.351828
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "basse",
+   "profils": [
+    "solo"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/la-culture-a-pleines-mains-79834",
+   "image": "https://cdn.paris.fr/qfapv4/2025/02/04/huge-bf8a4b90ed22a2f53c44c9d9ed2d180f.jpeg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Découvrez les activités des clubs séniors dans le 14e arrondissement de Paris",
+   "resume": "Les clubs séniors dans le 14ᵉ arrondissement vous accueillent gratuitement pour participer à une grande variété d’activités adaptées à vos envies et à vos besoins. Ces espaces chaleureux sont ouverts aux Parisiens âgés de 55 ans et plus, qu’ils soient retraités, préretraités ou adultes en situation de handicap.",
+   "debut": "2025-01-01T00:00:00+00:00",
+   "fin": "2026-12-31T23:59:59+00:00",
+   "quand": "Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 : Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 :",
+   "lieu": "Club seniors Didot",
+   "adresse": "10-12, avenue Georges Lafenestre 75014 Paris",
+   "coords": [
+    48.825325993274,
+    2.31121500130334
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "haute",
+   "profils": [
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-14e-arrondissement-de-paris-79217",
+   "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-7cd3ddd4f6159ad4126b8e5734f6d21f.png",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
    "titre": "Découvrez les activités des clubs séniors dans le 5e arrondissement de Paris",
    "resume": "Les clubs séniors dans le 5ᵉ arrondissement vous accueillent gratuitement pour participer à une grande variété d’activités adaptées à vos envies et à vos besoins. Ces espaces chaleureux sont ouverts aux Parisiens âgés de 55 ans et plus, qu’ils soient retraités, préretraités ou adultes en situation de handicap.",
    "debut": "2025-01-01T00:00:00+00:00",
@@ -1893,6 +1719,209 @@
    "finitTard": false,
    "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-5e-arrondissement-de-paris-77923",
    "image": "https://cdn.paris.fr/qfapv4/2025/01/03/huge-e1d5b6fcf38459fb12c49348d1468161.png",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Découvrez les activités des clubs séniors dans le 18e arrondissement de Paris",
+   "resume": "Les clubs séniors dans le 18ᵉ arrondissement vous accueillent gratuitement pour participer à une grande variété d’activités adaptées à vos envies et à vos besoins. Ces espaces chaleureux sont ouverts aux Parisiens âgés de 55 ans et plus, qu’ils soient retraités, préretraités ou adultes en situation de handicap.",
+   "debut": "2025-01-01T00:00:00+00:00",
+   "fin": "2026-12-31T23:59:59+00:00",
+   "quand": "Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 : Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 :",
+   "lieu": "Club seniors Georgette Agutte",
+   "adresse": "8, rue Georgette Agutte 75018 Paris",
+   "coords": [
+    48.894504,
+    2.33257
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "haute",
+   "profils": [
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-18e-arrondissement-de-paris-79221",
+   "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-b1bacf3a33f45dd3372ece9138df4b45.png",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Découvrez les activités des clubs séniors dans le 10e arrondissement de Paris",
+   "resume": "Les clubs séniors dans le 10ᵉ arrondissement vous accueillent gratuitement pour participer à une grande variété d’activités adaptées à vos envies et à vos besoins. Ces espaces chaleureux sont ouverts aux Parisiens âgés de 55 ans et plus, qu’ils soient retraités, préretraités ou adultes en situation de handicap.",
+   "debut": "2025-01-01T00:00:00+00:00",
+   "fin": "2026-12-31T23:59:59+00:00",
+   "quand": "Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 : Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 :",
+   "lieu": "Club seniors Grange aux Belles",
+   "adresse": "11, rue Boy Zelenski 75010 Paris",
+   "coords": [
+    48.877117,
+    2.368156
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "haute",
+   "profils": [
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-10e-arrondissement-de-paris-79253",
+   "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-c4cd56423cb5e2b723afca3c95e7d3ad.png",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Découvrez les activités des clubs séniors dans l'arrondissement Centre de Paris",
+   "resume": "Les clubs séniors dans l'arrondissement Centre de Paris vous accueillent gratuitement pour participer à une grande variété d’activités adaptées à vos envies et à vos besoins. Ces espaces chaleureux sont ouverts aux Parisiens âgés de 55 ans et plus, qu’ils soient retraités, préretraités ou adultes en situation de handicap.",
+   "debut": "2025-01-01T00:00:00+00:00",
+   "fin": "2026-12-31T23:59:59+00:00",
+   "quand": "Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 : Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 :",
+   "lieu": "Club séniors Jardin des Halles",
+   "adresse": "8, rue des Prouvaires 75001 Paris",
+   "coords": [
+    48.861477,
+    2.344373
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "indifferent",
+   "energie": "haute",
+   "profils": [
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-l-arrondissement-centre-de-paris-79222",
+   "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-8c8ec4c7f61b19a2889bab2e69427f7b.png",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Découvrez les activités des clubs séniors dans le 16e arrondissement de Paris",
+   "resume": "Les clubs séniors dans le 16ᵉ arrondissement vous accueillent gratuitement pour participer à une grande variété d’activités adaptées à vos envies et à vos besoins. Ces espaces chaleureux sont ouverts aux Parisiens âgés de 55 ans et plus, qu’ils soient retraités, préretraités ou adultes en situation de handicap.",
+   "debut": "2025-01-01T00:00:00+00:00",
+   "fin": "2026-12-31T23:59:59+00:00",
+   "quand": "Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 : Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 :",
+   "lieu": "Club seniors Mozart",
+   "adresse": "3, rue Serge Prokofiev 75016 Paris",
+   "coords": [
+    48.854007,
+    2.268493
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "haute",
+   "profils": [
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-16e-arrondissement-de-paris-79219",
+   "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-6ea6d75afbe80ee62c5a6b3692deb703.png",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Découvrez les activités des clubs séniors dans le 6e arrondissement de Paris",
+   "resume": "Les clubs séniors dans le 6ᵉ arrondissement vous accueillent gratuitement pour participer à une grande variété d’activités adaptées à vos envies et à vos besoins. Ces espaces chaleureux sont ouverts aux Parisiens âgés de 55 ans et plus, qu’ils soient retraités, préretraités ou adultes en situation de handicap.",
+   "debut": "2025-01-01T00:00:00+00:00",
+   "fin": "2026-12-31T23:59:59+00:00",
+   "quand": "Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 : Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 :",
+   "lieu": "Club seniors Malraux",
+   "adresse": "112, rue de Rennes 75006 Paris",
+   "coords": [
+    48.847867,
+    2.327543
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "haute",
+   "profils": [
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-6e-arrondissement-de-paris-79216",
+   "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-b0b2d854255a9eeb42b7da25283572e2.png",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Découvrez les activités des clubs séniors dans le 19e arrondissement de Paris",
+   "resume": "Les clubs séniors dans le 19ᵉ arrondissement vous accueillent gratuitement pour participer à une grande variété d’activités adaptées à vos envies et à vos besoins. Ces espaces chaleureux sont ouverts aux Parisiens âgés de 55 ans et plus, qu’ils soient retraités, préretraités ou adultes en situation de handicap.",
+   "debut": "2025-01-01T00:00:00+00:00",
+   "fin": "2026-12-31T23:59:59+00:00",
+   "quand": "Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 : Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 :",
+   "lieu": "Club seniors Chaufourniers",
+   "adresse": "2, allée Georges Récipon 75019 Paris",
+   "coords": [
+    48.879681,
+    2.372396
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "indifferent",
+   "energie": "haute",
+   "profils": [
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-19e-arrondissement-de-paris-79240",
+   "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-11a4de9fc7e06ff3ad8e6b567363d18d.png",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Découvrez les activités des clubs séniors dans le 13e arrondissement de Paris",
+   "resume": "Les clubs séniors dans le 13ᵉ arrondissement vous accueillent gratuitement pour participer à une grande variété d’activités adaptées à vos envies et à vos besoins. Ces espaces chaleureux sont ouverts aux Parisiens âgés de 55 ans et plus, qu’ils soient retraités, préretraités ou adultes en situation de handicap.",
+   "debut": "2025-01-01T00:00:00+00:00",
+   "fin": "2026-12-31T23:59:59+00:00",
+   "quand": "Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 : Du mercredi 01 janvier 2025 au jeudi 31 décembre 2026 :",
+   "lieu": "Club seniors Arago",
+   "adresse": "49, boulevard Arago 75013 Paris",
+   "coords": [
+    48.834798,
+    2.345398
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "haute",
+   "profils": [
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/decouvrez-les-activites-des-clubs-seniors-dans-le-13e-arrondissement-de-paris-79220",
+   "image": "https://cdn.paris.fr/qfapv4/2025/01/24/huge-0838a9a7d3bcec975475850bd5668e95.png",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -2611,32 +2640,6 @@
   },
   {
    "id": "paris-None",
-   "titre": "Paris Sportives : du sport en plein air pour toutes !",
-   "resume": "Le dispositif « Paris Sportives » permet aux femmes et adolescentes de pratiquer régulièrement une activité physique sur les terrains de sport et dans les squares. Et c'est gratuit ! Découvrez tous les lieux et les activités.",
-   "debut": "2026-01-01T00:00:00+00:00",
-   "fin": "2027-01-01T23:59:59+00:00",
-   "quand": "Du jeudi 01 janvier 2026 au vendredi 01 janvier 2027 :",
-   "lieu": null,
-   "adresse": "",
-   "coords": null,
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dehors",
-   "energie": "moyenne",
-   "profils": [
-    "solo"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/paris-sportives-du-sport-en-plein-air-pour-toutes-81463",
-   "image": "https://cdn.paris.fr/qfapv4/2025/03/06/huge-f15dbdc18cc1dbcc9916a303aa7ee594.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
    "titre": "Saison culturelle de la Bibliothèque historique de la Ville de Paris",
    "resume": "La Bibliothèque historique de la Ville de Paris propose une offre culturelle riche en lien avec ses collections : histoire de Paris et l'Ile-de-France, le théâtre et la vie culturelle et littéraire parisienne.",
    "debut": "2026-01-01T00:00:00+00:00",
@@ -2689,6 +2692,32 @@
    "finitTard": false,
    "url": "https://www.paris.fr/evenements/decouvrir-et-pratiquer-les-langues-etrangeres-dans-les-bibliotheques-de-la-ville-de-paris-115383",
    "image": "https://cdn.paris.fr/qfapv4/2026/04/01/huge-7986d297bcd8ee6f5b14fbdf2191b214.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Paris Sportives : du sport en plein air pour toutes !",
+   "resume": "Le dispositif « Paris Sportives » permet aux femmes et adolescentes de pratiquer régulièrement une activité physique sur les terrains de sport et dans les squares. Et c'est gratuit ! Découvrez tous les lieux et les activités.",
+   "debut": "2026-01-01T00:00:00+00:00",
+   "fin": "2027-01-01T23:59:59+00:00",
+   "quand": "Du jeudi 01 janvier 2026 au vendredi 01 janvier 2027 :",
+   "lieu": null,
+   "adresse": "",
+   "coords": null,
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dehors",
+   "energie": "moyenne",
+   "profils": [
+    "solo"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/paris-sportives-du-sport-en-plein-air-pour-toutes-81463",
+   "image": "https://cdn.paris.fr/qfapv4/2025/03/06/huge-f15dbdc18cc1dbcc9916a303aa7ee594.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -4165,550 +4194,6 @@
   },
   {
    "id": "paris-None",
-   "titre": "Kiosque en Fête au Square Edouard Vaillant",
-   "resume": "Concerts et danse y sont programmés dans le cadre de la saison « Kiosques en fête ».",
-   "debut": "2026-04-18T00:00:00+00:00",
-   "fin": "2026-10-25T23:59:59+00:00",
-   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Square Edouard Vaillant",
-   "adresse": "50, avenue Gambetta 75020 Paris",
-   "coords": [
-    48.8660770044038,
-    2.39966503456219
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "haute",
-   "profils": [
-    "date",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-edouard-vaillant-86861",
-   "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-df66110b2c5d35ca79be682547c26f7e.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Kiosque en Fête au square Séverine",
-   "resume": "Concerts et DJ set y sont programmés dans le cadre de la saison « Kiosques en fête ».",
-   "debut": "2026-04-18T00:00:00+00:00",
-   "fin": "2026-10-25T23:59:59+00:00",
-   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Square Séverine",
-   "adresse": "7, rue Le Vau 75020 Paris",
-   "coords": [
-    48.866512,
-    2.411086
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "haute",
-   "profils": [
-    "date",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-a-l-auditorium-du-square-severine-86893",
-   "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-e77015cf365d7e3a3572f15a96718e74.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Kiosque en Fête au square Carpeaux",
-   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
-   "debut": "2026-04-18T00:00:00+00:00",
-   "fin": "2026-10-25T23:59:59+00:00",
-   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Square Carpeaux",
-   "adresse": "23 rue Carpeaux 75018 Paris",
-   "coords": [
-    48.891316,
-    2.332054
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "haute",
-   "profils": [
-    "date",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-carpeaux-108638",
-   "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Kiosque en Fête au jardin Villemin - Mahsa Jîna Amini",
-   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
-   "debut": "2026-04-18T00:00:00+00:00",
-   "fin": "2026-10-25T23:59:59+00:00",
-   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Jardin Villemin - Mahsa Jîna Amini",
-   "adresse": "14 rue des Récollets 75010 Paris",
-   "coords": [
-    48.874624,
-    2.361366
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "indifferent",
-   "energie": "haute",
-   "profils": [
-    "date",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-jardin-villemin-mahsa-jina-amini-108554",
-   "image": "https://cdn.paris.fr/qfapv4/2025/01/14/huge-8c70e1d25d24703e6a361053c5d48cb9.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Kiosque en fête au Square Monseigneur Maillet",
-   "resume": "Concerts et danse y sont programmés dans le cadre de la saison « Kiosques en fête ».",
-   "debut": "2026-04-18T00:00:00+00:00",
-   "fin": "2026-10-25T23:59:59+00:00",
-   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Square Monseigneur Maillet",
-   "adresse": "Place des Fêtes 75019 Paris",
-   "coords": [
-    48.877325,
-    2.395054
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "haute",
-   "profils": [
-    "date",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-monseigneur-maillet-86949",
-   "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-e77015cf365d7e3a3572f15a96718e74.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Kiosque en Fête au Square Serge Reggiani",
-   "resume": "Concerts et représentations de danse y sont programmés dans le cadre de la saison « Kiosques en fête ».",
-   "debut": "2026-04-18T00:00:00+00:00",
-   "fin": "2026-10-25T23:59:59+00:00",
-   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Square Serge Reggiani",
-   "adresse": "place de Bitche 75019 Paris",
-   "coords": [
-    48.889335,
-    2.379015
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "haute",
-   "profils": [
-    "date",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-serge-reggiani-86945",
-   "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-df66110b2c5d35ca79be682547c26f7e.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Kiosque en Fête à la promenade Pereire - Thérèse Pierre",
-   "resume": "Concerts et musique sont programmés dans le cadre de la saison « Kiosques en fête ».",
-   "debut": "2026-04-18T00:00:00+00:00",
-   "fin": "2026-10-25T23:59:59+00:00",
-   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Promenade Pereire",
-   "adresse": "boulevard Pereire 75017 Paris",
-   "coords": [
-    48.884456,
-    2.296673
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "indifferent",
-   "energie": "haute",
-   "profils": [
-    "solo",
-    "date",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-a-la-promenade-pereire-therese-pierre-108635",
-   "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Kiosque en Fête au parc Sainte-Périne",
-   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
-   "debut": "2026-04-18T00:00:00+00:00",
-   "fin": "2026-10-25T23:59:59+00:00",
-   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Parc Sainte-Périne",
-   "adresse": "41, rue Mirabeau 75016 Paris",
-   "coords": [
-    48.84577,
-    2.268717
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "indifferent",
-   "energie": "haute",
-   "profils": [
-    "date",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-parc-sainte-perine-108633",
-   "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Kiosque en Fête au square Courteline",
-   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
-   "debut": "2026-04-18T00:00:00+00:00",
-   "fin": "2026-10-25T23:59:59+00:00",
-   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Square Courteline",
-   "adresse": "51 boulevard de Picpus 75012 Paris",
-   "coords": [
-    48.844727,
-    2.401855
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "haute",
-   "profils": [
-    "date",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-courteline-108569",
-   "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Kiosque en Fête au jardin de Marianne",
-   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
-   "debut": "2026-04-18T00:00:00+00:00",
-   "fin": "2026-10-25T23:59:59+00:00",
-   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Jardin de Marianne",
-   "adresse": "Place de la Nation 75012 Paris",
-   "coords": [
-    48.84736,
-    2.396348
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "indifferent",
-   "energie": "haute",
-   "profils": [
-    "date",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-jardin-de-marianne-108567",
-   "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Kiosque en Fête au parc Montsouris",
-   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
-   "debut": "2026-04-18T00:00:00+00:00",
-   "fin": "2026-10-25T23:59:59+00:00",
-   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Parc Montsouris",
-   "adresse": "2, rue Gazan 75014 Paris",
-   "coords": [
-    48.824187,
-    2.339934
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "indifferent",
-   "energie": "haute",
-   "profils": [
-    "date",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-parc-montsouris-108620",
-   "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Kiosque en Fête au square Maurice Kriegel-Valrimont",
-   "resume": "Concerts, danse et jeux de société y sont programmés dans le cadre de la saison « Kiosques en Fête ».",
-   "debut": "2026-04-18T00:00:00+00:00",
-   "fin": "2026-10-25T23:59:59+00:00",
-   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Square Maurice Kriegel-Valrimont",
-   "adresse": "1 square de Clignancourt 75018 Paris",
-   "coords": [
-    48.892417,
-    2.346071
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "haute",
-   "profils": [
-    "solo",
-    "date",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-maurice-kriegel-valrimont-86961",
-   "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-df66110b2c5d35ca79be682547c26f7e.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Kiosque en fête sur la Promenade Pereire - Gilberte Brossolette",
-   "resume": "Concerts et karaokés y sont programmés dans le cadre de la saison « Kiosques en fête ».",
-   "debut": "2026-04-18T00:00:00+00:00",
-   "fin": "2026-10-25T23:59:59+00:00",
-   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Promenade Pereire - Gilberte Brossolette",
-   "adresse": "Bd Pereire,  Paris 75017 Paris",
-   "coords": [
-    48.8814930117876,
-    2.29044270941768
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "indifferent",
-   "energie": "haute",
-   "profils": [
-    "solo",
-    "date",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-sur-la-promenade-pereire-gilberte-brossolette-86986",
-   "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-e77015cf365d7e3a3572f15a96718e74.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Kiosque en fête au square Violet",
-   "resume": "Concerts et ateliers de danse y sont programmés dans le cadre de la saison « Kiosques en fête ».",
-   "debut": "2026-04-18T00:00:00+00:00",
-   "fin": "2026-10-25T23:59:59+00:00",
-   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Square Violet",
-   "adresse": "4 place Violet 75015 Paris",
-   "coords": [
-    48.844615,
-    2.289962
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "haute",
-   "profils": [
-    "solo",
-    "date",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-violet-87001",
-   "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-df66110b2c5d35ca79be682547c26f7e.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Kiosque en Fête au square Franck Bauer",
-   "resume": "Concerts, poésie et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
-   "debut": "2026-04-18T00:00:00+00:00",
-   "fin": "2026-10-25T23:59:59+00:00",
-   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Square Franck Bauer",
-   "adresse": "26 rue Dupleix 75015 Paris",
-   "coords": [
-    48.851459,
-    2.296564
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "haute",
-   "profils": [
-    "date",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-franck-bauer-108629",
-   "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Kiosque en Fête au square Trousseau",
-   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
-   "debut": "2026-04-18T00:00:00+00:00",
-   "fin": "2026-10-25T23:59:59+00:00",
-   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Square Trousseau",
-   "adresse": "2 rue Antoine Vollon 75012 Paris",
-   "coords": [
-    48.850194,
-    2.376706
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "haute",
-   "profils": [
-    "date",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-trousseau-108572",
-   "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Kiosque en Fête au jardin des Champs-Élysées",
-   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
-   "debut": "2026-04-18T00:00:00+00:00",
-   "fin": "2026-10-25T23:59:59+00:00",
-   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Jardins des Champs-Élysées",
-   "adresse": "10 avenue des Champs-Élysées 75008 Paris",
-   "coords": [
-    48.867887,
-    2.315269
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "indifferent",
-   "energie": "haute",
-   "profils": [
-    "date",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-jardin-des-champs-elysees-108549",
-   "image": "https://cdn.paris.fr/qfapv4/2025/01/14/huge-8c70e1d25d24703e6a361053c5d48cb9.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Kiosque en Fête au square du Temple - Elie Wiesel",
-   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
-   "debut": "2026-04-18T00:00:00+00:00",
-   "fin": "2026-10-25T23:59:59+00:00",
-   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Square du Temple - Elie Wiesel",
-   "adresse": "64, rue de Bretagne 75003 Paris",
-   "coords": [
-    48.864524,
-    2.36005
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "haute",
-   "profils": [
-    "date",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-du-temple-elie-wiesel-108548",
-   "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
    "titre": "Kiosque en fête au Jardin d'Éole",
    "resume": "Concerts, ateliers et spectacles y sont programmés dans le cadre de la saison « Kiosques en fête ».",
    "debut": "2026-04-18T00:00:00+00:00",
@@ -4770,16 +4255,46 @@
   },
   {
    "id": "paris-None",
-   "titre": "Kiosque en fête au square Jean Chérioux",
-   "resume": "Des concerts y sont programmés dans le cadre de la saison « Kiosques en fête ».",
+   "titre": "Kiosque en Fête au Square Serge Reggiani",
+   "resume": "Concerts et représentations de danse y sont programmés dans le cadre de la saison « Kiosques en fête ».",
    "debut": "2026-04-18T00:00:00+00:00",
    "fin": "2026-10-25T23:59:59+00:00",
    "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Square Jean Chérioux",
-   "adresse": "260, rue de Vaugirard 75015 Paris",
+   "lieu": "Square Serge Reggiani",
+   "adresse": "place de Bitche 75019 Paris",
    "coords": [
-    48.839488,
-    2.300846
+    48.889335,
+    2.379015
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "haute",
+   "profils": [
+    "date",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-serge-reggiani-86945",
+   "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-df66110b2c5d35ca79be682547c26f7e.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Kiosque en Fête au parc Sainte-Périne",
+   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
+   "debut": "2026-04-18T00:00:00+00:00",
+   "fin": "2026-10-25T23:59:59+00:00",
+   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
+   "lieu": "Parc Sainte-Périne",
+   "adresse": "41, rue Mirabeau 75016 Paris",
+   "coords": [
+    48.84577,
+    2.268717
    ],
    "gratuit": true,
    "prixDes": 0.0,
@@ -4792,24 +4307,84 @@
     "copains"
    ],
    "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-jean-cherioux-87028",
-   "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-e77015cf365d7e3a3572f15a96718e74.jpg",
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-parc-sainte-perine-108633",
+   "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
   },
   {
    "id": "paris-None",
-   "titre": "Kiosque en Fête au jardin Curial",
-   "resume": "Spectacle, théâtre et sport y sont programmés dans le cadre de la saison « Kiosques en fête ».",
+   "titre": "Kiosque en Fête au square Trousseau",
+   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
    "debut": "2026-04-18T00:00:00+00:00",
    "fin": "2026-10-25T23:59:59+00:00",
    "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Jardin Curial",
-   "adresse": "92, 94 rue Curial 75019 Paris",
+   "lieu": "Square Trousseau",
+   "adresse": "2 rue Antoine Vollon 75012 Paris",
    "coords": [
-    48.895996,
-    2.375937
+    48.850194,
+    2.376706
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "haute",
+   "profils": [
+    "date",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-trousseau-108572",
+   "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Kiosque en Fête au square Yvette-Chauviré",
+   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
+   "debut": "2026-04-18T00:00:00+00:00",
+   "fin": "2026-10-25T23:59:59+00:00",
+   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
+   "lieu": "Square Yvette Chauviré",
+   "adresse": "18, place du Commerce 75015 Paris",
+   "coords": [
+    48.844553,
+    2.293528
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "haute",
+   "profils": [
+    "date",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-yvette-chauvire-108623",
+   "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Kiosque en Fête au parc Georges Brassens",
+   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
+   "debut": "2026-04-18T00:00:00+00:00",
+   "fin": "2026-10-25T23:59:59+00:00",
+   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
+   "lieu": "Parc Georges Brassens",
+   "adresse": "2, place Jacques-Marette 75015 Paris",
+   "coords": [
+    48.832693,
+    2.300441
    ],
    "gratuit": true,
    "prixDes": 0.0,
@@ -4818,11 +4393,11 @@
    "meteo": "indifferent",
    "energie": "haute",
    "profils": [
-    "solo",
-    "date"
+    "date",
+    "copains"
    ],
    "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-jardin-curial-108640",
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-parc-george-brassens-108625",
    "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
@@ -4860,76 +4435,16 @@
   },
   {
    "id": "paris-None",
-   "titre": "Kiosque en Fête au square d'Anvers - Jean-Claude Carrière",
+   "titre": "Kiosque en Fête au parc de Belleville",
    "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
    "debut": "2026-04-18T00:00:00+00:00",
    "fin": "2026-10-25T23:59:59+00:00",
    "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Square d'Anvers - Jean-Claude Carrière",
-   "adresse": "10 bis avenue Trudaine 75009 Paris",
+   "lieu": "Parc de Belleville",
+   "adresse": "47 rue des Couronnes 75020 Paris",
    "coords": [
-    48.881861,
-    2.345361
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "haute",
-   "profils": [
-    "date",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-d-anvers-jean-claude-carriere-108553",
-   "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Kiosque en fête au square des Epinettes",
-   "resume": "Des concerts y sont programmés dans le cadre de la saison « Kiosques en fête ».",
-   "debut": "2026-04-18T00:00:00+00:00",
-   "fin": "2026-10-25T23:59:59+00:00",
-   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Square des Epinettes",
-   "adresse": "9 rue Maria Deraismes 75017 Paris",
-   "coords": [
-    48.894629,
-    2.327401
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "haute",
-   "profils": [
-    "date",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-des-epinettes-86981",
-   "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-df66110b2c5d35ca79be682547c26f7e.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Kiosque en fête au jardin du Ranelagh",
-   "resume": "Concerts et représentations de danse y sont programmés dans le cadre de la saison « Kiosques en fête ».",
-   "debut": "2026-04-18T00:00:00+00:00",
-   "fin": "2026-10-25T23:59:59+00:00",
-   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Jardin du Ranelagh",
-   "adresse": "1, avenue Prudhon 75016 Paris",
-   "coords": [
-    48.858896,
-    2.269648
+    48.8703210134387,
+    2.38495102263286
    ],
    "gratuit": true,
    "prixDes": 0.0,
@@ -4942,67 +4457,7 @@
     "copains"
    ],
    "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-jardin-du-ranelagh-86996",
-   "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-df66110b2c5d35ca79be682547c26f7e.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Kiosque en Fête au square Sarah Bernhardt",
-   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
-   "debut": "2026-04-18T00:00:00+00:00",
-   "fin": "2026-10-25T23:59:59+00:00",
-   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Square Sarah Bernhardt",
-   "adresse": "2 rue de Buzenval 75020 Paris",
-   "coords": [
-    48.849254,
-    2.402686
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "haute",
-   "profils": [
-    "date",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-a-l-auditorium-du-square-sarah-bernhardt-86903",
-   "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-df66110b2c5d35ca79be682547c26f7e.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Kiosque en Fête au square Yvette-Chauviré",
-   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
-   "debut": "2026-04-18T00:00:00+00:00",
-   "fin": "2026-10-25T23:59:59+00:00",
-   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Square Yvette Chauviré",
-   "adresse": "18, place du Commerce 75015 Paris",
-   "coords": [
-    48.844553,
-    2.293528
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "haute",
-   "profils": [
-    "date",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-yvette-chauvire-108623",
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-a-l-amphiteatre-du-parc-de-belleville-86912",
    "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
@@ -5010,46 +4465,16 @@
   },
   {
    "id": "paris-None",
-   "titre": "Kiosque en Fête au parc de Choisy",
-   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
+   "titre": "Kiosque en fête au square Violet",
+   "resume": "Concerts et ateliers de danse y sont programmés dans le cadre de la saison « Kiosques en fête ».",
    "debut": "2026-04-18T00:00:00+00:00",
    "fin": "2026-10-25T23:59:59+00:00",
    "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Parc de Choisy",
-   "adresse": "128, avenue de Choisy 75013 Paris",
+   "lieu": "Square Violet",
+   "adresse": "4 place Violet 75015 Paris",
    "coords": [
-    48.826778,
-    2.359658
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "indifferent",
-   "energie": "haute",
-   "profils": [
-    "date",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-parc-de-choisy-108592",
-   "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Kiosque en Fête au square Dominique Bernard (ex Jules Ferry)",
-   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
-   "debut": "2026-04-18T00:00:00+00:00",
-   "fin": "2026-10-25T23:59:59+00:00",
-   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Square Dominique Bernard",
-   "adresse": "1 boulevard Jules-Ferry 75011 Paris",
-   "coords": [
-    48.86668,
-    2.368461
+    48.844615,
+    2.289962
    ],
    "gratuit": true,
    "prixDes": 0.0,
@@ -5058,41 +4483,12 @@
    "meteo": "dedans",
    "energie": "haute",
    "profils": [
+    "solo",
     "date",
     "copains"
    ],
    "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-dominique-bernard-ex-jules-ferry-108565",
-   "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Kiosque en fête au square Necker",
-   "resume": "Des concerts y sont programmés dans le cadre de la saison « Kiosques en fête ».",
-   "debut": "2026-04-18T00:00:00+00:00",
-   "fin": "2026-10-25T23:59:59+00:00",
-   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Square Necker",
-   "adresse": "1 rue Tessier 75015 Paris",
-   "coords": [
-    48.839751,
-    2.306435
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "haute",
-   "profils": [
-    "date",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-necker-87013",
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-violet-87001",
    "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-df66110b2c5d35ca79be682547c26f7e.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
@@ -5131,29 +4527,29 @@
   },
   {
    "id": "paris-None",
-   "titre": "Kiosque en Fête au square Jean Morin",
+   "titre": "Kiosque en Fête au jardin Nelson Mandela",
    "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
    "debut": "2026-04-18T00:00:00+00:00",
    "fin": "2026-10-25T23:59:59+00:00",
    "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Square Jean Morin",
-   "adresse": "213, rue de Charenton 75012 Paris",
+   "lieu": "Jardin Nelson Mandela",
+   "adresse": "32, rue Berger 75001 Paris",
    "coords": [
-    48.838575,
-    2.389832
+    48.861469,
+    2.346304
    ],
    "gratuit": true,
    "prixDes": 0.0,
    "prixTexte": "gratuit",
    "reservation": false,
-   "meteo": "dedans",
+   "meteo": "indifferent",
    "energie": "haute",
    "profils": [
     "date",
     "copains"
    ],
    "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-jean-morin-108570",
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-jardin-nelson-mandela-108547",
    "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
@@ -5161,16 +4557,16 @@
   },
   {
    "id": "paris-None",
-   "titre": "Kiosque en Fête au square du Cardinal Wyszynski",
+   "titre": "Kiosque en Fête au square Dominique Bernard (ex Jules Ferry)",
    "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
    "debut": "2026-04-18T00:00:00+00:00",
    "fin": "2026-10-25T23:59:59+00:00",
    "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Square du Cardinal-Wyszynski",
-   "adresse": "54, rue Vercingétorix 75014 Paris",
+   "lieu": "Square Dominique Bernard",
+   "adresse": "1 boulevard Jules-Ferry 75011 Paris",
    "coords": [
-    48.836432,
-    2.317069
+    48.86668,
+    2.368461
    ],
    "gratuit": true,
    "prixDes": 0.0,
@@ -5183,8 +4579,340 @@
     "copains"
    ],
    "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-du-cardinal-wyszynski-108621",
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-dominique-bernard-ex-jules-ferry-108565",
    "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Kiosque en Fête au square Séverine",
+   "resume": "Concerts et DJ set y sont programmés dans le cadre de la saison « Kiosques en fête ».",
+   "debut": "2026-04-18T00:00:00+00:00",
+   "fin": "2026-10-25T23:59:59+00:00",
+   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
+   "lieu": "Square Séverine",
+   "adresse": "7, rue Le Vau 75020 Paris",
+   "coords": [
+    48.866512,
+    2.411086
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "haute",
+   "profils": [
+    "date",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-a-l-auditorium-du-square-severine-86893",
+   "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-e77015cf365d7e3a3572f15a96718e74.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Kiosque en Fête au square Franck Bauer",
+   "resume": "Concerts, poésie et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
+   "debut": "2026-04-18T00:00:00+00:00",
+   "fin": "2026-10-25T23:59:59+00:00",
+   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
+   "lieu": "Square Franck Bauer",
+   "adresse": "26 rue Dupleix 75015 Paris",
+   "coords": [
+    48.851459,
+    2.296564
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "haute",
+   "profils": [
+    "date",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-franck-bauer-108629",
+   "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Kiosque en Fête au Square Edouard Vaillant",
+   "resume": "Concerts et danse y sont programmés dans le cadre de la saison « Kiosques en fête ».",
+   "debut": "2026-04-18T00:00:00+00:00",
+   "fin": "2026-10-25T23:59:59+00:00",
+   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
+   "lieu": "Square Edouard Vaillant",
+   "adresse": "50, avenue Gambetta 75020 Paris",
+   "coords": [
+    48.8660770044038,
+    2.39966503456219
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "haute",
+   "profils": [
+    "date",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-edouard-vaillant-86861",
+   "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-df66110b2c5d35ca79be682547c26f7e.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Kiosque en Fête au jardin des Champs-Élysées",
+   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
+   "debut": "2026-04-18T00:00:00+00:00",
+   "fin": "2026-10-25T23:59:59+00:00",
+   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
+   "lieu": "Jardins des Champs-Élysées",
+   "adresse": "10 avenue des Champs-Élysées 75008 Paris",
+   "coords": [
+    48.867887,
+    2.315269
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "indifferent",
+   "energie": "haute",
+   "profils": [
+    "date",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-jardin-des-champs-elysees-108549",
+   "image": "https://cdn.paris.fr/qfapv4/2025/01/14/huge-8c70e1d25d24703e6a361053c5d48cb9.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Kiosque en fête au square des Epinettes",
+   "resume": "Des concerts y sont programmés dans le cadre de la saison « Kiosques en fête ».",
+   "debut": "2026-04-18T00:00:00+00:00",
+   "fin": "2026-10-25T23:59:59+00:00",
+   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
+   "lieu": "Square des Epinettes",
+   "adresse": "9 rue Maria Deraismes 75017 Paris",
+   "coords": [
+    48.894629,
+    2.327401
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "haute",
+   "profils": [
+    "date",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-des-epinettes-86981",
+   "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-df66110b2c5d35ca79be682547c26f7e.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Kiosque en fête au square Necker",
+   "resume": "Des concerts y sont programmés dans le cadre de la saison « Kiosques en fête ».",
+   "debut": "2026-04-18T00:00:00+00:00",
+   "fin": "2026-10-25T23:59:59+00:00",
+   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
+   "lieu": "Square Necker",
+   "adresse": "1 rue Tessier 75015 Paris",
+   "coords": [
+    48.839751,
+    2.306435
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "haute",
+   "profils": [
+    "date",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-necker-87013",
+   "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-df66110b2c5d35ca79be682547c26f7e.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Kiosque en fête sur la Promenade Pereire - Gilberte Brossolette",
+   "resume": "Concerts et karaokés y sont programmés dans le cadre de la saison « Kiosques en fête ».",
+   "debut": "2026-04-18T00:00:00+00:00",
+   "fin": "2026-10-25T23:59:59+00:00",
+   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
+   "lieu": "Promenade Pereire - Gilberte Brossolette",
+   "adresse": "Bd Pereire,  Paris 75017 Paris",
+   "coords": [
+    48.8814930117876,
+    2.29044270941768
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "indifferent",
+   "energie": "haute",
+   "profils": [
+    "solo",
+    "date",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-sur-la-promenade-pereire-gilberte-brossolette-86986",
+   "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-e77015cf365d7e3a3572f15a96718e74.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Kiosque en Fête au jardin Curial",
+   "resume": "Spectacle, théâtre et sport y sont programmés dans le cadre de la saison « Kiosques en fête ».",
+   "debut": "2026-04-18T00:00:00+00:00",
+   "fin": "2026-10-25T23:59:59+00:00",
+   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
+   "lieu": "Jardin Curial",
+   "adresse": "92, 94 rue Curial 75019 Paris",
+   "coords": [
+    48.895996,
+    2.375937
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "indifferent",
+   "energie": "haute",
+   "profils": [
+    "solo",
+    "date"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-jardin-curial-108640",
+   "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Kiosque en Fête au parc de Choisy",
+   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
+   "debut": "2026-04-18T00:00:00+00:00",
+   "fin": "2026-10-25T23:59:59+00:00",
+   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
+   "lieu": "Parc de Choisy",
+   "adresse": "128, avenue de Choisy 75013 Paris",
+   "coords": [
+    48.826778,
+    2.359658
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "indifferent",
+   "energie": "haute",
+   "profils": [
+    "date",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-parc-de-choisy-108592",
+   "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Kiosque en Fête au square d'Anvers - Jean-Claude Carrière",
+   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
+   "debut": "2026-04-18T00:00:00+00:00",
+   "fin": "2026-10-25T23:59:59+00:00",
+   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
+   "lieu": "Square d'Anvers - Jean-Claude Carrière",
+   "adresse": "10 bis avenue Trudaine 75009 Paris",
+   "coords": [
+    48.881861,
+    2.345361
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "haute",
+   "profils": [
+    "date",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-d-anvers-jean-claude-carriere-108553",
+   "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Kiosque en Fête au square Maurice Kriegel-Valrimont",
+   "resume": "Concerts, danse et jeux de société y sont programmés dans le cadre de la saison « Kiosques en Fête ».",
+   "debut": "2026-04-18T00:00:00+00:00",
+   "fin": "2026-10-25T23:59:59+00:00",
+   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
+   "lieu": "Square Maurice Kriegel-Valrimont",
+   "adresse": "1 square de Clignancourt 75018 Paris",
+   "coords": [
+    48.892417,
+    2.346071
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "haute",
+   "profils": [
+    "solo",
+    "date",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-maurice-kriegel-valrimont-86961",
+   "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-df66110b2c5d35ca79be682547c26f7e.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -5221,16 +4949,16 @@
   },
   {
    "id": "paris-None",
-   "titre": "Kiosque en Fête au jardin Nelson Mandela",
+   "titre": "Kiosque en Fête au jardin de Marianne",
    "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
    "debut": "2026-04-18T00:00:00+00:00",
    "fin": "2026-10-25T23:59:59+00:00",
    "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Jardin Nelson Mandela",
-   "adresse": "32, rue Berger 75001 Paris",
+   "lieu": "Jardin de Marianne",
+   "adresse": "Place de la Nation 75012 Paris",
    "coords": [
-    48.861469,
-    2.346304
+    48.84736,
+    2.396348
    ],
    "gratuit": true,
    "prixDes": 0.0,
@@ -5243,7 +4971,7 @@
     "copains"
    ],
    "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-jardin-nelson-mandela-108547",
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-jardin-de-marianne-108567",
    "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
@@ -5251,16 +4979,46 @@
   },
   {
    "id": "paris-None",
-   "titre": "Kiosque en Fête au parc de Belleville",
-   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
+   "titre": "Kiosque en fête au Square Monseigneur Maillet",
+   "resume": "Concerts et danse y sont programmés dans le cadre de la saison « Kiosques en fête ».",
    "debut": "2026-04-18T00:00:00+00:00",
    "fin": "2026-10-25T23:59:59+00:00",
    "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Parc de Belleville",
-   "adresse": "47 rue des Couronnes 75020 Paris",
+   "lieu": "Square Monseigneur Maillet",
+   "adresse": "Place des Fêtes 75019 Paris",
    "coords": [
-    48.8703210134387,
-    2.38495102263286
+    48.877325,
+    2.395054
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "haute",
+   "profils": [
+    "date",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-monseigneur-maillet-86949",
+   "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-e77015cf365d7e3a3572f15a96718e74.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Kiosque en fête au square Jean Chérioux",
+   "resume": "Des concerts y sont programmés dans le cadre de la saison « Kiosques en fête ».",
+   "debut": "2026-04-18T00:00:00+00:00",
+   "fin": "2026-10-25T23:59:59+00:00",
+   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
+   "lieu": "Square Jean Chérioux",
+   "adresse": "260, rue de Vaugirard 75015 Paris",
+   "coords": [
+    48.839488,
+    2.300846
    ],
    "gratuit": true,
    "prixDes": 0.0,
@@ -5273,7 +5031,308 @@
     "copains"
    ],
    "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-a-l-amphiteatre-du-parc-de-belleville-86912",
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-jean-cherioux-87028",
+   "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-e77015cf365d7e3a3572f15a96718e74.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Kiosque en Fête au square Jean Morin",
+   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
+   "debut": "2026-04-18T00:00:00+00:00",
+   "fin": "2026-10-25T23:59:59+00:00",
+   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
+   "lieu": "Square Jean Morin",
+   "adresse": "213, rue de Charenton 75012 Paris",
+   "coords": [
+    48.838575,
+    2.389832
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "haute",
+   "profils": [
+    "date",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-jean-morin-108570",
+   "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Kiosque en fête au jardin du Ranelagh",
+   "resume": "Concerts et représentations de danse y sont programmés dans le cadre de la saison « Kiosques en fête ».",
+   "debut": "2026-04-18T00:00:00+00:00",
+   "fin": "2026-10-25T23:59:59+00:00",
+   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
+   "lieu": "Jardin du Ranelagh",
+   "adresse": "1, avenue Prudhon 75016 Paris",
+   "coords": [
+    48.858896,
+    2.269648
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "indifferent",
+   "energie": "haute",
+   "profils": [
+    "date",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-jardin-du-ranelagh-86996",
+   "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-df66110b2c5d35ca79be682547c26f7e.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Kiosque en Fête au square du Cardinal Wyszynski",
+   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
+   "debut": "2026-04-18T00:00:00+00:00",
+   "fin": "2026-10-25T23:59:59+00:00",
+   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
+   "lieu": "Square du Cardinal-Wyszynski",
+   "adresse": "54, rue Vercingétorix 75014 Paris",
+   "coords": [
+    48.836432,
+    2.317069
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "haute",
+   "profils": [
+    "date",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-du-cardinal-wyszynski-108621",
+   "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Kiosque en Fête au parc Montsouris",
+   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
+   "debut": "2026-04-18T00:00:00+00:00",
+   "fin": "2026-10-25T23:59:59+00:00",
+   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
+   "lieu": "Parc Montsouris",
+   "adresse": "2, rue Gazan 75014 Paris",
+   "coords": [
+    48.824187,
+    2.339934
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "indifferent",
+   "energie": "haute",
+   "profils": [
+    "date",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-parc-montsouris-108620",
+   "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Kiosque en Fête au jardin Villemin - Mahsa Jîna Amini",
+   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
+   "debut": "2026-04-18T00:00:00+00:00",
+   "fin": "2026-10-25T23:59:59+00:00",
+   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
+   "lieu": "Jardin Villemin - Mahsa Jîna Amini",
+   "adresse": "14 rue des Récollets 75010 Paris",
+   "coords": [
+    48.874624,
+    2.361366
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "indifferent",
+   "energie": "haute",
+   "profils": [
+    "date",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-jardin-villemin-mahsa-jina-amini-108554",
+   "image": "https://cdn.paris.fr/qfapv4/2025/01/14/huge-8c70e1d25d24703e6a361053c5d48cb9.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Kiosque en Fête au square du Temple - Elie Wiesel",
+   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
+   "debut": "2026-04-18T00:00:00+00:00",
+   "fin": "2026-10-25T23:59:59+00:00",
+   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
+   "lieu": "Square du Temple - Elie Wiesel",
+   "adresse": "64, rue de Bretagne 75003 Paris",
+   "coords": [
+    48.864524,
+    2.36005
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "haute",
+   "profils": [
+    "date",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-du-temple-elie-wiesel-108548",
+   "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Kiosque en Fête au square Carpeaux",
+   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
+   "debut": "2026-04-18T00:00:00+00:00",
+   "fin": "2026-10-25T23:59:59+00:00",
+   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
+   "lieu": "Square Carpeaux",
+   "adresse": "23 rue Carpeaux 75018 Paris",
+   "coords": [
+    48.891316,
+    2.332054
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "haute",
+   "profils": [
+    "date",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-carpeaux-108638",
+   "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Kiosque en Fête au square Courteline",
+   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
+   "debut": "2026-04-18T00:00:00+00:00",
+   "fin": "2026-10-25T23:59:59+00:00",
+   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
+   "lieu": "Square Courteline",
+   "adresse": "51 boulevard de Picpus 75012 Paris",
+   "coords": [
+    48.844727,
+    2.401855
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "haute",
+   "profils": [
+    "date",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-square-courteline-108569",
+   "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Kiosque en Fête au square Sarah Bernhardt",
+   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
+   "debut": "2026-04-18T00:00:00+00:00",
+   "fin": "2026-10-25T23:59:59+00:00",
+   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
+   "lieu": "Square Sarah Bernhardt",
+   "adresse": "2 rue de Buzenval 75020 Paris",
+   "coords": [
+    48.849254,
+    2.402686
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "haute",
+   "profils": [
+    "date",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-a-l-auditorium-du-square-sarah-bernhardt-86903",
+   "image": "https://cdn.paris.fr/qfapv4/2025/06/04/huge-df66110b2c5d35ca79be682547c26f7e.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Kiosque en Fête à la promenade Pereire - Thérèse Pierre",
+   "resume": "Concerts et musique sont programmés dans le cadre de la saison « Kiosques en fête ».",
+   "debut": "2026-04-18T00:00:00+00:00",
+   "fin": "2026-10-25T23:59:59+00:00",
+   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
+   "lieu": "Promenade Pereire",
+   "adresse": "boulevard Pereire 75017 Paris",
+   "coords": [
+    48.884456,
+    2.296673
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "indifferent",
+   "energie": "haute",
+   "profils": [
+    "solo",
+    "date",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/kiosque-en-fete-a-la-promenade-pereire-therese-pierre-108635",
    "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
@@ -5306,36 +5365,6 @@
    "finitTard": false,
    "url": "https://www.paris.fr/evenements/kiosques-en-fete-13390",
    "image": "https://cdn.paris.fr/qfapv4/2025/01/14/huge-8c70e1d25d24703e6a361053c5d48cb9.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Kiosque en Fête au parc Georges Brassens",
-   "resume": "Concerts, danse et théâtre y sont programmés dans le cadre de la saison « Kiosques en fête ».",
-   "debut": "2026-04-18T00:00:00+00:00",
-   "fin": "2026-10-25T23:59:59+00:00",
-   "quand": "Du samedi 18 avril 2026 au dimanche 25 octobre 2026 :",
-   "lieu": "Parc Georges Brassens",
-   "adresse": "2, place Jacques-Marette 75015 Paris",
-   "coords": [
-    48.832693,
-    2.300441
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "indifferent",
-   "energie": "haute",
-   "profils": [
-    "date",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kiosque-en-fete-au-parc-george-brassens-108625",
-   "image": "https://cdn.paris.fr/qfapv4/2025/05/28/huge-164f8aff042b5f1c1d80e4e2699be0ab.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -6257,7 +6286,7 @@
    "resume": "NOUVEAU: Elle vient du futur. Vous explorez le passé. Ensemble à la Grande Galerie de l’Evolution, vous pourriez sauver l’avenir. Prêt à participer à une visite guidée contée entre enquête et découverte scientifique ?",
    "debut": "2026-06-20T15:00:00+00:00",
    "fin": "2026-10-29T12:30:00+00:00",
-   "quand": "Le jeudi 29 octobre 2026 de 11h00 à 12h30 Le dimanche 25 octobre 2026 de 14h00 à 15h30 Le dimanche 25 octobre 2026 de 11h00 à 12h30 Le dimanche 04 octobre 2026 ",
+   "quand": "Le jeudi 29 octobre 2026 de 11h00 à 12h30 Le dimanche 25 octobre 2026 de 14h00 à 15h30 Le dimanche 25 octobre 2026 de 11h00 à 12h30",
    "lieu": "Grande galerie de l'évolution",
    "adresse": "36 rue geoffroy saint hilaire 75005 Paris",
    "coords": [
@@ -6518,6 +6547,35 @@
   },
   {
    "id": "paris-None",
+   "titre": "« Sur les traces des dinosaures » à la Grande Galerie de l'Évolution",
+   "resume": "Prêts pour un voyage de 140 millions d’années sur les traces des dinosaures du Crétacé ? Suivez le quotidien des paléontologues sur un chantier de fouilles, et apprenez-en plus sur les formidables découvertes du célèbre site paléontologique d'Angeac-Charente !",
+   "debut": "2026-07-16T00:00:00+00:00",
+   "fin": "2028-01-04T23:59:59+00:00",
+   "quand": "Du jeudi 16 juillet 2026 au mardi 04 janvier 2028 :",
+   "lieu": "Grande galerie de l'évolution - Jardin des Plantes",
+   "adresse": "2 place Valhubert 75005 Paris",
+   "coords": [
+    48.8440708322756,
+    2.36401642675457
+   ],
+   "gratuit": false,
+   "prixDes": 14.0,
+   "prixTexte": "De 11 à 14 euros. L'achat d'un billet donne accès à l’exposition et à la Grande Galerie de l’Évolution",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "basse",
+   "profils": [
+    "solo"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/la-nuit-europeenne-des-musees-a-la-grande-galerie-de-l-evoultion-117292",
+   "image": "https://cdn.paris.fr/qfapv4/2026/07/31/huge-cedf7f1569dbd66648304d24322d38f5.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
    "titre": "La Nuit européenne des musées à la Grande galerie de l'évolution",
    "resume": "Chaque année, la Grande Galerie de l'Évolution vous ouvre ses portes pour une soirée d'exception ! Rendez-vous le 17 mai pour la Nuit européenne des musées.",
    "debut": "2026-07-16T00:00:00+00:00",
@@ -6548,29 +6606,30 @@
   },
   {
    "id": "paris-None",
-   "titre": "« Sur les traces des dinosaures » à la Grande Galerie de l'Évolution",
-   "resume": "Prêts pour un voyage de 140 millions d’années sur les traces des dinosaures du Crétacé ? Suivez le quotidien des paléontologues sur un chantier de fouilles, et apprenez-en plus sur les formidables découvertes du célèbre site paléontologique d'Angeac-Charente !",
-   "debut": "2026-07-16T00:00:00+00:00",
-   "fin": "2028-01-04T23:59:59+00:00",
-   "quand": "Du jeudi 16 juillet 2026 au mardi 04 janvier 2028 :",
-   "lieu": "Grande galerie de l'évolution - Jardin des Plantes",
-   "adresse": "2 place Valhubert 75005 Paris",
+   "titre": "Mariella Simoni",
+   "resume": "La trajectoire artistique singulière de Mariella Simoni (née en 1948) revisite les articulations entre art conceptuel et abstraction, entre poésie et matière. Originaire de la région du lac de Garde en Italie, l’artiste étudie l’histoire de l’art à Parme, ainsi que la philosophie et la psychanalyse. Ses premières œuvres, au milieu des années 1970, affirment d’emblée son intérêt pour les développements organiques et le mouvement du vivant, en recourant à l’usage d’objets en déséquilibre, ou de plantes envahissant les espaces d’expositions.",
+   "debut": "2026-07-21T11:00:00+00:00",
+   "fin": "2027-01-03T18:00:00+00:00",
+   "quand": "Du mardi 21 juillet 2026 au lundi 04 janvier 2027 : mardi, mercredi, jeudi, vendredi, samedi, dimanche de 10h00 à 18h00",
+   "lieu": "Musée d'Art Moderne de Paris",
+   "adresse": "11, avenue du Président Wilson 75016 Paris",
    "coords": [
-    48.8440708322756,
-    2.36401642675457
+    48.864641,
+    2.297008
    ],
-   "gratuit": false,
-   "prixDes": 14.0,
-   "prixTexte": "De 11 à 14 euros. L'achat d'un billet donne accès à l’exposition et à la Grande Galerie de l’Évolution",
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
    "reservation": false,
-   "meteo": "dedans",
+   "meteo": "indifferent",
    "energie": "basse",
    "profils": [
-    "solo"
+    "solo",
+    "date"
    ],
    "finitTard": false,
-   "url": "https://www.paris.fr/evenements/la-nuit-europeenne-des-musees-a-la-grande-galerie-de-l-evoultion-117292",
-   "image": "https://cdn.paris.fr/qfapv4/2026/07/31/huge-cedf7f1569dbd66648304d24322d38f5.jpg",
+   "url": "https://www.paris.fr/evenements/mariella-simoni-117739",
+   "image": "https://cdn.paris.fr/qfapv4/2026/08/18/huge-d733cb9cab79c9e71fbd41f5b6a0649b.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -6600,36 +6659,6 @@
    "finitTard": false,
    "url": "https://www.paris.fr/evenements/stephane-bordarier-117738",
    "image": "https://cdn.paris.fr/qfapv4/2026/08/18/huge-c72d69ce23b0a9471a8d38053fd6df57.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Mariella Simoni",
-   "resume": "La trajectoire artistique singulière de Mariella Simoni (née en 1948) revisite les articulations entre art conceptuel et abstraction, entre poésie et matière. Originaire de la région du lac de Garde en Italie, l’artiste étudie l’histoire de l’art à Parme, ainsi que la philosophie et la psychanalyse. Ses premières œuvres, au milieu des années 1970, affirment d’emblée son intérêt pour les développements organiques et le mouvement du vivant, en recourant à l’usage d’objets en déséquilibre, ou de plantes envahissant les espaces d’expositions.",
-   "debut": "2026-07-21T11:00:00+00:00",
-   "fin": "2027-01-03T18:00:00+00:00",
-   "quand": "Du mardi 21 juillet 2026 au lundi 04 janvier 2027 : mardi, mercredi, jeudi, vendredi, samedi, dimanche de 10h00 à 18h00",
-   "lieu": "Musée d'Art Moderne de Paris",
-   "adresse": "11, avenue du Président Wilson 75016 Paris",
-   "coords": [
-    48.864641,
-    2.297008
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "indifferent",
-   "energie": "basse",
-   "profils": [
-    "solo",
-    "date"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/mariella-simoni-117739",
-   "image": "https://cdn.paris.fr/qfapv4/2026/08/18/huge-d733cb9cab79c9e71fbd41f5b6a0649b.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -7255,64 +7284,6 @@
   },
   {
    "id": "paris-None",
-   "titre": "Des imprimés et des hommes - nouveaux regards de la recherche - Troisième cycle",
-   "resume": "Cycle de conférences sur l’histoire de l’imprimerie en France",
-   "debut": "2026-09-01T00:00:00+00:00",
-   "fin": "2027-06-30T23:59:59+00:00",
-   "quand": "Du mardi 01 septembre 2026 au mercredi 30 juin 2027 :",
-   "lieu": null,
-   "adresse": "",
-   "coords": [
-    48.856578,
-    2.351828
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "basse",
-   "profils": [
-    "solo"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/des-imprimes-et-des-hommes-nouveaux-regards-de-la-recherche-troisieme-cycle-124755",
-   "image": "https://cdn.paris.fr/qfapv4/2025/01/09/huge-b084ef2a5ad8abb28880dbb39db73c72.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Exposition photo de Frédéric Combeau - \"Focus sur la biodiversité parisienne\"",
-   "resume": "Plongez dans l’univers animalier du photographe Frédéric Combeau. Une exposition qui révèle, avec poésie et précision, l'attachement de l'artiste aux animaux sauvages qui vivent au cœur de Paris.",
-   "debut": "2026-09-01T00:00:00+00:00",
-   "fin": "2027-03-31T23:59:59+00:00",
-   "quand": "Du mardi 01 septembre 2026 au mercredi 31 mars 2027 :",
-   "lieu": "Parc de Bercy - jardin romantique et jardin Yitzhak Rabin",
-   "adresse": "rue Joseph Kessel 75012 Paris",
-   "coords": [
-    48.834517,
-    2.383922
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "indifferent",
-   "energie": "basse",
-   "profils": [
-    "date"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/frederic-combeau-focus-sur-la-biodiversite-parisienne-105312",
-   "image": "https://cdn.paris.fr/qfapv4/2026/01/27/huge-60e59eca91d7dfb34e73017fedd54fc7.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
    "titre": "Expo « Portraits à vélo » de l'association éponyme",
    "resume": "Portraits à vélo est un projet photographique qui explore Paris à travers les personnes qui ont fait du vélo une manière d’habiter la ville. Composée de plus de vingt portraits réa",
    "debut": "2026-09-01T00:00:00+00:00",
@@ -7337,6 +7308,64 @@
    "finitTard": false,
    "url": "https://www.paris.fr/evenements/expo-portraits-a-velo-de-nicola-fioravanti-118182",
    "image": "https://cdn.paris.fr/qfapv4/2026/08/28/huge-5854dbb7593833ff7bf7ee978875397b.png",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Exposition \"LALA photographie sa ville\" - Jardin Villemin - Mahsa Jîna Amini",
+   "resume": "Après une exposition remarquée sur les grilles de l'Hôtel de Ville durant l'été 2025, l'oeuvre de Nicole LALA s'installe dans le 10e arrondissement, sur les grilles du jardin Villemin-Mahsa Jîna Amini. Photographe-reporter dès 1960 pour la revue Regards, puis photographe de plateau et témoin discrète des marges et de l'intime, elle a laissé à sa disparition en 2015 un fonds de près de 20 000 clichés. Sa fille, Delphine Bonnet, en a fait un travail de mémoire et de transmission aujourd'hui révélé au grand public.",
+   "debut": "2026-09-01T00:00:00+00:00",
+   "fin": "2026-11-30T23:59:59+00:00",
+   "quand": "Du mardi 01 septembre 2026 au lundi 30 novembre 2026 :",
+   "lieu": "Jardin Villemin - Mahsa Jîna Amini",
+   "adresse": "105 quai de Valmy 75010 Paris",
+   "coords": [
+    48.8747800182899,
+    2.36283402999996
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "indifferent",
+   "energie": "basse",
+   "profils": [
+    "date"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/exposition-lala-photographie-sa-ville-jardin-villemin-mahsa-jina-amini-123422",
+   "image": "https://cdn.paris.fr/qfapv4/2026/09/09/huge-c763868f10743580ff48723b4bb42f8b.png",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Des imprimés et des hommes - nouveaux regards de la recherche - Troisième cycle",
+   "resume": "Cycle de conférences sur l’histoire de l’imprimerie en France",
+   "debut": "2026-09-01T00:00:00+00:00",
+   "fin": "2027-06-30T23:59:59+00:00",
+   "quand": "Du mardi 01 septembre 2026 au mercredi 30 juin 2027 :",
+   "lieu": null,
+   "adresse": "",
+   "coords": [
+    48.856578,
+    2.351828
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "basse",
+   "profils": [
+    "solo"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/des-imprimes-et-des-hommes-nouveaux-regards-de-la-recherche-troisieme-cycle-124755",
+   "image": "https://cdn.paris.fr/qfapv4/2025/01/09/huge-b084ef2a5ad8abb28880dbb39db73c72.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -7372,16 +7401,16 @@
   },
   {
    "id": "paris-None",
-   "titre": "Exposition \"LALA photographie sa ville\" - Jardin Villemin - Mahsa Jîna Amini",
-   "resume": "Après une exposition remarquée sur les grilles de l'Hôtel de Ville durant l'été 2025, l'oeuvre de Nicole LALA s'installe dans le 10e arrondissement, sur les grilles du jardin Villemin-Mahsa Jîna Amini. Photographe-reporter dès 1960 pour la revue Regards, puis photographe de plateau et témoin discrète des marges et de l'intime, elle a laissé à sa disparition en 2015 un fonds de près de 20 000 clichés. Sa fille, Delphine Bonnet, en a fait un travail de mémoire et de transmission aujourd'hui révélé au grand public.",
+   "titre": "Exposition photo de Frédéric Combeau - \"Focus sur la biodiversité parisienne\"",
+   "resume": "Plongez dans l’univers animalier du photographe Frédéric Combeau. Une exposition qui révèle, avec poésie et précision, l'attachement de l'artiste aux animaux sauvages qui vivent au cœur de Paris.",
    "debut": "2026-09-01T00:00:00+00:00",
-   "fin": "2026-11-30T23:59:59+00:00",
-   "quand": "Du mardi 01 septembre 2026 au lundi 30 novembre 2026 :",
-   "lieu": "Jardin Villemin - Mahsa Jîna Amini",
-   "adresse": "105 quai de Valmy 75010 Paris",
+   "fin": "2027-03-31T23:59:59+00:00",
+   "quand": "Du mardi 01 septembre 2026 au mercredi 31 mars 2027 :",
+   "lieu": "Parc de Bercy - jardin romantique et jardin Yitzhak Rabin",
+   "adresse": "rue Joseph Kessel 75012 Paris",
    "coords": [
-    48.8747800182899,
-    2.36283402999996
+    48.834517,
+    2.383922
    ],
    "gratuit": true,
    "prixDes": 0.0,
@@ -7393,8 +7422,8 @@
     "date"
    ],
    "finitTard": false,
-   "url": "https://www.paris.fr/evenements/exposition-lala-photographie-sa-ville-jardin-villemin-mahsa-jina-amini-123422",
-   "image": "https://cdn.paris.fr/qfapv4/2026/09/09/huge-c763868f10743580ff48723b4bb42f8b.png",
+   "url": "https://www.paris.fr/evenements/frederic-combeau-focus-sur-la-biodiversite-parisienne-105312",
+   "image": "https://cdn.paris.fr/qfapv4/2026/01/27/huge-60e59eca91d7dfb34e73017fedd54fc7.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -7607,35 +7636,6 @@
   },
   {
    "id": "paris-None",
-   "titre": "Mon premier atelier santé environnement au centre de PMI Satragne",
-   "resume": "Disponible au centre de PMI Satragne dans le 10ème.",
-   "debut": "2026-09-02T15:00:00+00:00",
-   "fin": "2026-12-02T16:00:00+00:00",
-   "quand": "Le mercredi 02 décembre 2026 de 14h00 à 16h00 Le mercredi 04 novembre 2026 de 14h00 à 16h00 Le mercredi 07 octobre 2026 de 14h00 à 16h00",
-   "lieu": "Centre de PMI Alban Satragne",
-   "adresse": "3 square Alban Satragne 75010 Paris",
-   "coords": [
-    48.875353,
-    2.355079
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": true,
-   "meteo": "dedans",
-   "energie": "basse",
-   "profils": [
-    "solo"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/mon-premier-atelier-sante-environnement-a-la-pmi-satragne-102063",
-   "image": "https://cdn.paris.fr/qfapv4/2025/06/16/huge-5046428e78f82df708433592c82f3ddf.jpeg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
    "titre": "Mon premier atelier santé environnement au centre de PMI Lefebvre",
    "resume": "Disponible au centre de PMI Lefebvre dans le 15ème.",
    "debut": "2026-09-02T15:00:00+00:00",
@@ -7658,6 +7658,35 @@
    ],
    "finitTard": false,
    "url": "https://www.paris.fr/evenements/mon-premier-atelier-sante-environnement-a-la-pmi-lefebvre-101818",
+   "image": "https://cdn.paris.fr/qfapv4/2025/06/16/huge-5046428e78f82df708433592c82f3ddf.jpeg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Mon premier atelier santé environnement au centre de PMI Satragne",
+   "resume": "Disponible au centre de PMI Satragne dans le 10ème.",
+   "debut": "2026-09-02T15:00:00+00:00",
+   "fin": "2026-12-02T16:00:00+00:00",
+   "quand": "Le mercredi 02 décembre 2026 de 14h00 à 16h00 Le mercredi 04 novembre 2026 de 14h00 à 16h00 Le mercredi 07 octobre 2026 de 14h00 à 16h00",
+   "lieu": "Centre de PMI Alban Satragne",
+   "adresse": "3 square Alban Satragne 75010 Paris",
+   "coords": [
+    48.875353,
+    2.355079
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": true,
+   "meteo": "dedans",
+   "energie": "basse",
+   "profils": [
+    "solo"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/mon-premier-atelier-sante-environnement-a-la-pmi-satragne-102063",
    "image": "https://cdn.paris.fr/qfapv4/2025/06/16/huge-5046428e78f82df708433592c82f3ddf.jpeg",
    "source": "Que Faire à Paris",
    "zone": "paris",
@@ -7843,64 +7872,6 @@
   },
   {
    "id": "paris-None",
-   "titre": "Venez découvrir Les musiciens de Brême, quatre drôles d'animaux bien décidé à former un groupe de rock !",
-   "resume": "Le célèbre conte de Grimm, façon spectacle musical rempli de rires, de rock et de rêves…",
-   "debut": "2026-09-05T00:00:00+00:00",
-   "fin": "2026-11-08T23:59:59+00:00",
-   "quand": "Du samedi 05 septembre 2026 au dimanche 08 novembre 2026 :",
-   "lieu": "Le Funambule Montmartre",
-   "adresse": "53 rue des Saules 75018 Paris",
-   "coords": [
-    48.8907509804195,
-    2.34041595940496
-   ],
-   "gratuit": false,
-   "prixDes": 12.0,
-   "prixTexte": "Plein tarif 16€ Tarif enfant moins de 12 ans 12€",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "moyenne",
-   "profils": [
-    "date"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/venez-decouvrir-les-musiciens-de-breme-quatre-droles-d-animaux-bien-decide-a-former-un-groupe-de-rock-124613",
-   "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-be1516bda3b9ecd1c37cbdcc69f96170.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Découvrez Trop petite, une épopée musicale, à partir de 5 ans au Funambule Montmartre.",
-   "resume": "Un conte-cabaret déjanté d’après Poucelina d’Andersen avec chansons, paillettes et piano live !",
-   "debut": "2026-09-05T00:00:00+00:00",
-   "fin": "2026-11-08T23:59:59+00:00",
-   "quand": "Du samedi 05 septembre 2026 au dimanche 08 novembre 2026 :",
-   "lieu": "Le Funambule Montmartre",
-   "adresse": "53 rue des Saules 75018 Paris",
-   "coords": [
-    48.8907509804195,
-    2.34041595940496
-   ],
-   "gratuit": false,
-   "prixDes": 12.0,
-   "prixTexte": "Plein tarif 16€ Tarif enfant moins de 12 ans 12€",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "haute",
-   "profils": [
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/decouvrez-trop-petite-une-epopee-musicale-a-partir-de-5-ans-au-funambule-montmartre-124604",
-   "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-5556e6f4b394005f350641e0bbe04d57.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
    "titre": "Exposition Jean-Henri Fabre",
    "resume": "Une exposition autour de l'entomologiste, à partir de photographies du Museum national d'histoire naturelle.",
    "debut": "2026-09-05T00:00:00+00:00",
@@ -7959,29 +7930,58 @@
   },
   {
    "id": "paris-None",
-   "titre": "Prix des Mordus du Manga 2026 à la bibliothèque Benoîte Groult",
-   "resume": "Le prix des Mordus du Manga démarre pour la bibliothèque Benoîte Groult le samedi 5 septembre. Nous vous donnons rendez-vous à 10h30 pour découvrir la nouvelle sélection ! N'oubliez pas de demander votre carte collector à l'accueil pour collectionner les vignettes de vos lectures !",
-   "debut": "2026-09-05T11:30:00+00:00",
-   "fin": "2026-12-19T23:59:59+00:00",
-   "quand": "Du samedi 05 septembre 2026 au samedi 19 décembre 2026 :",
-   "lieu": "Bibliothèque Benoîte Groult",
-   "adresse": "25 Rue du Commandant René Mouchotte 75014 Paris",
+   "titre": "Venez découvrir Les musiciens de Brême, quatre drôles d'animaux bien décidé à former un groupe de rock !",
+   "resume": "Le célèbre conte de Grimm, façon spectacle musical rempli de rires, de rock et de rêves…",
+   "debut": "2026-09-05T00:00:00+00:00",
+   "fin": "2026-11-08T23:59:59+00:00",
+   "quand": "Du samedi 05 septembre 2026 au dimanche 08 novembre 2026 :",
+   "lieu": "Le Funambule Montmartre",
+   "adresse": "53 rue des Saules 75018 Paris",
    "coords": [
-    48.83825,
-    2.319986
+    48.8907509804195,
+    2.34041595940496
    ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
+   "gratuit": false,
+   "prixDes": 12.0,
+   "prixTexte": "Plein tarif 16€ Tarif enfant moins de 12 ans 12€",
    "reservation": false,
    "meteo": "dedans",
-   "energie": "basse",
+   "energie": "moyenne",
    "profils": [
-    "solo"
+    "date"
    ],
    "finitTard": false,
-   "url": "https://www.paris.fr/evenements/prix-des-mordus-du-manga-2025-2026-a-la-bibliotheque-benoite-groult-117366",
-   "image": "https://cdn.paris.fr/qfapv4/2026/08/05/huge-6d348b57469273133d845defd7c08e64.jpg",
+   "url": "https://www.paris.fr/evenements/venez-decouvrir-les-musiciens-de-breme-quatre-droles-d-animaux-bien-decide-a-former-un-groupe-de-rock-124613",
+   "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-be1516bda3b9ecd1c37cbdcc69f96170.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Découvrez Trop petite, une épopée musicale, à partir de 5 ans au Funambule Montmartre.",
+   "resume": "Un conte-cabaret déjanté d’après Poucelina d’Andersen avec chansons, paillettes et piano live !",
+   "debut": "2026-09-05T00:00:00+00:00",
+   "fin": "2026-11-08T23:59:59+00:00",
+   "quand": "Du samedi 05 septembre 2026 au dimanche 08 novembre 2026 :",
+   "lieu": "Le Funambule Montmartre",
+   "adresse": "53 rue des Saules 75018 Paris",
+   "coords": [
+    48.8907509804195,
+    2.34041595940496
+   ],
+   "gratuit": false,
+   "prixDes": 12.0,
+   "prixTexte": "Plein tarif 16€ Tarif enfant moins de 12 ans 12€",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "haute",
+   "profils": [
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/decouvrez-trop-petite-une-epopee-musicale-a-partir-de-5-ans-au-funambule-montmartre-124604",
+   "image": "https://cdn.paris.fr/qfapv4/2026/09/22/huge-5556e6f4b394005f350641e0bbe04d57.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -8012,6 +8012,35 @@
    "finitTard": false,
    "url": "https://www.paris.fr/evenements/le-temps-des-histoires-118230",
    "image": "https://cdn.paris.fr/qfapv4/2022/06/29/huge-445c897e0287315e61aeeccf1e28b368.png",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Prix des Mordus du Manga 2026 à la bibliothèque Benoîte Groult",
+   "resume": "Le prix des Mordus du Manga démarre pour la bibliothèque Benoîte Groult le samedi 5 septembre. Nous vous donnons rendez-vous à 10h30 pour découvrir la nouvelle sélection ! N'oubliez pas de demander votre carte collector à l'accueil pour collectionner les vignettes de vos lectures !",
+   "debut": "2026-09-05T11:30:00+00:00",
+   "fin": "2026-12-19T23:59:59+00:00",
+   "quand": "Du samedi 05 septembre 2026 au samedi 19 décembre 2026 :",
+   "lieu": "Bibliothèque Benoîte Groult",
+   "adresse": "25 Rue du Commandant René Mouchotte 75014 Paris",
+   "coords": [
+    48.83825,
+    2.319986
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "basse",
+   "profils": [
+    "solo"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/prix-des-mordus-du-manga-2025-2026-a-la-bibliotheque-benoite-groult-117366",
+   "image": "https://cdn.paris.fr/qfapv4/2026/08/05/huge-6d348b57469273133d845defd7c08e64.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -8312,35 +8341,6 @@
   },
   {
    "id": "paris-None",
-   "titre": "Sorority Boxing",
-   "resume": "Un ring, oui. Mais surtout un espace à toi, pour apprendre, te renforcer, et boxer sans te justifier.",
-   "debut": "2026-09-08T20:00:00+00:00",
-   "fin": "2026-11-10T20:15:00+00:00",
-   "quand": "Le mardi 10 novembre 2026 de 19h00 à 20h15 Le mardi 03 novembre 2026 de 19h00 à 20h15 Le mercredi 28 octobre 2026 de 19h00 à 20h15 Le mercredi 14 octobre 2026 d",
-   "lieu": "Communale Saint-Ouen",
-   "adresse": "10 bis Rue de l'Hippodrome 93400 Saint-Ouen-sur-Seine",
-   "coords": [
-    48.9129423,
-    2.3292593
-   ],
-   "gratuit": false,
-   "prixDes": 15.0,
-   "prixTexte": "dès 15€",
-   "reservation": true,
-   "meteo": "indifferent",
-   "energie": "moyenne",
-   "profils": [
-    "solo"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/sorority-boxing-116788",
-   "image": "https://cdn.paris.fr/qfapv4/2026/07/21/huge-b9dda19114291579164901651a8357da.jpeg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
    "titre": "Bookclub",
    "resume": "Rejoignez le bookclub, un mardi sur deux, au Centre Paris Anim' Bessie Smith !",
    "debut": "2026-09-08T20:00:00+00:00",
@@ -8364,6 +8364,35 @@
    "finitTard": false,
    "url": "https://www.paris.fr/evenements/bookclub-125091",
    "image": "https://cdn.paris.fr/qfapv4/2026/02/19/huge-4095dedbf9ed6215693248246a163e82.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Sorority Boxing",
+   "resume": "Un ring, oui. Mais surtout un espace à toi, pour apprendre, te renforcer, et boxer sans te justifier.",
+   "debut": "2026-09-08T20:00:00+00:00",
+   "fin": "2026-11-10T20:15:00+00:00",
+   "quand": "Le mardi 10 novembre 2026 de 19h00 à 20h15 Le mardi 03 novembre 2026 de 19h00 à 20h15 Le mercredi 28 octobre 2026 de 19h00 à 20h15 Le mercredi 14 octobre 2026 d",
+   "lieu": "Communale Saint-Ouen",
+   "adresse": "10 bis Rue de l'Hippodrome 93400 Saint-Ouen-sur-Seine",
+   "coords": [
+    48.9129423,
+    2.3292593
+   ],
+   "gratuit": false,
+   "prixDes": 15.0,
+   "prixTexte": "dès 15€",
+   "reservation": true,
+   "meteo": "indifferent",
+   "energie": "moyenne",
+   "profils": [
+    "solo"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/sorority-boxing-116788",
+   "image": "https://cdn.paris.fr/qfapv4/2026/07/21/huge-b9dda19114291579164901651a8357da.jpeg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -8394,35 +8423,6 @@
    "finitTard": false,
    "url": "https://www.paris.fr/evenements/oliver-twist-116759",
    "image": "https://cdn.paris.fr/qfapv4/2026/07/21/huge-7d092324212c63f9a631a6f1e4d406e3.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Paris Design Week : Hanjimania",
-   "resume": "À l'occasion de la Paris Design Week, l’Hôtel de la Marine accueille Hanjimania, exposition consacrée au dialogue entre designers français et coréens autour du papier traditionnel hanji.",
-   "debut": "2026-09-09T00:00:00+00:00",
-   "fin": "2026-10-04T23:59:59+00:00",
-   "quand": "Du mercredi 09 septembre 2026 au dimanche 04 octobre 2026 :",
-   "lieu": "Hôtel de la Marine",
-   "adresse": "2, place de la Concorde 75008 Paris",
-   "coords": [
-    48.8667269790856,
-    2.32293902073192
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "Compris dans le billet d'entrée du monument.",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "basse",
-   "profils": [
-    "date"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/paris-design-week-hanjimania-114433",
-   "image": "https://cdn.paris.fr/qfapv4/2026/06/18/huge-df925828bbd5d1e989c43adcb21dab48.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -9043,35 +9043,6 @@
   },
   {
    "id": "paris-None",
-   "titre": "Mon premier atelier santé environnement au centre de PMI la Chapelle",
-   "resume": "Disponible au centre de PMI la chapelle dans le 18ème.",
-   "debut": "2026-09-11T15:00:00+00:00",
-   "fin": "2026-12-11T16:00:00+00:00",
-   "quand": "Le vendredi 11 décembre 2026 de 14h00 à 16h00 Le vendredi 27 novembre 2026 de 14h00 à 16h00 Le vendredi 09 octobre 2026 de 14h00 à 16h00",
-   "lieu": "Centre de PMI La Chapelle (ex Ordener)",
-   "adresse": "5 cité de la Chapelle 75018 Paris",
-   "coords": [
-    48.8872,
-    2.358525
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": true,
-   "meteo": "dedans",
-   "energie": "basse",
-   "profils": [
-    "solo"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/mon-premier-atelier-sante-environnement-a-la-pmi-la-chapelle-101821",
-   "image": "https://cdn.paris.fr/qfapv4/2025/06/16/huge-5046428e78f82df708433592c82f3ddf.jpeg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
    "titre": "Mon premier atelier santé environnement au centre de PMI Choron",
    "resume": "Disponible au centre de PMI Choron dans le 9ème.",
    "debut": "2026-09-11T15:00:00+00:00",
@@ -9094,6 +9065,35 @@
    ],
    "finitTard": false,
    "url": "https://www.paris.fr/evenements/mon-premier-atelier-sante-environnement-au-centre-de-pmi-choron-110514",
+   "image": "https://cdn.paris.fr/qfapv4/2025/06/16/huge-5046428e78f82df708433592c82f3ddf.jpeg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Mon premier atelier santé environnement au centre de PMI la Chapelle",
+   "resume": "Disponible au centre de PMI la chapelle dans le 18ème.",
+   "debut": "2026-09-11T15:00:00+00:00",
+   "fin": "2026-12-11T16:00:00+00:00",
+   "quand": "Le vendredi 11 décembre 2026 de 14h00 à 16h00 Le vendredi 27 novembre 2026 de 14h00 à 16h00 Le vendredi 09 octobre 2026 de 14h00 à 16h00",
+   "lieu": "Centre de PMI La Chapelle (ex Ordener)",
+   "adresse": "5 cité de la Chapelle 75018 Paris",
+   "coords": [
+    48.8872,
+    2.358525
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": true,
+   "meteo": "dedans",
+   "energie": "basse",
+   "profils": [
+    "solo"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/mon-premier-atelier-sante-environnement-a-la-pmi-la-chapelle-101821",
    "image": "https://cdn.paris.fr/qfapv4/2025/06/16/huge-5046428e78f82df708433592c82f3ddf.jpeg",
    "source": "Que Faire à Paris",
    "zone": "paris",
@@ -9219,36 +9219,6 @@
   },
   {
    "id": "paris-None",
-   "titre": "Contine-moi une histoire",
-   "resume": "Écoute, écoute ! Je raconte. Écoute, écoute ! On chante. Les bibliothécaires racontent histoires, comptines et jeux de doigts pour les petits et des contes pour les plus grands.",
-   "debut": "2026-09-12T00:00:00+00:00",
-   "fin": "2026-12-12T23:59:59+00:00",
-   "quand": "Du samedi 12 septembre 2026 au samedi 12 décembre 2026 :",
-   "lieu": "Bibliothèque L'Heure joyeuse",
-   "adresse": "6-12 rue des Prêtres Saint-Séverin 75005 Paris",
-   "coords": [
-    48.851833,
-    2.34494
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "basse",
-   "profils": [
-    "solo",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/contine-moi-une-histoire-39280",
-   "image": "https://cdn.paris.fr/qfapv4/2025/04/29/huge-f428daaf203e6e42ba332c2a0372da8e.png",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
    "titre": "Eveil théâtral 4-5 ans 75011",
    "resume": "Formation annuelle au Théâtre et à l’Improvisation à Paris\r\n\r\nPartager les joies d’une aventure de groupe, découvrir que la scène est un lieu où l’on apprend le partage de la parole, de l’espace, des émotions, s’exercer à la liberté d’expression dans un cadre exigeant, prendre sa place sur scène et savoir la laisser à « l’autre », telles sont les valeurs qu’une troupe communique à son public avec énergie et enthousiasme ; c’est ce que nous transmettons aux élèves.",
    "debut": "2026-09-12T00:00:00+00:00",
@@ -9301,6 +9271,36 @@
    "finitTard": false,
    "url": "https://www.paris.fr/evenements/ados-117028",
    "image": "https://cdn.paris.fr/qfapv4/2026/07/27/huge-a31f0233a6fdfd869ff717b9ea306831.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Contine-moi une histoire",
+   "resume": "Écoute, écoute ! Je raconte. Écoute, écoute ! On chante. Les bibliothécaires racontent histoires, comptines et jeux de doigts pour les petits et des contes pour les plus grands.",
+   "debut": "2026-09-12T00:00:00+00:00",
+   "fin": "2026-12-12T23:59:59+00:00",
+   "quand": "Du samedi 12 septembre 2026 au samedi 12 décembre 2026 :",
+   "lieu": "Bibliothèque L'Heure joyeuse",
+   "adresse": "6-12 rue des Prêtres Saint-Séverin 75005 Paris",
+   "coords": [
+    48.851833,
+    2.34494
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "basse",
+   "profils": [
+    "solo",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/contine-moi-une-histoire-39280",
+   "image": "https://cdn.paris.fr/qfapv4/2025/04/29/huge-f428daaf203e6e42ba332c2a0372da8e.png",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -9484,66 +9484,6 @@
   },
   {
    "id": "paris-None",
-   "titre": "Jeu de piste - Enquête à Paris : Le Revers de la Médaille",
-   "resume": "Les Jeux Olympiques vous manquent ? Ne ratez pas cette enquête !",
-   "debut": "2026-09-12T16:00:00+00:00",
-   "fin": "2026-10-24T19:00:00+00:00",
-   "quand": "Le samedi 24 octobre 2026 de 15h00 à 18h00",
-   "lieu": "Jardin du Luxembourg",
-   "adresse": "165, rue de Vaugirard 75006 Paris",
-   "coords": [
-    48.8456415095166,
-    2.32177437475508
-   ],
-   "gratuit": false,
-   "prixDes": 18.0,
-   "prixTexte": "De 15 à 18 euros.",
-   "reservation": true,
-   "meteo": "indifferent",
-   "energie": "moyenne",
-   "profils": [
-    "solo",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/jeu-de-piste-enquete-a-paris-le-revers-de-la-medaille-82926",
-   "image": "https://cdn.paris.fr/qfapv4/2024/05/03/huge-fe8031bcaa6ac80f96d0a9f3eb305759.png",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Troc de graines et de boutures",
-   "resume": "Vous aimez jardiner, rempoter, planter ? Vous avez envie d'apprendre ? Venez découvrir nos nouveaux services et échanger vos graines et boutures à la bibliothèque.",
-   "debut": "2026-09-12T16:00:00+00:00",
-   "fin": "2026-12-12T17:00:00+00:00",
-   "quand": "Le samedi 12 décembre 2026 de 15h00 à 17h00",
-   "lieu": "Bibliothèque Marguerite Audoux",
-   "adresse": "10 rue Portefoin 75003 Paris",
-   "coords": [
-    48.863702,
-    2.359974
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "indifferent",
-   "energie": "moyenne",
-   "profils": [
-    "solo",
-    "date"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/troc-de-graines-et-de-boutures-78206",
-   "image": "https://cdn.paris.fr/qfapv4/2024/03/18/huge-31bc893c2e042c8178e0b11513655037.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
    "titre": "Club Créa - octobre - décembre",
    "resume": "Les Clubs Créa permettent de découvrir de nombreuses thématiques et pratiques.",
    "debut": "2026-09-12T16:00:00+00:00",
@@ -9603,6 +9543,66 @@
   },
   {
    "id": "paris-None",
+   "titre": "Troc de graines et de boutures",
+   "resume": "Vous aimez jardiner, rempoter, planter ? Vous avez envie d'apprendre ? Venez découvrir nos nouveaux services et échanger vos graines et boutures à la bibliothèque.",
+   "debut": "2026-09-12T16:00:00+00:00",
+   "fin": "2026-12-12T17:00:00+00:00",
+   "quand": "Le samedi 12 décembre 2026 de 15h00 à 17h00",
+   "lieu": "Bibliothèque Marguerite Audoux",
+   "adresse": "10 rue Portefoin 75003 Paris",
+   "coords": [
+    48.863702,
+    2.359974
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "indifferent",
+   "energie": "moyenne",
+   "profils": [
+    "solo",
+    "date"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/troc-de-graines-et-de-boutures-78206",
+   "image": "https://cdn.paris.fr/qfapv4/2024/03/18/huge-31bc893c2e042c8178e0b11513655037.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Jeu de piste - Enquête à Paris : Le Revers de la Médaille",
+   "resume": "Les Jeux Olympiques vous manquent ? Ne ratez pas cette enquête !",
+   "debut": "2026-09-12T16:00:00+00:00",
+   "fin": "2026-10-24T19:00:00+00:00",
+   "quand": "Le samedi 24 octobre 2026 de 15h00 à 18h00",
+   "lieu": "Jardin du Luxembourg",
+   "adresse": "165, rue de Vaugirard 75006 Paris",
+   "coords": [
+    48.8456415095166,
+    2.32177437475508
+   ],
+   "gratuit": false,
+   "prixDes": 18.0,
+   "prixTexte": "De 15 à 18 euros.",
+   "reservation": true,
+   "meteo": "indifferent",
+   "energie": "moyenne",
+   "profils": [
+    "solo",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/jeu-de-piste-enquete-a-paris-le-revers-de-la-medaille-82926",
+   "image": "https://cdn.paris.fr/qfapv4/2024/05/03/huge-fe8031bcaa6ac80f96d0a9f3eb305759.png",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
    "titre": "Jeux vidéo",
    "resume": "À vos manettes ! Venez jouer avec d'autres participants à la médiathèque !",
    "debut": "2026-09-12T16:30:00+00:00",
@@ -9627,6 +9627,35 @@
    "finitTard": false,
    "url": "https://www.paris.fr/evenements/jeux-video-90237",
    "image": "https://cdn.paris.fr/qfapv4/2024/06/13/huge-8433a3d6740faaf10dcca867f5d491cc.png",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Atelier crochet",
+   "resume": "Rendez-vous deux samedis par mois pour un atelier crochet en toute convivialité !",
+   "debut": "2026-09-12T17:00:00+00:00",
+   "fin": "2026-12-26T17:00:00+00:00",
+   "quand": "Le samedi 26 décembre 2026 de 16h00 à 17h00 Le samedi 28 novembre 2026 de 16h00 à 17h00 Le samedi 24 octobre 2026 de 16h00 à 17h00 Le samedi 10 octobre 2026 de ",
+   "lieu": "Médiathèque James Baldwin",
+   "adresse": "10 Bis rue Henri Ribière 75019 Paris",
+   "coords": [
+    48.876568,
+    2.395622
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "basse",
+   "profils": [
+    "solo"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/atelier-crochet-79252",
+   "image": "https://cdn.paris.fr/qfapv4/2026/09/04/huge-71b138145b53d9d9af48a56cb2afe278.jpeg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -9663,35 +9692,6 @@
   },
   {
    "id": "paris-None",
-   "titre": "Atelier crochet",
-   "resume": "Rendez-vous deux samedis par mois pour un atelier crochet en toute convivialité !",
-   "debut": "2026-09-12T17:00:00+00:00",
-   "fin": "2026-12-26T17:00:00+00:00",
-   "quand": "Le samedi 26 décembre 2026 de 16h00 à 17h00 Le samedi 28 novembre 2026 de 16h00 à 17h00 Le samedi 24 octobre 2026 de 16h00 à 17h00 Le samedi 10 octobre 2026 de ",
-   "lieu": "Médiathèque James Baldwin",
-   "adresse": "10 Bis rue Henri Ribière 75019 Paris",
-   "coords": [
-    48.876568,
-    2.395622
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "basse",
-   "profils": [
-    "solo"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/atelier-crochet-79252",
-   "image": "https://cdn.paris.fr/qfapv4/2026/09/04/huge-71b138145b53d9d9af48a56cb2afe278.jpeg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
    "titre": "L’Inde à Paris : visite contée dans les temples hindous",
    "resume": "Au cœur d’un quartier en pleine effervescence, deux petits temples hindous, véritables havres de paix, vous ouvrent leurs portes pour un voyage des plus dépaysants.",
    "debut": "2026-09-13T15:00:00+00:00",
@@ -9716,35 +9716,6 @@
    "finitTard": false,
    "url": "https://www.paris.fr/evenements/l-inde-a-paris-visite-contee-dans-les-temples-hindous-22177",
    "image": "https://cdn.paris.fr/qfapv4/2026/01/22/huge-be9577611be869331b9bdace266ec4a4.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Le Paris de la folie : visite de la Salpêtrière",
-   "resume": "Votre guide, Guillaume, vous propose de plonger dans le passé trouble de Paris, et vous invite à découvrir une nouvelle facette insolite et tabou de la capitale : l’histoire de la folie à travers les âges.",
-   "debut": "2026-09-13T16:00:00+00:00",
-   "fin": "2026-10-11T18:00:00+00:00",
-   "quand": "Le dimanche 11 octobre 2026 de 15h00 à 17h00",
-   "lieu": null,
-   "adresse": "",
-   "coords": [
-    48.856578,
-    2.351828
-   ],
-   "gratuit": false,
-   "prixDes": 21.0,
-   "prixTexte": "21€/pers",
-   "reservation": true,
-   "meteo": "indifferent",
-   "energie": "basse",
-   "profils": [
-    "date"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/le-paris-de-la-folie-visite-de-la-salpetriere-23436",
-   "image": "https://cdn.paris.fr/qfapv4/2025/12/05/huge-f43b10e6607d77036bfb699cb3e30374.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -9780,29 +9751,29 @@
   },
   {
    "id": "paris-None",
-   "titre": "Agenda Culturel du Conservatoire Charles Munch 2026 2027",
-   "resume": "Retrouvez les évènements, spectacles et temps forts du Conservatoire Charles Munch",
-   "debut": "2026-09-14T00:00:00+00:00",
-   "fin": "2027-07-03T23:59:59+00:00",
-   "quand": "Du lundi 14 septembre 2026 au samedi 03 juillet 2027 :",
-   "lieu": "Conservatoire Municipal Charles Munch",
-   "adresse": "7, rue Duranti 75011 Paris",
+   "titre": "Le Paris de la folie : visite de la Salpêtrière",
+   "resume": "Votre guide, Guillaume, vous propose de plonger dans le passé trouble de Paris, et vous invite à découvrir une nouvelle facette insolite et tabou de la capitale : l’histoire de la folie à travers les âges.",
+   "debut": "2026-09-13T16:00:00+00:00",
+   "fin": "2026-10-11T18:00:00+00:00",
+   "quand": "Le dimanche 11 octobre 2026 de 15h00 à 17h00",
+   "lieu": null,
+   "adresse": "",
    "coords": [
-    48.860888,
-    2.384365
+    48.856578,
+    2.351828
    ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "haute",
+   "gratuit": false,
+   "prixDes": 21.0,
+   "prixTexte": "21€/pers",
+   "reservation": true,
+   "meteo": "indifferent",
+   "energie": "basse",
    "profils": [
     "date"
    ],
    "finitTard": false,
-   "url": "https://www.paris.fr/evenements/agenda-culturel-du-conservatoire-charles-munch-124182",
-   "image": "https://cdn.paris.fr/qfapv4/2025/12/03/huge-61acf6eb1398698c4d32e57c4034ab0d.jpg",
+   "url": "https://www.paris.fr/evenements/le-paris-de-la-folie-visite-de-la-salpetriere-23436",
+   "image": "https://cdn.paris.fr/qfapv4/2025/12/05/huge-f43b10e6607d77036bfb699cb3e30374.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -9832,6 +9803,35 @@
    "finitTard": false,
    "url": "https://www.paris.fr/evenements/portes-ouvertes-de-l-ecole-shaktibudo-a-paris-14e-self-defense-feminine-initiation-aux-arts-martiaux-117789",
    "image": "https://cdn.paris.fr/qfapv4/2026/04/30/huge-d3c5581cf16e34ec3dff4cdffe9feed4.png",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Agenda Culturel du Conservatoire Charles Munch 2026 2027",
+   "resume": "Retrouvez les évènements, spectacles et temps forts du Conservatoire Charles Munch",
+   "debut": "2026-09-14T00:00:00+00:00",
+   "fin": "2027-07-03T23:59:59+00:00",
+   "quand": "Du lundi 14 septembre 2026 au samedi 03 juillet 2027 :",
+   "lieu": "Conservatoire Municipal Charles Munch",
+   "adresse": "7, rue Duranti 75011 Paris",
+   "coords": [
+    48.860888,
+    2.384365
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "haute",
+   "profils": [
+    "date"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/agenda-culturel-du-conservatoire-charles-munch-124182",
+   "image": "https://cdn.paris.fr/qfapv4/2025/12/03/huge-61acf6eb1398698c4d32e57c4034ab0d.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -9925,30 +9925,30 @@
   },
   {
    "id": "paris-None",
-   "titre": "FORMULA BULA 2026 - Marly ou la neige en été, une exposition d'Emmanuel Lantam",
-   "resume": "Pour la troisième fois, Violette Leduc accueille une exposition dans le cadre du festival Formula Bula. Cette fois c'est le travail d'Emmanuel Lantam animateur, illustrateur et auteur de bande dessinée qui est mis en lumière.",
+   "titre": "Exposition des photographies de Karl Blossfeldt",
+   "resume": "Partez à la découverte d'un jardin merveilleux…",
    "debut": "2026-09-15T00:00:00+00:00",
-   "fin": "2026-10-17T23:59:59+00:00",
-   "quand": "Du mardi 15 septembre 2026 au samedi 17 octobre 2026 :",
-   "lieu": "Médiathèque Violette Leduc",
-   "adresse": "18 rue Faidherbe 75011 Paris",
+   "fin": "2026-10-31T23:59:59+00:00",
+   "quand": "Du mardi 15 septembre 2026 au samedi 31 octobre 2026 :",
+   "lieu": "Bibliothèque Colette Vivier",
+   "adresse": "6 rue Fourneyron 75017 Paris",
    "coords": [
-    48.851596,
-    2.38396
+    48.889783,
+    2.319643
    ],
    "gratuit": true,
    "prixDes": 0.0,
    "prixTexte": "gratuit",
-   "reservation": true,
+   "reservation": false,
    "meteo": "indifferent",
-   "energie": "haute",
+   "energie": "basse",
    "profils": [
-    "date",
-    "copains"
+    "solo",
+    "date"
    ],
    "finitTard": false,
-   "url": "https://www.paris.fr/evenements/formula-bula-2026-marly-ou-la-neige-en-ete-une-exposition-d-emmanuel-lantam-115308",
-   "image": "https://cdn.paris.fr/qfapv4/2026/07/01/huge-e39f6200280fccabc3bafa12934f0d7f.jpg",
+   "url": "https://www.paris.fr/evenements/exposition-des-photographies-de-karl-blossfeldt-116870",
+   "image": "https://cdn.paris.fr/qfapv4/2026/07/23/huge-4c6d6286298407bc329b97d850fe1f27.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -9984,16 +9984,16 @@
   },
   {
    "id": "paris-None",
-   "titre": "Exposition Anna Maria Sibylla Merian",
-   "resume": "L'illustration pour comprendre la nature.",
+   "titre": "Exposition : Femme, Vie, Liberté",
+   "resume": "À l’occasion du quatrième anniversaire du mouvement \"Femme, Vie, Liberté\", une sélection de photographies consacrées à l’un des soulèvements les plus marquants de l’histoire contemporaine de l’Iran.",
    "debut": "2026-09-15T00:00:00+00:00",
-   "fin": "2026-10-31T23:59:59+00:00",
-   "quand": "Du mardi 15 septembre 2026 au samedi 31 octobre 2026 :",
-   "lieu": "Bibliothèque Colette Vivier",
-   "adresse": "6 rue Fourneyron 75017 Paris",
+   "fin": "2026-10-11T23:59:59+00:00",
+   "quand": "Du mardi 15 septembre 2026 au dimanche 11 octobre 2026 :",
+   "lieu": "Médiathèque Marguerite Yourcenar",
+   "adresse": "41, rue d'Alleray 75015 Paris",
    "coords": [
-    48.889783,
-    2.319643
+    48.836807,
+    2.303481
    ],
    "gratuit": true,
    "prixDes": 0.0,
@@ -10005,8 +10005,38 @@
     "date"
    ],
    "finitTard": false,
-   "url": "https://www.paris.fr/evenements/exposition-des-photographies-de-karl-blossfeldt-118125",
-   "image": "https://cdn.paris.fr/qfapv4/2026/08/27/huge-f18250c522654d76ec241fc5463ea15e.jpg",
+   "url": "https://www.paris.fr/evenements/exposition-agatha-christie-et-le-voyage-117486",
+   "image": "https://cdn.paris.fr/qfapv4/2026/08/08/huge-13eb706eb5e2cd8cbcf4cc82425aeb04.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "FORMULA BULA 2026 - Marly ou la neige en été, une exposition d'Emmanuel Lantam",
+   "resume": "Pour la troisième fois, Violette Leduc accueille une exposition dans le cadre du festival Formula Bula. Cette fois c'est le travail d'Emmanuel Lantam animateur, illustrateur et auteur de bande dessinée qui est mis en lumière.",
+   "debut": "2026-09-15T00:00:00+00:00",
+   "fin": "2026-10-17T23:59:59+00:00",
+   "quand": "Du mardi 15 septembre 2026 au samedi 17 octobre 2026 :",
+   "lieu": "Médiathèque Violette Leduc",
+   "adresse": "18 rue Faidherbe 75011 Paris",
+   "coords": [
+    48.851596,
+    2.38396
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": true,
+   "meteo": "indifferent",
+   "energie": "haute",
+   "profils": [
+    "date",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/formula-bula-2026-marly-ou-la-neige-en-ete-une-exposition-d-emmanuel-lantam-115308",
+   "image": "https://cdn.paris.fr/qfapv4/2026/07/01/huge-e39f6200280fccabc3bafa12934f0d7f.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -10042,37 +10072,8 @@
   },
   {
    "id": "paris-None",
-   "titre": "Exposition : Femme, Vie, Liberté",
-   "resume": "À l’occasion du quatrième anniversaire du mouvement \"Femme, Vie, Liberté\", une sélection de photographies consacrées à l’un des soulèvements les plus marquants de l’histoire contemporaine de l’Iran.",
-   "debut": "2026-09-15T00:00:00+00:00",
-   "fin": "2026-10-11T23:59:59+00:00",
-   "quand": "Du mardi 15 septembre 2026 au dimanche 11 octobre 2026 :",
-   "lieu": "Médiathèque Marguerite Yourcenar",
-   "adresse": "41, rue d'Alleray 75015 Paris",
-   "coords": [
-    48.836807,
-    2.303481
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "basse",
-   "profils": [
-    "date"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/exposition-agatha-christie-et-le-voyage-117486",
-   "image": "https://cdn.paris.fr/qfapv4/2026/08/08/huge-13eb706eb5e2cd8cbcf4cc82425aeb04.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Exposition des photographies de Karl Blossfeldt",
-   "resume": "Partez à la découverte d'un jardin merveilleux…",
+   "titre": "Exposition Anna Maria Sibylla Merian",
+   "resume": "L'illustration pour comprendre la nature.",
    "debut": "2026-09-15T00:00:00+00:00",
    "fin": "2026-10-31T23:59:59+00:00",
    "quand": "Du mardi 15 septembre 2026 au samedi 31 octobre 2026 :",
@@ -10086,15 +10087,14 @@
    "prixDes": 0.0,
    "prixTexte": "gratuit",
    "reservation": false,
-   "meteo": "indifferent",
+   "meteo": "dedans",
    "energie": "basse",
    "profils": [
-    "solo",
     "date"
    ],
    "finitTard": false,
-   "url": "https://www.paris.fr/evenements/exposition-des-photographies-de-karl-blossfeldt-116870",
-   "image": "https://cdn.paris.fr/qfapv4/2026/07/23/huge-4c6d6286298407bc329b97d850fe1f27.jpg",
+   "url": "https://www.paris.fr/evenements/exposition-des-photographies-de-karl-blossfeldt-118125",
+   "image": "https://cdn.paris.fr/qfapv4/2026/08/27/huge-f18250c522654d76ec241fc5463ea15e.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -10130,35 +10130,6 @@
   },
   {
    "id": "paris-None",
-   "titre": "Une statue pour la liberté, le rêve de Bartholdi, de Paris à New York. Expérience immersive en réalité virtuelle",
-   "resume": "En parallèle de l’exposition « Auguste Bartholdi, La Liberté éclairant le monde », le musée d’Orsay présente l’expérience inédite en réalité virtuelle « Une Statue pour la Liberté, le rêve de Bartholdi, de Paris à New York » déployée sur près de 700 m² dans la Galerie Amont du musée.",
-   "debut": "2026-09-15T10:30:00+00:00",
-   "fin": "2027-01-31T18:00:00+00:00",
-   "quand": "Du mardi 15 septembre 2026 au dimanche 31 janvier 2027 : jeudi de 09h30 à 21h45 mardi, mercredi, vendredi, samedi, dimanche de 09h30 à 18h00",
-   "lieu": "Musée d'Orsay",
-   "adresse": "Esplanade Valéry Giscard d'Estaing 75007 Paris",
-   "coords": [
-    48.8603522858312,
-    2.32675478488623
-   ],
-   "gratuit": false,
-   "prixDes": 32.0,
-   "prixTexte": "De 16 à 32 euros.",
-   "reservation": true,
-   "meteo": "dedans",
-   "energie": "basse",
-   "profils": [
-    "date"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/une-statue-pour-la-liberte-le-reve-de-bartholdi-de-paris-a-new-york-experience-immersive-en-realite-virtuelle-117929",
-   "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-ed63875b6ceb2bfe19b94ae2858e04cb.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
    "titre": "Auguste Bartholdi. La Liberté éclairant le monde",
    "resume": "Du 15 septembre 2026 au 31 janvier 2027 le musée d’Orsay consacre une exposition ainsi qu’une expérience immersive en réalité virtuelle à Auguste Bartholdi, figure majeure de la sculpture française du XIXe siècle et auteur d’œuvres emblématiques, ainsi qu'à son chef d'œuvre « La Liberté éclairant le monde ».",
    "debut": "2026-09-15T10:30:00+00:00",
@@ -10184,6 +10155,35 @@
    "finitTard": false,
    "url": "https://www.paris.fr/evenements/auguste-bartholdi-la-liberte-eclairant-le-monde-117930",
    "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-9e092636f8a694ad5ca39661b18f1491.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Une statue pour la liberté, le rêve de Bartholdi, de Paris à New York. Expérience immersive en réalité virtuelle",
+   "resume": "En parallèle de l’exposition « Auguste Bartholdi, La Liberté éclairant le monde », le musée d’Orsay présente l’expérience inédite en réalité virtuelle « Une Statue pour la Liberté, le rêve de Bartholdi, de Paris à New York » déployée sur près de 700 m² dans la Galerie Amont du musée.",
+   "debut": "2026-09-15T10:30:00+00:00",
+   "fin": "2027-01-31T18:00:00+00:00",
+   "quand": "Du mardi 15 septembre 2026 au dimanche 31 janvier 2027 : jeudi de 09h30 à 21h45 mardi, mercredi, vendredi, samedi, dimanche de 09h30 à 18h00",
+   "lieu": "Musée d'Orsay",
+   "adresse": "Esplanade Valéry Giscard d'Estaing 75007 Paris",
+   "coords": [
+    48.8603522858312,
+    2.32675478488623
+   ],
+   "gratuit": false,
+   "prixDes": 32.0,
+   "prixTexte": "De 16 à 32 euros.",
+   "reservation": true,
+   "meteo": "dedans",
+   "energie": "basse",
+   "profils": [
+    "date"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/une-statue-pour-la-liberte-le-reve-de-bartholdi-de-paris-a-new-york-experience-immersive-en-realite-virtuelle-117929",
+   "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-ed63875b6ceb2bfe19b94ae2858e04cb.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -10333,29 +10333,29 @@
   },
   {
    "id": "paris-None",
-   "titre": "Le savoir en trompe-l’œil. Corée, 18e-20e siècle",
-   "resume": "Une plongée fascinante à la découverte d'un art du trompe-l'oeil en Corée, entre bibliothèques savantes et mondes oniriques !",
-   "debut": "2026-09-16T11:00:00+00:00",
-   "fin": "2027-01-04T18:00:00+00:00",
-   "quand": "Du mercredi 16 septembre 2026 au lundi 04 janvier 2027 : lundi, mercredi, jeudi, vendredi, samedi, dimanche de 10h00 à 18h00",
-   "lieu": "Musée Guimet",
-   "adresse": "6, place d'Iéna 75016 Paris",
+   "titre": "Quinzaine de l'accessibilité et de l'inclusion : exposition \"ce corps qui échappe\" de Hélène Mastrandréas",
+   "resume": "L'exposition « Ce corps qui échappe » présente une série photographique qui montre le handicap invisible.",
+   "debut": "2026-09-16T08:00:00+00:00",
+   "fin": "2026-12-16T06:55:00+00:00",
+   "quand": "Du mercredi 16 septembre 2026 au mardi 15 décembre 2026 : lundi, mardi, mercredi, jeudi, vendredi, samedi de 07h00 à 06h55 lundi, mardi, mercredi, jeudi, vendre",
+   "lieu": "Mairie de Paris Centre",
+   "adresse": "2 rue Eugene Spuller 75003 Paris",
    "coords": [
-    48.8650189986755,
-    2.29370202044663
+    48.863992,
+    2.361532
    ],
-   "gratuit": false,
-   "prixDes": 13.0,
-   "prixTexte": "De 0 à 13 euros.",
-   "reservation": true,
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
    "meteo": "dedans",
-   "energie": "moyenne",
+   "energie": "basse",
    "profils": [
-    "solo"
+    "date"
    ],
    "finitTard": false,
-   "url": "https://www.paris.fr/evenements/le-savoir-en-trompe-l-oeil-coree-18e-20e-siecle-117962",
-   "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-ef246ec713240d5335a4e3bc5fcf7d96.jpg",
+   "url": "https://www.paris.fr/evenements/quinzaine-de-l-accessibilite-et-de-l-inclusion-exposition-ce-corps-qui-echappe-de-helene-mastrandreas-123252",
+   "image": "https://cdn.paris.fr/qfapv4/2026/09/07/huge-982546b83f722a2682ae0fedf7e2bf4c.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -10385,6 +10385,35 @@
    "finitTard": false,
    "url": "https://www.paris.fr/evenements/copier-creer-atelier-de-modelage-pour-adultes-et-adolescents-40855",
    "image": "https://cdn.paris.fr/qfapv4/2023/07/28/huge-057e68bcc9ab39db42e4301b1863c9ae.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Le savoir en trompe-l’œil. Corée, 18e-20e siècle",
+   "resume": "Une plongée fascinante à la découverte d'un art du trompe-l'oeil en Corée, entre bibliothèques savantes et mondes oniriques !",
+   "debut": "2026-09-16T11:00:00+00:00",
+   "fin": "2027-01-04T18:00:00+00:00",
+   "quand": "Du mercredi 16 septembre 2026 au lundi 04 janvier 2027 : lundi, mercredi, jeudi, vendredi, samedi, dimanche de 10h00 à 18h00",
+   "lieu": "Musée Guimet",
+   "adresse": "6, place d'Iéna 75016 Paris",
+   "coords": [
+    48.8650189986755,
+    2.29370202044663
+   ],
+   "gratuit": false,
+   "prixDes": 13.0,
+   "prixTexte": "De 0 à 13 euros.",
+   "reservation": true,
+   "meteo": "dedans",
+   "energie": "moyenne",
+   "profils": [
+    "solo"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/le-savoir-en-trompe-l-oeil-coree-18e-20e-siecle-117962",
+   "image": "https://cdn.paris.fr/qfapv4/2026/08/24/huge-ef246ec713240d5335a4e3bc5fcf7d96.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -10479,35 +10508,6 @@
   },
   {
    "id": "paris-None",
-   "titre": "Une exposition où s’entremêlent héritages, mémoires et migrations",
-   "resume": "\"Des gestes de nos mondes\" réunit des œuvres de la collection du Frac Île-de-France et des créations d’artistes basés en Tunisie ou originaires de la rive sud de la Méditerranée.",
-   "debut": "2026-09-16T15:00:00+00:00",
-   "fin": "2026-11-14T19:00:00+00:00",
-   "quand": "Du dimanche 13 septembre 2026 au samedi 14 novembre 2026 : mercredi, jeudi, vendredi, samedi de 14h00 à 19h00",
-   "lieu": "Frac Île-de-France Les Réserves",
-   "adresse": "43 rue de la Commune de Paris 93230 Romainville",
-   "coords": [
-    48.8967869984437,
-    2.43247599454247
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "indifferent",
-   "energie": "haute",
-   "profils": [
-    "date"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/une-exposition-ou-s-entremelent-heritages-memoires-et-migrations-118192",
-   "image": "https://cdn.paris.fr/qfapv4/2026/08/28/huge-ca220638f5030999e41817ee6e6e0184.png",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
    "titre": "Pandémie de Covid-19 : ouverture du premier lieu de mémoire de France",
    "resume": "Dès ce mercredi 16 septembre, l’Université Paris Cité ouvre au public le tout premier espace en France dédié à la mémoire du Covid-19. Situé au cœur du quartier Latin, ce lieu inédit propose une première exposition pour revenir sur cette crise historique, comprendre ses impacts sur nos vies et échanger sur les enjeux de demain.",
    "debut": "2026-09-16T15:00:00+00:00",
@@ -10533,6 +10533,35 @@
    "finitTard": false,
    "url": "https://www.paris.fr/evenements/pandemie-de-covid-19-ouverture-du-premier-lieu-de-memoire-de-france-123579",
    "image": "https://cdn.paris.fr/qfapv4/2026/09/10/huge-d3174435048869da31452f62d788124f.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Une exposition où s’entremêlent héritages, mémoires et migrations",
+   "resume": "\"Des gestes de nos mondes\" réunit des œuvres de la collection du Frac Île-de-France et des créations d’artistes basés en Tunisie ou originaires de la rive sud de la Méditerranée.",
+   "debut": "2026-09-16T15:00:00+00:00",
+   "fin": "2026-11-14T19:00:00+00:00",
+   "quand": "Du dimanche 13 septembre 2026 au samedi 14 novembre 2026 : mercredi, jeudi, vendredi, samedi de 14h00 à 19h00",
+   "lieu": "Frac Île-de-France Les Réserves",
+   "adresse": "43 rue de la Commune de Paris 93230 Romainville",
+   "coords": [
+    48.8967869984437,
+    2.43247599454247
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "indifferent",
+   "energie": "haute",
+   "profils": [
+    "date"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/une-exposition-ou-s-entremelent-heritages-memoires-et-migrations-118192",
+   "image": "https://cdn.paris.fr/qfapv4/2026/08/28/huge-ca220638f5030999e41817ee6e6e0184.png",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -10592,6 +10621,36 @@
    "finitTard": false,
    "url": "https://www.paris.fr/evenements/portraits-de-jardiniers-photographie-d-erwan-floc-h-115027",
    "image": "https://cdn.paris.fr/qfapv4/2026/06/27/huge-fb04caec43cab5b0124837c389b89d4c.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "La Goutte d'or s'arrache au bitume : festival des jardins partagés",
+   "resume": "La Goutte d’Or s’arrache au bitume Festival des jardins partagés est un événement de l'automne 2026 à ne pas rater à la Goutte d'or, programmé par un collectif d'associations, en partenariat avec l'université Paris Nanterre, la bibliothèque Goutte d'or et l'Institut des Cultures d'islam.",
+   "debut": "2026-09-17T00:00:00+00:00",
+   "fin": "2026-10-10T23:59:59+00:00",
+   "quand": "Du jeudi 17 septembre 2026 au samedi 10 octobre 2026 :",
+   "lieu": null,
+   "adresse": "75018",
+   "coords": [
+    48.8853758767709,
+    2.35476493835449
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "indifferent",
+   "energie": "haute",
+   "profils": [
+    "date",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/la-goutte-d-or-s-arrache-au-bitume-festival-des-jardins-partages-115026",
+   "image": "https://cdn.paris.fr/qfapv4/2026/07/14/huge-0f478d749aa1db1efc667c6572165a7a.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -10687,6 +10746,35 @@
   },
   {
    "id": "paris-None",
+   "titre": "Prisonnières - Les dernières années de la prison Saint-Lazare (1919-1932)",
+   "resume": "Exposition du 17 septembre au 13 décembre 2026",
+   "debut": "2026-09-17T00:00:00+00:00",
+   "fin": "2026-12-13T23:59:59+00:00",
+   "quand": "Du jeudi 17 septembre 2026 au dimanche 13 décembre 2026 :",
+   "lieu": "Médiathèque Françoise Sagan",
+   "adresse": "8 rue Léon Schwartzenberg 75010 Paris",
+   "coords": [
+    48.8754299929717,
+    2.35366699395405
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "basse",
+   "profils": [
+    "date"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/prisonnieres-les-dernieres-annees-de-la-prison-saint-lazare-1919-1932-113922",
+   "image": "https://cdn.paris.fr/qfapv4/2026/06/13/huge-25df6188b79ca618322237994b18c91b.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
    "titre": "English Club à la bibliothèque Buffon",
    "resume": "Atelier de conversation et book club, à destination des usagers de tous niveaux, débutant à confirmé",
    "debut": "2026-09-17T00:00:00+00:00",
@@ -10717,59 +10805,30 @@
   },
   {
    "id": "paris-None",
-   "titre": "Prisonnières - Les dernières années de la prison Saint-Lazare (1919-1932)",
-   "resume": "Exposition du 17 septembre au 13 décembre 2026",
-   "debut": "2026-09-17T00:00:00+00:00",
-   "fin": "2026-12-13T23:59:59+00:00",
-   "quand": "Du jeudi 17 septembre 2026 au dimanche 13 décembre 2026 :",
-   "lieu": "Médiathèque Françoise Sagan",
-   "adresse": "8 rue Léon Schwartzenberg 75010 Paris",
+   "titre": "La Grille",
+   "resume": "Paris 2058. Dans un métro futuriste où des communautés de mendiants font la manche, une poignée d’entre eux concourent dans un jeu télévisé étatique : La Grille. Quelle ligne de métro en sortira gagnante ?",
+   "debut": "2026-09-17T20:30:00+00:00",
+   "fin": "2026-10-15T21:40:00+00:00",
+   "quand": "Du jeudi 17 septembre 2026 au jeudi 15 octobre 2026 : jeudi de 19h30 à 20h40",
+   "lieu": "Théâtre Clavel",
+   "adresse": "3 rue clavel 75019 Paris",
    "coords": [
-    48.8754299929717,
-    2.35366699395405
+    48.8743659941826,
+    2.38512997626566
    ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
+   "gratuit": false,
+   "prixDes": 13.0,
+   "prixTexte": "Tarif plein : 17 euros Tarif réduit : 13 euros",
    "reservation": false,
    "meteo": "dedans",
-   "energie": "basse",
-   "profils": [
-    "date"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/prisonnieres-les-dernieres-annees-de-la-prison-saint-lazare-1919-1932-113922",
-   "image": "https://cdn.paris.fr/qfapv4/2026/06/13/huge-25df6188b79ca618322237994b18c91b.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "La Goutte d'or s'arrache au bitume : festival des jardins partagés",
-   "resume": "La Goutte d’Or s’arrache au bitume Festival des jardins partagés est un événement de l'automne 2026 à ne pas rater à la Goutte d'or, programmé par un collectif d'associations, en partenariat avec l'université Paris Nanterre, la bibliothèque Goutte d'or et l'Institut des Cultures d'islam.",
-   "debut": "2026-09-17T00:00:00+00:00",
-   "fin": "2026-10-10T23:59:59+00:00",
-   "quand": "Du jeudi 17 septembre 2026 au samedi 10 octobre 2026 :",
-   "lieu": null,
-   "adresse": "75018",
-   "coords": [
-    48.8853758767709,
-    2.35476493835449
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "indifferent",
    "energie": "haute",
    "profils": [
-    "date",
+    "solo",
     "copains"
    ],
    "finitTard": false,
-   "url": "https://www.paris.fr/evenements/la-goutte-d-or-s-arrache-au-bitume-festival-des-jardins-partages-115026",
-   "image": "https://cdn.paris.fr/qfapv4/2026/07/14/huge-0f478d749aa1db1efc667c6572165a7a.jpg",
+   "url": "https://www.paris.fr/evenements/la-grille-124632",
+   "image": "https://cdn.paris.fr/qfapv4/2026/09/23/huge-193d08844b1c33786d85b3af64f525e8.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -10797,36 +10856,6 @@
    "finitTard": false,
    "url": "https://www.paris.fr/evenements/le-zinc-une-piece-de-theatre-improvisee-118402",
    "image": "https://cdn.paris.fr/qfapv4/2026/09/01/huge-2d9565b4246c571f90ebe16e20197fc6.png",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "La Grille",
-   "resume": "Paris 2058. Dans un métro futuriste où des communautés de mendiants font la manche, une poignée d’entre eux concourent dans un jeu télévisé étatique : La Grille. Quelle ligne de métro en sortira gagnante ?",
-   "debut": "2026-09-17T20:30:00+00:00",
-   "fin": "2026-10-15T21:40:00+00:00",
-   "quand": "Du jeudi 17 septembre 2026 au jeudi 15 octobre 2026 : jeudi de 19h30 à 20h40",
-   "lieu": "Théâtre Clavel",
-   "adresse": "3 rue clavel 75019 Paris",
-   "coords": [
-    48.8743659941826,
-    2.38512997626566
-   ],
-   "gratuit": false,
-   "prixDes": 13.0,
-   "prixTexte": "Tarif plein : 17 euros Tarif réduit : 13 euros",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "haute",
-   "profils": [
-    "solo",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/la-grille-124632",
-   "image": "https://cdn.paris.fr/qfapv4/2026/09/23/huge-193d08844b1c33786d85b3af64f525e8.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -10920,35 +10949,6 @@
   },
   {
    "id": "paris-None",
-   "titre": "Kerry James Marshall. The Histories",
-   "resume": "Le Musée d’Art Moderne de Paris présente du 18 septembre 2026 au 24 janvier 2027 la première exposition en France consacrée à l’artiste américain Kerry James Marshall (né en 1955 à Birmingham, Alabama, États-Unis).",
-   "debut": "2026-09-18T11:00:00+00:00",
-   "fin": "2027-01-24T18:00:00+00:00",
-   "quand": "Du vendredi 18 septembre 2026 au dimanche 24 janvier 2027 : jeudi de 10h00 à 21h30 mardi, mercredi, vendredi, samedi, dimanche de 10h00 à 18h00",
-   "lieu": "Musée d'Art Moderne de Paris",
-   "adresse": "11, avenue du Président Wilson 75016 Paris",
-   "coords": [
-    48.864641,
-    2.297008
-   ],
-   "gratuit": false,
-   "prixDes": 17.0,
-   "prixTexte": "De 0 à 17 euros.",
-   "reservation": true,
-   "meteo": "dedans",
-   "energie": "basse",
-   "profils": [
-    "date"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/kerry-james-marshall-the-histories-117747",
-   "image": "https://cdn.paris.fr/qfapv4/2026/08/18/huge-0d6e2afcb827e6cc7ccca4e4b7fa2dc7.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
    "titre": "Simone Fattal. Des villes au fond d’un lac",
    "resume": "À l’automne 2026, le Musée d’Art Moderne de Paris dédie une importante exposition à Simone Fattal, artiste libano-étatsunienne née en 1942 à Damas et installée à Paris depuis de nombreuses années.",
    "debut": "2026-09-18T11:00:00+00:00",
@@ -10972,6 +10972,35 @@
    "finitTard": false,
    "url": "https://www.paris.fr/evenements/simone-fattal-des-villes-au-fond-d-un-lac-117749",
    "image": "https://cdn.paris.fr/qfapv4/2026/08/18/huge-00e7f9ccb670b6f1c546fa46404f986e.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Kerry James Marshall. The Histories",
+   "resume": "Le Musée d’Art Moderne de Paris présente du 18 septembre 2026 au 24 janvier 2027 la première exposition en France consacrée à l’artiste américain Kerry James Marshall (né en 1955 à Birmingham, Alabama, États-Unis).",
+   "debut": "2026-09-18T11:00:00+00:00",
+   "fin": "2027-01-24T18:00:00+00:00",
+   "quand": "Du vendredi 18 septembre 2026 au dimanche 24 janvier 2027 : jeudi de 10h00 à 21h30 mardi, mercredi, vendredi, samedi, dimanche de 10h00 à 18h00",
+   "lieu": "Musée d'Art Moderne de Paris",
+   "adresse": "11, avenue du Président Wilson 75016 Paris",
+   "coords": [
+    48.864641,
+    2.297008
+   ],
+   "gratuit": false,
+   "prixDes": 17.0,
+   "prixTexte": "De 0 à 17 euros.",
+   "reservation": true,
+   "meteo": "dedans",
+   "energie": "basse",
+   "profils": [
+    "date"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/kerry-james-marshall-the-histories-117747",
+   "image": "https://cdn.paris.fr/qfapv4/2026/08/18/huge-0d6e2afcb827e6cc7ccca4e4b7fa2dc7.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -11246,36 +11275,6 @@
   },
   {
    "id": "paris-None",
-   "titre": "Quinzaine de l'Accessibilité et de l'Inclusion : le programme 2026",
-   "resume": "Du 19 septembre au 4 octobre 2026, Paris accueille la première édition de la Quinzaine de l'accessibilité et de l'inclusion. Pendant plus de deux semaines, des événements festifs, culturels, sportifs et citoyens inviteront les Parisiennes et les Parisiens à découvrir les enjeux de l'accessibilité, à rencontrer celles et ceux qui agissent au quotidien pour une société plus inclusive et à porter un regard nouveau sur le handicap.",
-   "debut": "2026-09-19T00:00:00+00:00",
-   "fin": "2026-10-04T23:59:59+00:00",
-   "quand": "Du samedi 19 septembre 2026 au dimanche 04 octobre 2026 :",
-   "lieu": null,
-   "adresse": "",
-   "coords": [
-    48.856578,
-    2.351828
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "Consultez la fiche de chaque événement pour connaître les modalités.",
-   "reservation": false,
-   "meteo": "indifferent",
-   "energie": "moyenne",
-   "profils": [
-    "solo",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/le-programme-2026-de-la-quinzaine-de-l-accessibilite-et-de-l-inclusion-117412",
-   "image": "https://cdn.paris.fr/qfapv4/2026/08/18/huge-33d0c03a2db5b3fcf630cfb50449c5ee.png",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
    "titre": "Exposition : Monika Emmanuelle Kazi au Centre culturel suisse",
    "resume": "Les lieux que nous habitons continuent souvent de nous habiter. La pratique de Monika Emmanuelle Kazi fait revivre des espaces domestiques et des souvenirs familiaux nourris par une expérience diasporique entre Pointe-Noire en République du Congo, où elle a grandi, et Paris.",
    "debut": "2026-09-19T00:00:00+00:00",
@@ -11299,35 +11298,6 @@
    "finitTard": false,
    "url": "https://www.paris.fr/evenements/exposition-monika-emmanuelle-kazi-au-centre-culturel-suisse-116278",
    "image": "https://cdn.paris.fr/qfapv4/2026/07/15/huge-4e3f18442b8133b360f493da5ca3061d.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "Exposition les imprimés du cinéma - Vidocq, Fantômas, James Bond et autres univers transmédiatiques",
-   "resume": "La BiLiPo expose une partie de ses collections autour des imprimés du cinéma : affiches, ciné-romans, fascicules…",
-   "debut": "2026-09-19T00:00:00+00:00",
-   "fin": "2026-12-19T23:59:59+00:00",
-   "quand": "Du samedi 19 septembre 2026 au samedi 19 décembre 2026 :",
-   "lieu": "Bibliothèque des littératures policières (BiLiPo)",
-   "adresse": "48 rue Cardinal Lemoine 75005 Paris",
-   "coords": [
-    48.846742,
-    2.351089
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "basse",
-   "profils": [
-    "date"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/exposition-les-imprimes-du-cinema-vidocq-fantomas-james-bond-et-autres-univers-transmediatiques-114754",
-   "image": "https://cdn.paris.fr/qfapv4/2026/06/20/huge-a65a4e74b75fa0c8a4990929dadd2b70.png",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -11363,46 +11333,16 @@
   },
   {
    "id": "paris-None",
-   "titre": "Soirées jeux - bibliothèques du 5e et 6e arrondissement",
-   "resume": "Retrouvez toutes les soirées jeux des bibliothèques du 5e et 6e arrondissement, de septembre 2026 à janvier 2027 !",
+   "titre": "Exposition les imprimés du cinéma - Vidocq, Fantômas, James Bond et autres univers transmédiatiques",
+   "resume": "La BiLiPo expose une partie de ses collections autour des imprimés du cinéma : affiches, ciné-romans, fascicules…",
    "debut": "2026-09-19T00:00:00+00:00",
-   "fin": "2027-01-30T23:59:59+00:00",
-   "quand": "Du samedi 19 septembre 2026 au samedi 30 janvier 2027 :",
-   "lieu": "Bibliothèque L'Heure joyeuse",
-   "adresse": "6-12 rue des Prêtres Saint-Séverin 75005 Paris",
+   "fin": "2026-12-19T23:59:59+00:00",
+   "quand": "Du samedi 19 septembre 2026 au samedi 19 décembre 2026 :",
+   "lieu": "Bibliothèque des littératures policières (BiLiPo)",
+   "adresse": "48 rue Cardinal Lemoine 75005 Paris",
    "coords": [
-    48.851833,
-    2.34494
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "haute",
-   "profils": [
-    "solo",
-    "copains"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/soirees-jeux-bibliotheques-du-5e-et-6e-arrondissement-114561",
-   "image": "https://cdn.paris.fr/qfapv4/2025/08/19/huge-a77416d803dfcc6d66de0c8d8f4920b7.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
-   "titre": "La Palestine photographiée par Joss Dray",
-   "resume": "Exposé à la bibliothèque de l'IMA, un témoignage précieux de la vie quotidienne palestinienne, de ses visages, de ses lieux et de sa mémoire, à travers un reportage photos réalisé il y a vingt-cinq ans et encore jamais montré au public.",
-   "debut": "2026-09-19T00:00:00+00:00",
-   "fin": "2026-11-01T23:59:59+00:00",
-   "quand": "Du samedi 19 septembre 2026 au dimanche 01 novembre 2026 :",
-   "lieu": "L'Institut du Monde Arabe",
-   "adresse": "1 rue des Fossés-Saint-Bernard 75005 Paris France",
-   "coords": [
-    48.856578,
-    2.351828
+    48.846742,
+    2.351089
    ],
    "gratuit": true,
    "prixDes": 0.0,
@@ -11414,8 +11354,8 @@
     "date"
    ],
    "finitTard": false,
-   "url": "https://www.paris.fr/evenements/la-palestine-photographiee-par-joss-dray-117996",
-   "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-e1c5b883f31b07ce78fc3fba2f56b19b.jpg",
+   "url": "https://www.paris.fr/evenements/exposition-les-imprimes-du-cinema-vidocq-fantomas-james-bond-et-autres-univers-transmediatiques-114754",
+   "image": "https://cdn.paris.fr/qfapv4/2026/06/20/huge-a65a4e74b75fa0c8a4990929dadd2b70.png",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -11452,13 +11392,13 @@
   },
   {
    "id": "paris-None",
-   "titre": "Ateliers éducatifs gratuits pour les jeunes",
-   "resume": "Ateliers de méthodologie gratuits le week-end.",
+   "titre": "La Palestine photographiée par Joss Dray",
+   "resume": "Exposé à la bibliothèque de l'IMA, un témoignage précieux de la vie quotidienne palestinienne, de ses visages, de ses lieux et de sa mémoire, à travers un reportage photos réalisé il y a vingt-cinq ans et encore jamais montré au public.",
    "debut": "2026-09-19T00:00:00+00:00",
-   "fin": "2026-10-11T23:59:59+00:00",
-   "quand": "Du samedi 19 septembre 2026 au dimanche 11 octobre 2026 :",
-   "lieu": null,
-   "adresse": "",
+   "fin": "2026-11-01T23:59:59+00:00",
+   "quand": "Du samedi 19 septembre 2026 au dimanche 01 novembre 2026 :",
+   "lieu": "L'Institut du Monde Arabe",
+   "adresse": "1 rue des Fossés-Saint-Bernard 75005 Paris France",
    "coords": [
     48.856578,
     2.351828
@@ -11466,16 +11406,45 @@
    "gratuit": true,
    "prixDes": 0.0,
    "prixTexte": "gratuit",
-   "reservation": true,
+   "reservation": false,
    "meteo": "dedans",
    "energie": "basse",
+   "profils": [
+    "date"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/la-palestine-photographiee-par-joss-dray-117996",
+   "image": "https://cdn.paris.fr/qfapv4/2026/08/25/huge-e1c5b883f31b07ce78fc3fba2f56b19b.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Soirées jeux - bibliothèques du 5e et 6e arrondissement",
+   "resume": "Retrouvez toutes les soirées jeux des bibliothèques du 5e et 6e arrondissement, de septembre 2026 à janvier 2027 !",
+   "debut": "2026-09-19T00:00:00+00:00",
+   "fin": "2027-01-30T23:59:59+00:00",
+   "quand": "Du samedi 19 septembre 2026 au samedi 30 janvier 2027 :",
+   "lieu": "Bibliothèque L'Heure joyeuse",
+   "adresse": "6-12 rue des Prêtres Saint-Séverin 75005 Paris",
+   "coords": [
+    48.851833,
+    2.34494
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "haute",
    "profils": [
     "solo",
     "copains"
    ],
    "finitTard": false,
-   "url": "https://www.paris.fr/evenements/ateliers-educatifs-gratuits-pour-les-jeunes-116254",
-   "image": "https://cdn.paris.fr/qfapv4/2026/07/13/huge-790b9c75ac137a85735c4c4f0a3179c5.jpg",
+   "url": "https://www.paris.fr/evenements/soirees-jeux-bibliotheques-du-5e-et-6e-arrondissement-114561",
+   "image": "https://cdn.paris.fr/qfapv4/2025/08/19/huge-a77416d803dfcc6d66de0c8d8f4920b7.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -11506,6 +11475,36 @@
    "finitTard": false,
    "url": "https://www.paris.fr/evenements/les-evenements-du-conservatoire-claude-debussy-124509",
    "image": "https://cdn.paris.fr/qfapv4/2026/09/21/huge-0d6ea23d5cee6ad63161d260b0f0c77e.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Ateliers éducatifs gratuits pour les jeunes",
+   "resume": "Ateliers de méthodologie gratuits le week-end.",
+   "debut": "2026-09-19T00:00:00+00:00",
+   "fin": "2026-10-11T23:59:59+00:00",
+   "quand": "Du samedi 19 septembre 2026 au dimanche 11 octobre 2026 :",
+   "lieu": null,
+   "adresse": "",
+   "coords": [
+    48.856578,
+    2.351828
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": true,
+   "meteo": "dedans",
+   "energie": "basse",
+   "profils": [
+    "solo",
+    "copains"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/ateliers-educatifs-gratuits-pour-les-jeunes-116254",
+   "image": "https://cdn.paris.fr/qfapv4/2026/07/13/huge-790b9c75ac137a85735c4c4f0a3179c5.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -11689,35 +11688,6 @@
   },
   {
    "id": "paris-None",
-   "titre": "Klodin Erb : première exposition personnelle en France",
-   "resume": "Explorant les émotions, les fantasmes et les grandes questions qui traversent nos existences, Klodin Erb présente sa première exposition personnelle en France. Nourrie par l’histoire de l’art, le théâtre, la mode ou la culture populaire, son oeuvre interroge nos désirs, nos inquiétudes et nos façons d’habiter le monde.",
-   "debut": "2026-09-19T13:00:00+00:00",
-   "fin": "2026-12-24T19:00:00+00:00",
-   "quand": "Du samedi 19 septembre 2026 au jeudi 24 décembre 2026 : samedi, dimanche de 12h00 à 19h00 mardi, mercredi, jeudi, vendredi, dimanche de 14h00 à 19h00",
-   "lieu": "Centre culturel suisse Paris",
-   "adresse": "32 rue des Francs-Bourgeois 75003 Paris",
-   "coords": [
-    48.8582709798861,
-    2.35969903057426
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "haute",
-   "profils": [
-    "date"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/klodin-erb-premiere-exposition-personnelle-en-france-116280",
-   "image": "https://cdn.paris.fr/qfapv4/2026/07/15/huge-41172293ff748f95b818c775a96a189b.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
    "titre": "Plus beaux livres suisses 2025",
    "resume": "Les 17 distinctions de l’année d’édition 2025 sélectionnée par l'Office fédéral de la culture seront exposées à la librairie du Centre culturel suisse !",
    "debut": "2026-09-19T13:00:00+00:00",
@@ -11741,6 +11711,35 @@
    "finitTard": false,
    "url": "https://www.paris.fr/evenements/plus-beaux-livres-suisses-2025-116279",
    "image": "https://cdn.paris.fr/qfapv4/2026/07/15/huge-3b90eeaa3a65444494b5f2372ea5ffa0.jpeg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Klodin Erb : première exposition personnelle en France",
+   "resume": "Explorant les émotions, les fantasmes et les grandes questions qui traversent nos existences, Klodin Erb présente sa première exposition personnelle en France. Nourrie par l’histoire de l’art, le théâtre, la mode ou la culture populaire, son oeuvre interroge nos désirs, nos inquiétudes et nos façons d’habiter le monde.",
+   "debut": "2026-09-19T13:00:00+00:00",
+   "fin": "2026-12-24T19:00:00+00:00",
+   "quand": "Du samedi 19 septembre 2026 au jeudi 24 décembre 2026 : samedi, dimanche de 12h00 à 19h00 mardi, mercredi, jeudi, vendredi, dimanche de 14h00 à 19h00",
+   "lieu": "Centre culturel suisse Paris",
+   "adresse": "32 rue des Francs-Bourgeois 75003 Paris",
+   "coords": [
+    48.8582709798861,
+    2.35969903057426
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "haute",
+   "profils": [
+    "date"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/klodin-erb-premiere-exposition-personnelle-en-france-116280",
+   "image": "https://cdn.paris.fr/qfapv4/2026/07/15/huge-41172293ff748f95b818c775a96a189b.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
@@ -11924,6 +11923,35 @@
   },
   {
    "id": "paris-None",
+   "titre": "Découvrez l'expo photo « Nature sauvage à Paris »",
+   "resume": "La biodiversité parisienne se dévoile au Square du Clos Feuquières à travers ces photos prises par les Parisiennes et Parisiens.",
+   "debut": "2026-09-20T00:00:00+00:00",
+   "fin": "2026-11-30T23:59:59+00:00",
+   "quand": "Du dimanche 20 septembre 2026 au lundi 30 novembre 2026 :",
+   "lieu": "Square du Clos Feuquières",
+   "adresse": "30 rue Desnouettes 75015 Paris",
+   "coords": [
+    48.836091,
+    2.290522
+   ],
+   "gratuit": true,
+   "prixDes": 0.0,
+   "prixTexte": "gratuit",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "basse",
+   "profils": [
+    "date"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/expo-photo-nature-sauvage-a-paris-87076",
+   "image": "https://cdn.paris.fr/qfapv4/2025/06/06/huge-979f42911a7d4a9306f60017aa9a4923.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
    "titre": "Zoot « late » sessions - Heritage jazz, late show et jam session au 38Riv Jazz Club",
    "resume": "Le Zoot Collectif puise dans le swing, le bebop, le hard bop, le cool jazz… toutes les grandes esthétiques du jazz d’hier, revisitées avec l’énergie d’aujourd’hui.",
    "debut": "2026-09-20T00:00:00+00:00",
@@ -11954,35 +11982,6 @@
   },
   {
    "id": "paris-None",
-   "titre": "Découvrez l'expo photo « Nature sauvage à Paris »",
-   "resume": "La biodiversité parisienne se dévoile au Square du Clos Feuquières à travers ces photos prises par les Parisiennes et Parisiens.",
-   "debut": "2026-09-20T00:00:00+00:00",
-   "fin": "2026-11-30T23:59:59+00:00",
-   "quand": "Du dimanche 20 septembre 2026 au lundi 30 novembre 2026 :",
-   "lieu": "Square du Clos Feuquières",
-   "adresse": "30 rue Desnouettes 75015 Paris",
-   "coords": [
-    48.836091,
-    2.290522
-   ],
-   "gratuit": true,
-   "prixDes": 0.0,
-   "prixTexte": "gratuit",
-   "reservation": false,
-   "meteo": "dedans",
-   "energie": "basse",
-   "profils": [
-    "date"
-   ],
-   "finitTard": false,
-   "url": "https://www.paris.fr/evenements/expo-photo-nature-sauvage-a-paris-87076",
-   "image": "https://cdn.paris.fr/qfapv4/2025/06/06/huge-979f42911a7d4a9306f60017aa9a4923.jpg",
-   "source": "Que Faire à Paris",
-   "zone": "paris",
-   "enCours": true
-  },
-  {
-   "id": "paris-None",
    "titre": "Le Paris de la luxure - visite guidée",
    "resume": "Paris, capitale de l’Amour… et du plaisir ! En suivant Laurine dans les rues du 2e arrondissement, vous revivrez l’histoire des célèbres maisons closes et partirez à la rencontre des cocottes parisiennes.",
    "debut": "2026-09-20T11:30:00+00:00",
@@ -12007,6 +12006,95 @@
    "finitTard": false,
    "url": "https://www.paris.fr/evenements/le-paris-de-la-luxure-visite-guidee-108926",
    "image": "https://cdn.paris.fr/qfapv4/2026/03/30/huge-990bfb171a9d799f8357b7cee37a3d55.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Visite guidée : Pigalle, ou l'envers inverti de Paris",
+   "resume": "Visite guidée sur les bars et cabarets homosexuels de Pigalle (1890-1950).",
+   "debut": "2026-09-20T15:00:00+00:00",
+   "fin": "2026-11-15T16:00:00+00:00",
+   "quand": "Le dimanche 15 novembre 2026 de 14h00 à 16h00 Le samedi 24 octobre 2026 de 14h00 à 16h00",
+   "lieu": null,
+   "adresse": "75009",
+   "coords": [
+    48.8835803636869,
+    2.33213782310486
+   ],
+   "gratuit": false,
+   "prixDes": 18.0,
+   "prixTexte": "18 €",
+   "reservation": true,
+   "meteo": "dedans",
+   "energie": "basse",
+   "profils": [
+    "solo",
+    "date"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/visite-guidee-pigalle-ou-l-envers-inverti-de-paris-123844",
+   "image": "https://cdn.paris.fr/qfapv4/2026/09/14/huge-61932635a2b398831f7e3c4a328d996a.png",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Les femmes célèbres du Père Lachaise - visite guidée",
+   "resume": "Véritable havre de paix au cœur de l’agitation parisienne, le cimetière le plus visité du monde est surtout connu pour abriter les sépultures de personnalités masculines (Oscar Wilde, Chopin, Molière…).",
+   "debut": "2026-09-20T15:30:00+00:00",
+   "fin": "2026-11-01T16:30:00+00:00",
+   "quand": "Le dimanche 01 novembre 2026 de 14h30 à 16h30",
+   "lieu": null,
+   "adresse": "",
+   "coords": [
+    48.860557511271,
+    2.38851593706753
+   ],
+   "gratuit": false,
+   "prixDes": 18.0,
+   "prixTexte": "18€/pers",
+   "reservation": true,
+   "meteo": "indifferent",
+   "energie": "haute",
+   "profils": [
+    "solo",
+    "date"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/les-femmes-celebres-du-pere-lachaise-visite-guidee-25847",
+   "image": "https://cdn.paris.fr/qfapv4/2022/09/06/huge-715d9f27107bb8cc16c7b845b1e5f8cc.jpg",
+   "source": "Que Faire à Paris",
+   "zone": "paris",
+   "enCours": true
+  },
+  {
+   "id": "paris-None",
+   "titre": "Spectacle - Je ne veux pas la faire - Vian, Prévert, Perec",
+   "resume": "Textes (et chansons) de Boris Vian , Jacques Prévert, Georges Perec (entre autres), interprétés par Florent Aumaître et mis en scène par Arnaud Schmitt. Tous les dimanches à 15h à la Comédie des 3 Bornes jusqu'au 24 janvier 2027 (sauf relâches les 4/10, 27/12, 3/01).",
+   "debut": "2026-09-20T16:00:00+00:00",
+   "fin": "2027-01-24T16:00:00+00:00",
+   "quand": "Le dimanche 24 janvier 2027 de 15h00 à 16h00 Le dimanche 17 janvier 2027 de 15h00 à 16h00 Le dimanche 10 janvier 2027 de 15h00 à 16h00 Le dimanche 20 décembre 2",
+   "lieu": "Comédie des 3 Bornes",
+   "adresse": "32 rue des Trois Bornes 75011 Paris",
+   "coords": [
+    48.8675139978842,
+    2.37547201215079
+   ],
+   "gratuit": false,
+   "prixDes": null,
+   "prixTexte": "payant",
+   "reservation": false,
+   "meteo": "dedans",
+   "energie": "moyenne",
+   "profils": [
+    "date"
+   ],
+   "finitTard": false,
+   "url": "https://www.paris.fr/evenements/spectacle-je-ne-veux-pas-la-faire-vian-prevert-perec-108249",
+   "image": "https://cdn.paris.fr/qfapv4/2026/03/19/huge-5041a55bfa7ddf2f44bb63186ab00cf1.jpg",
    "source": "Que Faire à Paris",
    "zone": "paris",
    "enCours": true
